@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="stylesheets/core.css" media="screen">
     <link rel="stylesheet" href="stylesheets/mobile.css" media="handheld, only screen and (max-device-width:640px)">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <link rel="stylesheet" href="stylesheets/mystyle.css">
 
     <script type="text/javascript" src="javascripts/modernizr.js"></script>
     <script type="text/javascript" src="static/jquery.min.js"></script>
@@ -59,9 +60,9 @@
           <a id="Learning..." class="anchor" href="#Learning..." aria-hidden="true"><span class="octicon octicon-link"></span></a>Learning&Practicing ...
         </h3>
 
-        <p>Python(beautifulsoup,opencv,lucene,tkinter)</p>
+        <p>Python(beautifulsoup,lucene,opencv,tkinter)</p>
         <p>C++(OpenGL),Android(OpenGL ES)</p>
-        <p>Web(Jquery,Flask)</p>
+        <p>Web(Flask)</p>
         <p>LabView</p>
         <p>--------------------------------------------------------------</p>
         <p>PS,PR&AE(little)</p>
@@ -131,7 +132,8 @@
         <param name="flashvars" value="xml=flashdir/playlist.xml" /> 
         </object>
     </div>
-  <a href="#" id="top">^<br>top</a>
+  <a href="#" style="z-index:15;"id="top">^<br>top</a>
+  <div id="star"></div>
   </body>
 </html>
 
@@ -156,4 +158,36 @@ $(function(){
       });
 
     });
+
+var newbee = false;
+var H = 0;
+
+$(document).bind('mousemove', function(e) {
+    e.preventDefault();
+
+    var drawSize = 30;
+    var drawType = "✮";
+    var floatTypes = Array('floatOne', 'floatTwo', 'floatThree', 'floatFour', 'floatFive');
+    var floatType = floatTypes[Math.floor(Math.random() * floatTypes.length)];
+    var xPos = e.originalEvent.pageX;
+    var yPos = e.originalEvent.pageY;
+
+    $('#star').append('<div class="mouseDraw" style="position:absolute;z-index:10;font-size:' + drawSize + 'px;left:' + xPos + 'px;top:' + yPos + 'px;-webkit-animation:' + floatType + ' .9s 1;-moz-animation:' + floatType + ' .9s 1;-o-animation:' + floatType + ' .9s 1;animation:' + floatType + ' .9s 1;color:hsla(' + H + ',100%,70%,0.6)">' + drawType + '</div>');
+
+    $('.mouseDraw').each(function() {
+        var div = $(this);
+        setTimeout(function() {
+            $(div).remove();
+        }, 800);
+    });
+    
+});
+setInterval(function() {
+    if (H <= 360) {
+        H++;
+    } else {
+        H = 0;
+    }
+}, 10);
+
 </script>
