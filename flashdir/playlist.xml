@@ -33,6 +33,43 @@
         </track>
 
         <track>
+          <location>flashdir/mp3/残酷月光.mp3</location>
+          <creator>Bedrich Smetana</creator>
+          <album>Má Vlast</album>
+          <title>残酷月光</title>
+          <annotation>I love this song</annotation>
+          <duration>32000</duration>
+          <image>covers/smetana.jpg</image>
+          <info></info>
+          <link>http://fr.wikipedia.org/wiki/M%C3%A1_Vlast_(Smetana)</link>
+        </track>
+
+        <track>
+          <location>flashdir/mp3/天使的翅膀.mp3</location>
+          <creator>Bedrich Smetana</creator>
+          <album>Má Vlast</album>
+          <title>天使的翅膀</title>
+          <annotation>I love this song</annotation>
+          <duration>32000</duration>
+          <image>covers/smetana.jpg</image>
+          <info></info>
+          <link>http://fr.wikipedia.org/wiki/M%C3%A1_Vlast_(Smetana)</link>
+        </track>
+
+        <track>
+          <location>flashdir/mp3/梦一场.mp3</location>
+          <creator>Bedrich Smetana</creator>
+          <album>Má Vlast</album>
+          <title>梦一场</title>
+          <annotation>I love this song</annotation>
+          <duration>32000</duration>
+          <image>covers/smetana.jpg</image>
+          <info></info>
+          <link>http://fr.wikipedia.org/wiki/M%C3%A1_Vlast_(Smetana)</link>
+        </track>
+
+
+        <track>
           <location>flashdir/mp3/1.mp3</location>
           <creator>Bedrich Smetana</creator>
           <album>Má Vlast</album>
@@ -56,28 +93,8 @@
           <link>http://fr.wikipedia.org/wiki/Cesaria_Evora</link>
         </track>
         
-        <track>
-          <location>flashdir/mp3/3.mp3</location>
-          <creator>Russian Red Army Choir</creator>
-          <album>Best Of</album>
-          <title>旋木</title>
-          <annotation></annotation>
-          <duration></duration>
-          <image>covers/redarmy.jpg</image>
-          <info></info>
-          <link>http://www.blup.fr/</link>
-        </track>
+
         
-        <track>
-          <location>flashdir/mp3/4.mp3</location>
-          <creator>Michelle Branch</creator>
-          <album>Everywhere</album>
-          <title>当我唱起这首歌</title>
-          <annotation></annotation>
-          <duration></duration>
-          <image>covers/everywhere.jpg</image>
-          <link>http://fr.wikipedia.org/wiki/Michelle_Branch</link>
-        </track>
         
          <track>
           <location>flashdir/mp3/5.mp3</location>
@@ -89,17 +106,7 @@
           <image>covers/everywhere.jpg</image>
           <link>http://fr.wikipedia.org/wiki/Michelle_Branch</link>
         </track>
-
-            <track>
-          <location>flashdir/mp3/6.mp3</location>
-          <creator>Michelle Branch</creator>
-          <album>Everywhere</album>
-          <title>等一分钟</title>
-          <annotation></annotation>
-          <duration></duration>
-          <image>covers/everywhere.jpg</image>
-          <link>http://fr.wikipedia.org/wiki/Michelle_Branch</link>
-        </track>      
+    
 
     </trackList>
 </playlist>
