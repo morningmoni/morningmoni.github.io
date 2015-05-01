@@ -21,7 +21,7 @@
         </track>
 
 	<track>
-          <location>flashdir/mp3/星空.mp3</location>
+          <location>flashdir/mp3/sky.mp3</location>
           <creator>Bedrich Smetana</creator>
           <album>Má Vlast</album>
           <title>星空</title>
@@ -33,7 +33,7 @@
         </track>
 
         <track>
-          <location>flashdir/mp3/残酷月光.mp3</location>
+          <location>flashdir/mp3/cold moonlight.mp3</location>
           <creator>Bedrich Smetana</creator>
           <album>Má Vlast</album>
           <title>残酷月光</title>
@@ -45,7 +45,7 @@
         </track>
 
         <track>
-          <location>flashdir/mp3/天使的翅膀.mp3</location>
+          <location>flashdir/mp3/wings of the angel.mp3</location>
           <creator>Bedrich Smetana</creator>
           <album>Má Vlast</album>
           <title>天使的翅膀</title>
@@ -57,7 +57,7 @@
         </track>
 
         <track>
-          <location>flashdir/mp3/梦一场.mp3</location>
+          <location>flashdir/mp3/just a dream.mp3</location>
           <creator>Bedrich Smetana</creator>
           <album>Má Vlast</album>
           <title>梦一场</title>
