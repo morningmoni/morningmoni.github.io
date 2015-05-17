@@ -1,6 +1,29 @@
 body {
   font-family:"brandon-grotesque", "Brandon Grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+a#top {
+    vertical-align: top;
+    padding: 10px;
+    display:block;  
+    color: white;
+    position:fixed;  
+    bottom:50px;  
+    right:40px; 
+    border-radius:10px 10px 10px 10px;   
+    text-decoration:none;  
+    text-align:center;
+    display:none;  
+    background-color:purple; 
+
+}
+a#top:before {
+    content: '^';
+}
+a#top:hover {
+    opacity: 1;
+    filter: alpha(opacity=100);
+    /* For IE8 and earlier */
+}
 @keyframes floatOne {
     0% {
         opacity: 1;
