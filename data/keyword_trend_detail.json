@@ -1,0 +1,722 @@
+[
+    {
+        "name": "Telecommunication traffic",
+        "count": 56,
+        "year": 2003,
+        "word": "Telecommunication_traffic"
+    },
+    {
+        "name": "Telecommunication traffic",
+        "count": 54,
+        "year": 2004,
+        "word": "Telecommunication_traffic"
+    },
+    {
+        "name": "Telecommunication traffic",
+        "count": 66,
+        "year": 2005,
+        "word": "Telecommunication_traffic"
+    },
+    {
+        "name": "Telecommunication traffic",
+        "count": 74,
+        "year": 2006,
+        "word": "Telecommunication_traffic"
+    },
+    {
+        "name": "Telecommunication traffic",
+        "count": 71,
+        "year": 2007,
+        "word": "Telecommunication_traffic"
+    },
+    {
+        "name": "Telecommunication traffic",
+        "count": 65,
+        "year": 2008,
+        "word": "Telecommunication_traffic"
+    },
+    {
+        "name": "Telecommunication traffic",
+        "count": 70,
+        "year": 2009,
+        "word": "Telecommunication_traffic"
+    },
+    {
+        "name": "Telecommunication traffic",
+        "count": 115,
+        "year": 2010,
+        "word": "Telecommunication_traffic"
+    },
+    {
+        "name": "Telecommunication traffic",
+        "count": 0,
+        "year": 2011,
+        "word": "Telecommunication_traffic"
+    },
+    {
+        "name": "Telecommunication traffic",
+        "count": 0,
+        "year": 2012,
+        "word": "Telecommunication_traffic"
+    },
+    {
+        "name": "Telecommunication traffic",
+        "count": 1,
+        "year": 2013,
+        "word": "Telecommunication_traffic"
+    },
+    {
+        "name": "Telecommunication traffic",
+        "count": 0,
+        "year": 2014,
+        "word": "Telecommunication_traffic"
+    },
+    {
+        "name": "Peer to peer computing",
+        "count": 18,
+        "year": 2003,
+        "word": "Peer_to_peer_computing"
+    },
+    {
+        "name": "Peer to peer computing",
+        "count": 20,
+        "year": 2004,
+        "word": "Peer_to_peer_computing"
+    },
+    {
+        "name": "Peer to peer computing",
+        "count": 28,
+        "year": 2005,
+        "word": "Peer_to_peer_computing"
+    },
+    {
+        "name": "Peer to peer computing",
+        "count": 51,
+        "year": 2006,
+        "word": "Peer_to_peer_computing"
+    },
+    {
+        "name": "Peer to peer computing",
+        "count": 99,
+        "year": 2007,
+        "word": "Peer_to_peer_computing"
+    },
+    {
+        "name": "Peer to peer computing",
+        "count": 101,
+        "year": 2008,
+        "word": "Peer_to_peer_computing"
+    },
+    {
+        "name": "Peer to peer computing",
+        "count": 109,
+        "year": 2009,
+        "word": "Peer_to_peer_computing"
+    },
+    {
+        "name": "Peer to peer computing",
+        "count": 140,
+        "year": 2010,
+        "word": "Peer_to_peer_computing"
+    },
+    {
+        "name": "Peer to peer computing",
+        "count": 29,
+        "year": 2011,
+        "word": "Peer_to_peer_computing"
+    },
+    {
+        "name": "Peer to peer computing",
+        "count": 22,
+        "year": 2012,
+        "word": "Peer_to_peer_computing"
+    },
+    {
+        "name": "Peer to peer computing",
+        "count": 0,
+        "year": 2013,
+        "word": "Peer_to_peer_computing"
+    },
+    {
+        "name": "Peer to peer computing",
+        "count": 0,
+        "year": 2014,
+        "word": "Peer_to_peer_computing"
+    },
+    {
+        "name": "Delay",
+        "count": 41,
+        "year": 2003,
+        "word": "Delay"
+    },
+    {
+        "name": "Delay",
+        "count": 48,
+        "year": 2004,
+        "word": "Delay"
+    },
+    {
+        "name": "Delay",
+        "count": 52,
+        "year": 2005,
+        "word": "Delay"
+    },
+    {
+        "name": "Delay",
+        "count": 62,
+        "year": 2006,
+        "word": "Delay"
+    },
+    {
+        "name": "Delay",
+        "count": 54,
+        "year": 2007,
+        "word": "Delay"
+    },
+    {
+        "name": "Delay",
+        "count": 56,
+        "year": 2008,
+        "word": "Delay"
+    },
+    {
+        "name": "Delay",
+        "count": 62,
+        "year": 2009,
+        "word": "Delay"
+    },
+    {
+        "name": "Delay",
+        "count": 76,
+        "year": 2010,
+        "word": "Delay"
+    },
+    {
+        "name": "Delay",
+        "count": 60,
+        "year": 2011,
+        "word": "Delay"
+    },
+    {
+        "name": "Delay",
+        "count": 65,
+        "year": 2012,
+        "word": "Delay"
+    },
+    {
+        "name": "Delay",
+        "count": 0,
+        "year": 2013,
+        "word": "Delay"
+    },
+    {
+        "name": "Delay",
+        "count": 0,
+        "year": 2014,
+        "word": "Delay"
+    },
+    {
+        "name": "Throughput",
+        "count": 38,
+        "year": 2003,
+        "word": "Throughput"
+    },
+    {
+        "name": "Throughput",
+        "count": 36,
+        "year": 2004,
+        "word": "Throughput"
+    },
+    {
+        "name": "Throughput",
+        "count": 44,
+        "year": 2005,
+        "word": "Throughput"
+    },
+    {
+        "name": "Throughput",
+        "count": 68,
+        "year": 2006,
+        "word": "Throughput"
+    },
+    {
+        "name": "Throughput",
+        "count": 70,
+        "year": 2007,
+        "word": "Throughput"
+    },
+    {
+        "name": "Throughput",
+        "count": 78,
+        "year": 2008,
+        "word": "Throughput"
+    },
+    {
+        "name": "Throughput",
+        "count": 65,
+        "year": 2009,
+        "word": "Throughput"
+    },
+    {
+        "name": "Throughput",
+        "count": 94,
+        "year": 2010,
+        "word": "Throughput"
+    },
+    {
+        "name": "Throughput",
+        "count": 54,
+        "year": 2011,
+        "word": "Throughput"
+    },
+    {
+        "name": "Throughput",
+        "count": 55,
+        "year": 2012,
+        "word": "Throughput"
+    },
+    {
+        "name": "Throughput",
+        "count": 52,
+        "year": 2013,
+        "word": "Throughput"
+    },
+    {
+        "name": "Throughput",
+        "count": 44,
+        "year": 2014,
+        "word": "Throughput"
+    },
+    {
+        "name": "Wireless networks",
+        "count": 24,
+        "year": 2003,
+        "word": "Wireless_networks"
+    },
+    {
+        "name": "Wireless networks",
+        "count": 44,
+        "year": 2004,
+        "word": "Wireless_networks"
+    },
+    {
+        "name": "Wireless networks",
+        "count": 41,
+        "year": 2005,
+        "word": "Wireless_networks"
+    },
+    {
+        "name": "Wireless networks",
+        "count": 49,
+        "year": 2006,
+        "word": "Wireless_networks"
+    },
+    {
+        "name": "Wireless networks",
+        "count": 67,
+        "year": 2007,
+        "word": "Wireless_networks"
+    },
+    {
+        "name": "Wireless networks",
+        "count": 71,
+        "year": 2008,
+        "word": "Wireless_networks"
+    },
+    {
+        "name": "Wireless networks",
+        "count": 64,
+        "year": 2009,
+        "word": "Wireless_networks"
+    },
+    {
+        "name": "Wireless networks",
+        "count": 88,
+        "year": 2010,
+        "word": "Wireless_networks"
+    },
+    {
+        "name": "Wireless networks",
+        "count": 37,
+        "year": 2011,
+        "word": "Wireless_networks"
+    },
+    {
+        "name": "Wireless networks",
+        "count": 34,
+        "year": 2012,
+        "word": "Wireless_networks"
+    },
+    {
+        "name": "Wireless networks",
+        "count": 29,
+        "year": 2013,
+        "word": "Wireless_networks"
+    },
+    {
+        "name": "Wireless networks",
+        "count": 13,
+        "year": 2014,
+        "word": "Wireless_networks"
+    },
+    {
+        "name": "Mobile communication",
+        "count": 5,
+        "year": 2003,
+        "word": "Mobile_communication"
+    },
+    {
+        "name": "Mobile communication",
+        "count": 8,
+        "year": 2004,
+        "word": "Mobile_communication"
+    },
+    {
+        "name": "Mobile communication",
+        "count": 9,
+        "year": 2005,
+        "word": "Mobile_communication"
+    },
+    {
+        "name": "Mobile communication",
+        "count": 9,
+        "year": 2006,
+        "word": "Mobile_communication"
+    },
+    {
+        "name": "Mobile communication",
+        "count": 9,
+        "year": 2007,
+        "word": "Mobile_communication"
+    },
+    {
+        "name": "Mobile communication",
+        "count": 4,
+        "year": 2008,
+        "word": "Mobile_communication"
+    },
+    {
+        "name": "Mobile communication",
+        "count": 8,
+        "year": 2009,
+        "word": "Mobile_communication"
+    },
+    {
+        "name": "Mobile communication",
+        "count": 17,
+        "year": 2010,
+        "word": "Mobile_communication"
+    },
+    {
+        "name": "Mobile communication",
+        "count": 26,
+        "year": 2011,
+        "word": "Mobile_communication"
+    },
+    {
+        "name": "Mobile communication",
+        "count": 27,
+        "year": 2012,
+        "word": "Mobile_communication"
+    },
+    {
+        "name": "Mobile communication",
+        "count": 39,
+        "year": 2013,
+        "word": "Mobile_communication"
+    },
+    {
+        "name": "Mobile communication",
+        "count": 33,
+        "year": 2014,
+        "word": "Mobile_communication"
+    },
+    {
+        "name": "Routing",
+        "count": 40,
+        "year": 2003,
+        "word": "Routing"
+    },
+    {
+        "name": "Routing",
+        "count": 43,
+        "year": 2004,
+        "word": "Routing"
+    },
+    {
+        "name": "Routing",
+        "count": 50,
+        "year": 2005,
+        "word": "Routing"
+    },
+    {
+        "name": "Routing",
+        "count": 47,
+        "year": 2006,
+        "word": "Routing"
+    },
+    {
+        "name": "Routing",
+        "count": 51,
+        "year": 2007,
+        "word": "Routing"
+    },
+    {
+        "name": "Routing",
+        "count": 54,
+        "year": 2008,
+        "word": "Routing"
+    },
+    {
+        "name": "Routing",
+        "count": 60,
+        "year": 2009,
+        "word": "Routing"
+    },
+    {
+        "name": "Routing",
+        "count": 85,
+        "year": 2010,
+        "word": "Routing"
+    },
+    {
+        "name": "Routing",
+        "count": 59,
+        "year": 2011,
+        "word": "Routing"
+    },
+    {
+        "name": "Routing",
+        "count": 45,
+        "year": 2012,
+        "word": "Routing"
+    },
+    {
+        "name": "Routing",
+        "count": 69,
+        "year": 2013,
+        "word": "Routing"
+    },
+    {
+        "name": "Routing",
+        "count": 27,
+        "year": 2014,
+        "word": "Routing"
+    },
+    {
+        "name": "Bandwidth",
+        "count": 54,
+        "year": 2003,
+        "word": "Bandwidth"
+    },
+    {
+        "name": "Bandwidth",
+        "count": 49,
+        "year": 2004,
+        "word": "Bandwidth"
+    },
+    {
+        "name": "Bandwidth",
+        "count": 53,
+        "year": 2005,
+        "word": "Bandwidth"
+    },
+    {
+        "name": "Bandwidth",
+        "count": 65,
+        "year": 2006,
+        "word": "Bandwidth"
+    },
+    {
+        "name": "Bandwidth",
+        "count": 58,
+        "year": 2007,
+        "word": "Bandwidth"
+    },
+    {
+        "name": "Bandwidth",
+        "count": 40,
+        "year": 2008,
+        "word": "Bandwidth"
+    },
+    {
+        "name": "Bandwidth",
+        "count": 47,
+        "year": 2009,
+        "word": "Bandwidth"
+    },
+    {
+        "name": "Bandwidth",
+        "count": 46,
+        "year": 2010,
+        "word": "Bandwidth"
+    },
+    {
+        "name": "Bandwidth",
+        "count": 26,
+        "year": 2011,
+        "word": "Bandwidth"
+    },
+    {
+        "name": "Bandwidth",
+        "count": 37,
+        "year": 2012,
+        "word": "Bandwidth"
+    },
+    {
+        "name": "Bandwidth",
+        "count": 41,
+        "year": 2013,
+        "word": "Bandwidth"
+    },
+    {
+        "name": "Bandwidth",
+        "count": 37,
+        "year": 2014,
+        "word": "Bandwidth"
+    },
+    {
+        "name": "Traffic control",
+        "count": 47,
+        "year": 2003,
+        "word": "Traffic_control"
+    },
+    {
+        "name": "Traffic control",
+        "count": 38,
+        "year": 2004,
+        "word": "Traffic_control"
+    },
+    {
+        "name": "Traffic control",
+        "count": 35,
+        "year": 2005,
+        "word": "Traffic_control"
+    },
+    {
+        "name": "Traffic control",
+        "count": 44,
+        "year": 2006,
+        "word": "Traffic_control"
+    },
+    {
+        "name": "Traffic control",
+        "count": 47,
+        "year": 2007,
+        "word": "Traffic_control"
+    },
+    {
+        "name": "Traffic control",
+        "count": 38,
+        "year": 2008,
+        "word": "Traffic_control"
+    },
+    {
+        "name": "Traffic control",
+        "count": 35,
+        "year": 2009,
+        "word": "Traffic_control"
+    },
+    {
+        "name": "Traffic control",
+        "count": 47,
+        "year": 2010,
+        "word": "Traffic_control"
+    },
+    {
+        "name": "Traffic control",
+        "count": 1,
+        "year": 2011,
+        "word": "Traffic_control"
+    },
+    {
+        "name": "Traffic control",
+        "count": 1,
+        "year": 2012,
+        "word": "Traffic_control"
+    },
+    {
+        "name": "Traffic control",
+        "count": 1,
+        "year": 2013,
+        "word": "Traffic_control"
+    },
+    {
+        "name": "Traffic control",
+        "count": 0,
+        "year": 2014,
+        "word": "Traffic_control"
+    },
+    {
+        "name": "Ad hoc networks",
+        "count": 25,
+        "year": 2003,
+        "word": "Ad_hoc_networks"
+    },
+    {
+        "name": "Ad hoc networks",
+        "count": 23,
+        "year": 2004,
+        "word": "Ad_hoc_networks"
+    },
+    {
+        "name": "Ad hoc networks",
+        "count": 24,
+        "year": 2005,
+        "word": "Ad_hoc_networks"
+    },
+    {
+        "name": "Ad hoc networks",
+        "count": 24,
+        "year": 2006,
+        "word": "Ad_hoc_networks"
+    },
+    {
+        "name": "Ad hoc networks",
+        "count": 18,
+        "year": 2007,
+        "word": "Ad_hoc_networks"
+    },
+    {
+        "name": "Ad hoc networks",
+        "count": 17,
+        "year": 2008,
+        "word": "Ad_hoc_networks"
+    },
+    {
+        "name": "Ad hoc networks",
+        "count": 19,
+        "year": 2009,
+        "word": "Ad_hoc_networks"
+    },
+    {
+        "name": "Ad hoc networks",
+        "count": 27,
+        "year": 2010,
+        "word": "Ad_hoc_networks"
+    },
+    {
+        "name": "Ad hoc networks",
+        "count": 16,
+        "year": 2011,
+        "word": "Ad_hoc_networks"
+    },
+    {
+        "name": "Ad hoc networks",
+        "count": 17,
+        "year": 2012,
+        "word": "Ad_hoc_networks"
+    },
+    {
+        "name": "Ad hoc networks",
+        "count": 9,
+        "year": 2013,
+        "word": "Ad_hoc_networks"
+    },
+    {
+        "name": "Ad hoc networks",
+        "count": 2,
+        "year": 2014,
+        "word": "Ad_hoc_networks"
+    }
+]

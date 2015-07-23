@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Telecommunication traffic",
+        "word": "Telecommunication_traffic"
+    },
+    {
+        "name": "Peer to peer computing",
+        "word": "Peer_to_peer_computing"
+    },
+    {
+        "name": "Delay",
+        "word": "Delay"
+    },
+    {
+        "name": "Throughput",
+        "word": "Throughput"
+    },
+    {
+        "name": "Wireless networks",
+        "word": "Wireless_networks"
+    },
+    {
+        "name": "Mobile communication",
+        "word": "Mobile_communication"
+    },
+    {
+        "name": "Routing",
+        "word": "Routing"
+    },
+    {
+        "name": "Bandwidth",
+        "word": "Bandwidth"
+    },
+    {
+        "name": "Traffic control",
+        "word": "Traffic_control"
+    },
+    {
+        "name": "Ad hoc networks",
+        "word": "Ad_hoc_networks"
+    }
+]
