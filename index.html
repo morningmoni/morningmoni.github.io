@@ -178,7 +178,10 @@ $(document).bind('mousemove', function(e) {
     var xPos = e.originalEvent.pageX;
     var yPos = e.originalEvent.pageY;
 
-    $('#star').append('<div class="mouseDraw" style="position:absolute;z-index:10;font-size:' + drawSize + 'px;left:' + xPos + 'px;top:' + yPos + 'px;-webkit-animation:' + floatType + ' .9s 1;-moz-animation:' + floatType + ' .9s 1;-o-animation:' + floatType + ' .9s 1;animation:' + floatType + ' .9s 1;color:hsla(' + H + ',100%,70%,0.6)">' + drawType + '</div>');
+    if (yPos<300)
+    {
+      $('#star').append('<div class="mouseDraw" style="position:absolute;z-index:10;font-size:' + drawSize + 'px;left:' + xPos + 'px;top:' + yPos + 'px;-webkit-animation:' + floatType + ' .9s 1;-moz-animation:' + floatType + ' .9s 1;-o-animation:' + floatType + ' .9s 1;animation:' + floatType + ' .9s 1;color:hsla(' + H + ',100%,70%,0.6)">' + drawType + '</div>');
+    }
 
     $('.mouseDraw').each(function() {
         var div = $(this);
