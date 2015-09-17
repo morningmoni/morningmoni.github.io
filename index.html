@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
 <!--     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'> -->
+    <link rel="stylesheet" type="text/css" href="stylesheets/linkstyles.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
 
@@ -20,7 +21,7 @@
   </head>
   <body>
     <section class="page-header">
-      <h1 class="project-name">~Morning~</h1>
+      <h1 class="project-name"><a class="link link--takiri" href="#">~Morning~ <span>Young for code</span></a></h1>
       <h2 class="project-tagline"></h2>
       <a href="https://github.com/morningmoni/" class="btn">Code</a>
       <a href="#" class="btn">Music</a>
@@ -33,7 +34,7 @@
           <a id="welcome-to-my-blog" class="anchor" href="#welcome-to-my-blog" aria-hidden="true"><span class="octicon octicon-link"></span></a>Welcome to my blog!
         </h3>
 
-        <p>Hey,guys!My name is morning,undergraduate in SJTU now.<br>
+        <p>Hey,guys!<br>My name is morning,an undergraduate in SJTU now.<br>
           There are some of my work below.You can see the codes on <a href="https://github.com/morningmoni" target="_blank">github</a>.But only a little up there:)</p>
 <!--         <p><a href="static/我的个人简历.doc" target="_blank">我的个人简历.doc</a></p>
         <p><a href="static/CV_of_Mao_Yuning.pdf" target="_blank">CV_of_Mao_Yuning.pdf</a></p> -->
@@ -47,9 +48,10 @@
           <h3>
             <a id="Learning..." class="anchor" href="#Learning..." aria-hidden="true"><span class="octicon octicon-link"></span></a>a lot in:
           </h3>
-          <p>Python(data process,crawler(urllib+beautifulsoup))</p>
+                 
+          <p>Python(data process,<a title="urllib+beautifulsoup">crawler</a>)</p>
           <p>C++(algorithm)</p>
-          <p>Web(flask,d3.js)</p>
+          <p>Web(<a title="a microframework of python">flask</a>,<a title="data visualization">d3.js</a>)</p>
         </li>
 
         <li>
@@ -57,7 +59,7 @@
             <a id="Learning..." class="anchor" href="#Learning..." aria-hidden="true"><span class="octicon octicon-link"></span></a>some in:
           </h3>
           <p>Python(lucene,opencv,tkinter)</p>
-          <p>OpenGL(C++ for desktop,Java for android)</p>
+          <p><a title="C++ for desktop,Java for android">OpenGL</a></p>
           <p>Matlab</p>
           <p>Android APP</p> 
           <p>LabView(Robotics)</p>
@@ -212,7 +214,7 @@ $(document).bind('mousemove', function(e) {
     var xPos = e.originalEvent.pageX;
     var yPos = e.originalEvent.pageY;
 
-    if (yPos<300)
+    if (yPos<320 && (xPos/document.body.clientWidth<0.35|| xPos/document.body.clientWidth>0.65 || yPos<60||yPos>240))
     {
       $('#star').append('<div class="mouseDraw" style="position:absolute;z-index:10;font-size:' + drawSize + 'px;left:' + xPos + 'px;top:' + yPos + 'px;-webkit-animation:' + floatType + ' .9s 1;-moz-animation:' + floatType + ' .9s 1;-o-animation:' + floatType + ' .9s 1;animation:' + floatType + ' .9s 1;color:hsla(' + H + ',100%,70%,0.6)">' + drawType + '</div>');
     }
