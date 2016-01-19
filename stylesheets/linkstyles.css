@@ -63,7 +63,7 @@
 /* Takiri */
 .link--takiri {
 	font-style: italic;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Calibri', serif;
 	font-weight: 700;
 	font-size: 70px;
 	padding: 0 10px 20px;
@@ -99,11 +99,11 @@
 }
 
 .link--takiri span {
-	font-size: 25%;
+	font-size: 45%;
 	font-weight: 800;
 	position: absolute;
 	right: 15px;
-	color: #e53369;
+	color: grey;
 	bottom: 0;
 	opacity: 0;
 	-webkit-transform: translate3d(-10px,-10px,0);

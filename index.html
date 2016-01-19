@@ -20,12 +20,28 @@
     <title>Blog of Morningmoni</title>
   </head>
   <body>
-    <section class="page-header">
-      <h1 class="project-name"><a class="link link--takiri" href="#">~Morning~ <span>Young for fight</span></a></h1>
-      <h2 class="project-tagline"></h2>
-      <a href="https://github.com/morningmoni/" class="btn">Code</a>
-      <a href="#" class="btn">Music</a>
-      <a href="#" class="btn">Game</a>
+
+    <!-- <section class="page-header"> -->
+  <section>
+    <div class="homepage-hero-module jumbotron" style="padding: 0px; margin-bottom: 0px; height: 643px;">
+    <div class="video-container">
+
+        <div class="title-container">
+            <div class="headline">
+                <h1 class="project-name" style="position:relative; top:240px; left:52%;">
+                  <a class="link link--takiri"  href="#" style="font-size:30px;">~Morning~ <span>Young for fight</span></a>
+                </h1>
+            </div>
+
+        </div>
+
+        <video autoplay="" loop="" class="fillWidth fadeIn animated" style="width: 1349px;">
+            <source src="static/video.mp4" type="video/mp4">Your browser does not support the video tag. I suggest you upgrade your browser.
+        </video>
+
+    </div>
+</div>
+
     </section>
 
 
@@ -170,7 +186,7 @@
 
     </section>
 
-      <div style="z-index:15;position:fixed;right:49px;bottom:300px;">
+      <div id = "song" style="z-index:15;position:fixed;right:49px;bottom:300px; display:none">
         <object type="application/x-shockwave-flash" data="flashdir/dewplayer-playlist.swf" width="240" height="200" id="dewplayerpls" name="dewplayerpls"> 
         <param name="movie" value="flashdir/dewplayer-playlist.swf" /> 
         <param name="flashvars" value="xml=flashdir/playlist.xml" /> 
@@ -188,8 +204,8 @@ $(function(){
 
     $(window).scroll(function(){ 
     var scrollt = document.documentElement.scrollTop + document.body.scrollTop; 
-    if( scrollt >200 ){  
-    $("#top").fadeIn(400);   
+    if( scrollt >400 ){  
+    $("#top").fadeIn(500);   
       }
     else{      
     $("#top").stop().fadeOut(400);   
@@ -205,9 +221,20 @@ $(function(){
 
     });
 
+$(function(){
+
+    $(window).scroll(function(){ 
+    var scrollt = document.documentElement.scrollTop + document.body.scrollTop; 
+    if( scrollt >500 )
+      $("#song").fadeIn(400);        
+    else    
+      $("#song").stop().fadeOut(400);   
+      
+    });
+
+  });
 
 var H = 0;
-
 $(document).bind('mousemove', function(e) {
     e.preventDefault();
 
@@ -218,7 +245,7 @@ $(document).bind('mousemove', function(e) {
     var xPos = e.originalEvent.pageX;
     var yPos = e.originalEvent.pageY;
 
-    if (yPos<320 && (xPos/document.body.clientWidth<0.35|| xPos/document.body.clientWidth>0.65 || yPos<60||yPos>240))
+    if (yPos < 600 && (xPos/document.body.clientWidth<0.45|| xPos/document.body.clientWidth>0.65 || yPos<60||yPos>440))
     {
       $('#star').append('<div class="mouseDraw" style="position:absolute;z-index:10;font-size:' + drawSize + 'px;left:' + xPos + 'px;top:' + yPos + 'px;-webkit-animation:' + floatType + ' .9s 1;-moz-animation:' + floatType + ' .9s 1;-o-animation:' + floatType + ' .9s 1;animation:' + floatType + ' .9s 1;color:hsla(' + H + ',100%,70%,0.6)">' + drawType + '</div>');
     }
@@ -240,3 +267,4 @@ setInterval(function() {
 }, 10);
 
 </script>
+
