@@ -1,0 +1,18 @@
+.navbar-coverr{
+    background-color: #66D666;
+}
+
+.navbar-coverr .navbar-nav>li>a{
+    color: #fff;
+}
+
+.navbar-coverr .navbar-nav>li>a:hover,
+.navbar-coverr .navbar-nav>li>a:focus{
+    color: #ccc;
+}
+.navbar-coverr .navbar-nav > .active > a,
+.navbar-coverr .navbar-nav > .active > a:hover,
+.navbar-coverr .navbar-nav > .active > a:focus {
+    color: #ccc;
+    background-color: #666;
+}

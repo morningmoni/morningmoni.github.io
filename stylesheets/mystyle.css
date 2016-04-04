@@ -1,12 +1,12 @@
 body {
   font-family:"brandon-grotesque", "Brandon Grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-img{
+/*img{
     min-height:300px;
     max-height:850px;
     min-width:500px;
     max-width:1000px;
-}
+}*/
 a#top {
     vertical-align: top;
     padding: 10px;
