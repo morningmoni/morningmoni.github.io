@@ -359,24 +359,26 @@ setInterval(function() {
 
 </script>
 
-    <script>
-            var userAgentInfo = navigator.userAgent;
-            var Agents = ["Android", "iPhone",
-                        "SymbianOS", "Windows Phone",
-                        "iPad", "iPod"];
-            var flag = true;
-            for (var v = 0; v < Agents.length; v++) {
-                if (userAgentInfo.indexOf(Agents[v]) > 0) {
-                    flag = false;
-                    break;
-                }
-            }
-            if(flag == true){
-                //alert("引用电脑端文件");
+<script>
+    var userAgentInfo = navigator.userAgent;
+    var Agents = ["Android", "iPhone",
+                "SymbianOS", "Windows Phone",
+                "iPad", "iPod"];
+    var flag = true;
+    for (var v = 0; v < Agents.length; v++) {
+        if (userAgentInfo.indexOf(Agents[v]) > 0) {
+            flag = false;
+            break;
+        }
+    }
+    if(flag == true){
+        //alert("引用电脑端文件");
 
-            }else{
-                //alert("引用手机端文件");
-                $("#movie").remove();
-                $("#song").remove();
-            }
-      </script>
+    }else{
+        //alert("引用手机端文件");
+        $("#movie").remove();
+        $("#song").remove();
+    }
+</script>
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=Azm6&d=b6SzmqteJQA9rfZlSNLLgjvx19XmDq_Ho-UPqzAKf5w"></script>
