@@ -64,7 +64,7 @@ theater
     .write("morningmoni:and my name appears in all his social accounts now.", 400)
     .write("guest:Wait, your master?", 400)
     .write("morningmoni:Yeah.", 400)
-    .write("morningmoni:Alan Yuning Mao", 400)
+    .write("morningmoni:Yuning (Alan) Mao", 400)
     .write("guest:How did you become his slave?", 400)
     .write("morningmoni:He created me. And I'm his partner, not slave.", 400)
     .write("guest:Like Ford and Bernard in Westworld?", 400)
