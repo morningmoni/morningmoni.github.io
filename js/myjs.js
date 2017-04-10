@@ -78,10 +78,12 @@ setInterval(function() {
         }
     }
     if(flag == true){
+        document.write("<script src=js/type.js></script>")
         //alert("引用电脑端文件");
 
     }else{
         //alert("引用手机端文件");
+        $("#scene").remove()
         $("#movie").remove();
         $("#song").remove();
     }

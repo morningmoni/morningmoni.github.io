@@ -155,7 +155,7 @@ function end()
     else if (clicked == 1){
         theater.write("guest:Yes, I am.", 2000);
         theater.write("morningmoni:Good. I'm having breakfast now.");
-        theater.write("morningmoni:See you", 2000);
+        theater.write("morningmoni:Peace out", 2000);
         theater.write("guest:See you", 2000);
     } 
     else if (clicked == 2){
