@@ -75,9 +75,9 @@ theater.write(function () { theater.play(false); });
 function meOrAlan()
 {
     var yes = document.getElementById('chooseMe')
-    yes.innerHTML = "<a class=\"btn btn-skin\" onclick=\"afterY()\">More about Alan</a>";
+    yes.innerHTML = "<a class=\"btn btn-skin\" onclick=\"afterY()\">More about Yuning</a>";
     var no = document.getElementById('chooseAlan')
-    no.innerHTML = "<a class=\"btn btn-skin\" onclick=\"afterN()\">More about You</a>";
+    no.innerHTML = "<a class=\"btn btn-skin\" onclick=\"afterN()\">More about morningmoni</a>";
     
 }
 
