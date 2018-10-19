@@ -24,9 +24,9 @@ $(function(){
     $(window).scroll(function(){ 
     var scrollt = document.documentElement.scrollTop + document.body.scrollTop; 
     if( scrollt >500 )
-      $("#song").fadeIn(400);        
-    else    
-      $("#song").stop().fadeOut(400);   
+      $("#song").fadeIn(800);        
+    // else    
+    //   $("#song").stop().fadeOut(400);   
       
     });
 
