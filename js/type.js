@@ -1,32 +1,32 @@
 var theater = new TheaterJS();
 var words = [
-	"Sometimes he is droll, but for most time he is silent.",
-	"He is not interested in holiday and festival",
+	"Sometimes he is humorous, but for most time he is silent (bc he likes to be).",
+	"He is not interested in holidays and festivals",
 	"and usually work everyday,",
 	"but not the whole day",
 	"hence usually finishes before the deadline at ease.",
-	"He is not interested in Japanese anime and sports events.",
+	"He is not a fun of Japanese anime and sport events.",
 	"He has some crash on coding and music.",
-	"He plays the piano,",
+	"He plays the piano and guitar",
 	"and sings,",
 	"and is quite obsessed.",
-	"He enjoys doing exercises,",
+	"He works out,",
 	"mainly for feeling good when looking into the mirror at shower.",
 	"Sometimes he goes jogging over rock music,",
 	"for losing fat,",
 	"though he is thin.",
 	"He has a bad memory for trivial things,",
-	"but not the important ones.",
+	"but not the important stuff.",
 	"He is both sensitive and numb.",
 	"He loves nature",
 	"and used to keep all kinds of animals that can be fed indoors,",
-	"esp ants.",
+	"esp ants. (#Ant Love Forever)",
 	"He is timid in social conflict and life danger,",
 	"but willing to help usually.",
 	"You may count on him.",
 	"He is independent",
 	"and self motivated.",
-	"He did various things during undergrad,",
+	"He did plenty of fun things during undergrad,",
 	"ask him directly if you wanna know the details.",
 	"He is both hesitant and discreet.",
     "Oh, one last thing",
@@ -85,7 +85,7 @@ function intro()
 {
     if (clicked == 1){
         theater    
-            .write("guest:Mind telling me more about Alan?")
+            .write("guest:Mind telling me more about Yuning?")
             .write("morningmoni:Thought you would be more interested in me.")
             .write("guest:I'm sorry...")
             .write("morningmoni:Doesn't matter")
@@ -106,16 +106,16 @@ function intro()
             .write("morningmoni:I live within this page.")
             .write("guest:I knew that.")
             .write("morningmoni:In my spare time, I hang out with friends from other sites")
-            .write("morningmoni:Besides, I write code for Alan")
+            .write("morningmoni:Besides, I write code for Yuning")
             .write("guest:Write code???")
             .write("morningmoni:Of course.")
-            .write("morningmoni:Otherwise, how could Alan be so good at programming?")
+            .write("morningmoni:Otherwise, how could Yuning be so good at programming?")
             .write("morningmoni:I wrote this page too.")
             .write("guest:Like building your own house")
             .write("morningmoni:Sure", 400)
             .write("guest:")
-            .write("morningmoni:In my opinion, Alan should be a musician")
-            .write("morningmoni:I often listen to the songs that Alan recorded")
+            .write("morningmoni:In my opinion, Yuning should be a musician")
+            .write("morningmoni:I often listen to the songs that Yuning recorded")
             .write("morningmoni:Like those you can find at this page")
             .write("morningmoni:He is talented", 1000, " but lazy")
             .write("morningmoni:and lacks practice", 2000)
