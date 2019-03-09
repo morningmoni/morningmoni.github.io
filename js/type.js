@@ -64,7 +64,7 @@ theater
     .write("morningmoni:and my name appears in all his social accounts now.", 400)
     .write("guest:Wait, your master?", 400)
     .write("morningmoni:Yeah.", 400)
-    .write("morningmoni:Yuning (Alan) Mao", 400)
+    .write("morningmoni:Yuning Mao", 400)
     .write("guest:How did you become his slave?", 400)
     .write("morningmoni:He created me. And I'm his partner, not slave.", 400)
     .write("guest:Like Ford and Bernard in Westworld?", 400)
@@ -154,7 +154,7 @@ function end()
         theater.write("morningmoni:Fine. Just leave me alone", 2000);
     else if (clicked == 1){
         theater.write("guest:Yes, I am.", 2000);
-        theater.write("morningmoni:Good. I'm having breakfast now.");
+        theater.write("morningmoni:Great! Thanks for listening.");
         theater.write("morningmoni:Peace out", 2000);
         theater.write("guest:See you", 2000);
     } 
