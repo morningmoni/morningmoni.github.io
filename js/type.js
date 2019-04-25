@@ -1,36 +1,40 @@
 var theater = new TheaterJS();
 var words = [
-	"Sometimes he is humorous, but for most time he is silent (bc he likes to be).",
-	"He is not interested in holidays and festivals",
-	"and usually work everyday,",
-	"but not the whole day",
-	"hence usually finishes before the deadline at ease.",
-	"He is not a fun of Japanese anime and sport events.",
-	"He has some crash on coding and music.",
-	"He plays the piano and guitar",
-	"and sings,",
-	"and is quite obsessed.",
-	"He works out,",
-	"mainly for feeling good when looking into the mirror at shower.",
-	"Sometimes he goes jogging over rock music,",
-	"for losing fat,",
-	"though he is thin.",
-	"He has a bad memory for trivial things,",
-	"but not the important stuff.",
-	"He is both sensitive and numb.",
-	"He loves nature",
-	"and used to keep all kinds of animals that can be fed indoors,",
-	"esp ants. (#Ant Love Forever)",
-	"He is timid in social conflict and life danger,",
-	"but willing to help usually.",
-	"You may count on him.",
-	"He is independent",
-	"and self motivated.",
-	"He did plenty of fun things during undergrad,",
-	"ask him directly if you wanna know the details.",
-	"He is both hesitant and discreet.",
+    "He is always trying to become better.",
+    "Sometimes he is humorous, but for most time he is silent (bc he likes to be).",
+    "He is not interested in holidays and festivals",
+    "and usually work everyday,",
+    "but not the whole day",
+    "hence usually finishes before the deadline at ease.",
+    "He is not a fan of Japanese anime and sport events.",
+    "He has some crush on coding and music.",
+    "He plays the piano and guitar",
+    "and sings,",
+    "and is quite obsessed.",
+    "He works out,",
+    "mainly for feeling good when looking into the mirror before shower.",
+    "He also tries to lose extra fat,",
+    "although he is fit.",
+    "He has a bad memory for trivial things,",
+    "but not the important stuff.",
+    "He is both sensitive and numb.",
+    "He loves nature",
+    "and used to keep all kinds of animals that can be fed indoors,",
+    "esp. ants. (#Ant Love Forever)",
+    "He is timid in social conflicts and life danger,",
+    "but willing to help usually.",
+    "He does not want to make promises that cannot be kept or lie to others.",
+    "You may count on him.",
+    "He is independent",
+    "and self-motivated.",
+    "He is hesitant and discreet,",
+    "which is both good and bad.",
+    "He never found love,",
+    "despite there are dozens of ppl who care(d) for him.",
+    "He did plenty of fun things in the past,",
+    "ask him directly if you wanna know more.",
     "Oh, one last thing",
-	"He works mainly for fun."];
+    "He works mainly for fun."];
 
 theater
     .describe("morningmoni", .8, "#morningmoni")
@@ -92,7 +96,7 @@ function intro()
             .write("morningmoni:You are not the first one", 1000)
             .write("morningmoni:He is a good guy")
             .write("morningmoni:I said that not just because he asked me to.")
-            .write("guest:I see")
+            .write("guest:LOL")
             .write("morningmoni:There are too many things (he wanted me)", -14, " to say.")
             .write("morningmoni:Just ignore me if you think I am garrulous")
             .write("guest:I won't")
@@ -103,22 +107,21 @@ function intro()
     else if (clicked == 2){
         theater    
             .write("guest:What's your life like?")
-            .write("morningmoni:I live within this page.")
+            .write("morningmoni:Well, I live within this page.")
             .write("guest:I knew that.")
             .write("morningmoni:In my spare time, I hang out with friends from other sites")
             .write("morningmoni:Besides, I write code for Yuning")
             .write("guest:Write code???")
             .write("morningmoni:Of course.")
-            .write("morningmoni:Otherwise, how could Yuning be so good at programming?")
+            .write("morningmoni:Otherwise, how could Yuning be so good at coding?")
             .write("morningmoni:I wrote this page too.")
             .write("guest:Like building your own house")
             .write("morningmoni:Sure", 400)
             .write("guest:")
-            .write("morningmoni:In my opinion, Yuning should be a musician")
+            .write("morningmoni:IMHO, Yuning should have been a musician")
             .write("morningmoni:I often listen to the songs that Yuning recorded")
             .write("morningmoni:Like those you can find at this page")
-            .write("morningmoni:He is talented", 1000, " but lazy")
-            .write("morningmoni:and lacks practice", 2000)
+            .write("morningmoni:He is talented", 1000, " but determined to study computer science instead.")
     }
     clicked = 0;
     theater.write("morningmoni:Are you still there?", youThere, 5000, removeyouThere, end); 
@@ -154,15 +157,15 @@ function end()
         theater.write("morningmoni:Fine. Just leave me alone", 2000);
     else if (clicked == 1){
         theater.write("guest:Yes, I am.", 2000);
-        theater.write("morningmoni:Great! Thanks for listening.");
-        theater.write("morningmoni:Peace out", 2000);
-        theater.write("guest:See you", 2000);
+        theater.write("morningmoni:Great! Thanks for listening! Not many ppl can get here.");
+        theater.write("morningmoni:Peace out!", 2000);
+        theater.write("guest:See you!", 2000);
     } 
     else if (clicked == 2){
-        theater.write("guest:No, I didn't even notice the buttons", 2000);
+        theater.write("guest:No :)", 2000);
         theater.write("morningmoni:Well, you're supposed to click the other button.")
-                .write("morningmoni:But anyway, nice to meet you.")
-                .write("guest:Nice to meet you too")
+                .write("morningmoni:But anyway, nice to meet you!")
+                .write("guest:Nice to meet you too!")
     }  
 }
 

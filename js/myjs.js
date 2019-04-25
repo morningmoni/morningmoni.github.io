@@ -79,7 +79,6 @@ setInterval(function() {
     }
     if(flag == true){
         document.write("<script src=js/type.js></script>")
-        // document.write("<script src=js/type_words.js></script>")
         //alert("引用电脑端文件");
 
     }else{

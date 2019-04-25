@@ -356,15 +356,7 @@ I just could not say hi.
 
 Don't try so hard, the best things come when you least expect them to
 
-Love is selfish. It's to stay connected with one's self in the presence of another.
-
-You are static in my mind, existing there till I terminate.
-
 Tried to let go. Almost succeeded
-
-the problems of ur past r ur biz. ur future is my privilege
-
-never frown, even when you are sad, cuz u never know who is falling in love with ur smile.
 
 Some people try to find the right one, while some try to be.
 
@@ -383,8 +375,6 @@ I am so sensitive that I act more like TCP than UDP in love.
 I'm a vessel, filled with others' soul.
 
 If fate is linear time-invariant, then a time shifting may help.
-
-Are you an exception? Let me catch you.
 
 
 
@@ -430,7 +420,17 @@ Please do NOT reply directly to this email.
 
 
 
-The world's full of lonely people afraid to make the first move.      —— Green Book
+The world's full of lonely people afraid to make the first move.      — Green Book
+
+若能避开猛烈的狂喜 ，自然也不会有悲痛的来袭   — 人间失格
+
+Fate is worth the wait  — Strawberries & Cigarettes 
+
+Loneliness is just a crime  — Say hello
+
+你是我患得患失的梦，我是你可有可无的人。 毕竟这穿越山河的箭，刺的都是用情至疾的人 — 写给黄淮
+
+乍见的欢喜 潦草的散席 — 过境
 
 
 
@@ -462,7 +462,7 @@ it's impossible to enjoy idling thoroughly unless one has plenty of work to do.
 
 
 
-## Badass
+## Bad
 
 I know who I am, but you don't know who you are.
 
@@ -490,19 +490,17 @@ The only thing you should know is that you know nothing.
 
 ## Random
 
-everyone is changing everyday, in every possible way
+everyone is changing everyday, in every possible way  — Dreams
 
 The guy, dead before getting shot in the head, told a lie for a rest.
 
 Our consciousness creates the present, just as it creates the past, from many distributed clues scattered in our mind.
 
-Every soil where he is well, is to a valiand man his natural country.
+Every soil where he is well is to a valiant man his natural country.
 
 尘缘尘梦尘虞泪，缘深缘浅缘是罪。若水若云若魂飞，梦痴梦醒梦千回。
 
 from womb to tomb, we are bound to others, past and present.
-
-“从未年轻过的人，一定无法体会这个世界 的偏见。我们被世俗拆散，也要为爱情勇往直前；我们被房价羞辱，也要让简陋的现实变的温暖；我们被权威漠视，也要为自己的天分保持骄傲；我们被平庸折磨， 也要开始说走就走的冒险。所谓的光辉 月，并不是后来闪耀的日子，而是无人问津时，你对梦想的偏执，你是否有勇气， 对自己忠诚到底，我是陈欧，我为自己代言。”
 
 唯有黑暗，带来光明
 
@@ -516,7 +514,7 @@ what makes a real man fake, himself or the world?
 
 nothing is as beautiful as an elegant equation translated into a perfect engineering
 
-Honey thats not funny. Too awkward to move forward.
+Too awkward to move forward.
 
 no hope no dupe
 
@@ -532,15 +530,13 @@ footloose and fancyfree
 
 lolls around on the ground
 
-take ur time to tell a lie
+take your time to tell a lie
 
-no rest no mercy no matter what
+no rest, no mercy, no matter what
 
 如果发出声音是危险的，那就保持沉默；如果自觉无力发光，那就别去照亮别人。但是，不要习惯了黑暗就为黑暗辩护；不要为自己的苟且而得意洋洋；不要嘲讽那些比自己更勇敢、更有热量的人们。可以卑微如尘土，不可扭曲如蛆虫。
 
 轻誉苟毁，好憎尚怒，小人哉
-
-有人说你变了，也许你只是没有按照他的想法来活。
 
 
 
