@@ -432,6 +432,10 @@ Loneliness is just a crime  — Say hello
 
 乍见的欢喜 潦草的散席 — 过境
 
+Why do we choose to chase what we'll lose? — Jar of love
+
+footloose and fancyfree
+
 
 
 
@@ -490,7 +494,7 @@ The only thing you should know is that you know nothing.
 
 ## Random
 
-everyone is changing everyday, in every possible way  — Dreams
+Oh my life, is changing everyday, in every possible way  — Dreams
 
 The guy, dead before getting shot in the head, told a lie for a rest.
 
@@ -526,8 +530,6 @@ forever forsake forgive forget
 
 往事不可追 来世不可待 过去已过去 未来尚未来
 
-footloose and fancyfree
-
 lolls around on the ground
 
 take your time to tell a lie
@@ -538,7 +540,7 @@ no rest, no mercy, no matter what
 
 轻誉苟毁，好憎尚怒，小人哉
 
-
+I'm a freak cuz I'm afraid.
 
 
 
