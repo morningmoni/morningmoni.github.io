@@ -544,3 +544,23 @@ I'm a freak cuz I'm afraid.
 
 
 
+## Afterthoughts on [\<Nymphomaniac\>](https://www.imdb.com/title/tt1937390/)
+
+![](https://m.media-amazon.com/images/M/MV5BMzU4MDA1MTcwMV5BMl5BanBnXkFtZTcwODAyOTY3OQ@@._V1_.jpg)
+
+For now, I am considering all human behaviors, legal or illegal, moral or immoral, “understandable”. One has to be responsible for the consequences though. If you are a serial killer, you have to be prepared for being punished by the law enforcement. If you are a sex addict, you have to be ready to be judged by “normal” people. I guess that is basically how the “modern society” works, right?
+
+I would rather think of all these “odd” behaviors as some kind of revolt of the minority against the majority. What is right vs. What is wrong is pretty vague and in fact, the correctness of things often changes over time. For example, there seemed to be no space for LGBTQ ppl hundreds of years ago and perhaps one hundred years later from now, same sex marriage is not only legal but requried :) 
+
+I can feel Joe when she was telling the intriguing story. Well, I could also say she was self-defending sometimes (as Seligman said) but it doesn’t really matter, does it? Humans are too good at persuading themselves into sth that they like to do so as to feel comfortable when actually doing it. Just like they tend to sightlessly believe what they want to hear regardless of the bloody truth.
+
+I guess the trickiest part of human interactions is that there is no way you can tell whether someone is lying or not when she/he is “expressing her/his feelings” rather than stating some factual or tangible things that you can easily verify. And humans, unlike ants unfortunately, are so capricious! Even if she/he meant it when saying it, after a while she/he might as well change her/his mind. The sad thing is that you couldn’t even know if she/he was sincere in the first place, except for taking their words based on mutual trust, which I probably have chosen to opt out since I don’t know when.
+
+I think Joe is brave when choosing to be herself during the therapy session. After all, not every pedophile has the courage to expose himself. Don’t get me wrong. I am not praising/condemning pedophilia but as I said, you gotta be ready to pay the price when doing sth not accepted by others. But the question is, what do you want? Or do you even know what you really want? And are you ready to bear the cost? Things like this are too complicated and worsened by the fact that we are capricious.
+
+I don’t know if the fundamental element of humans (or any other creatures) is sex. Personally, I think it would be too boring if so (at least it shouldn’t not the only one)... And perhaps I will never know it (if some magic anti-aging is not invented later). I still remember I was picturing a future where there is no gender and everyone is somehow inter-connected with each other. It may start with the die-off of males, which seem to have a harder and harder time to keep their sperm kinetic and have more defective chromosomes than females… Well, let’s use another story for that.
+
+And yet, I hypothesize sexuality is what genes force us to do, even without us realizing it at times, to survive for themselves. What about memes then? Is homosexuality in our genes or just memes that are recently more popular than ever? Perhaps I am partially affected by the book [\<The Selfish Gene\>](https://en.wikipedia.org/wiki/The_Selfish_Gene) (which is a good read BTW). One plausible reason it gives for supporting homosexuality is in our genes (which always try to reproduce themselves) is that: the first birth may make the second birth more inclined to be homosexual so that she/he could gain more advantages over his/her little sister/brother in later competitions.
+
+2019-07-04
+
