@@ -436,6 +436,8 @@ Why do we choose to chase what we'll lose? — Jar of love
 
 footloose and fancyfree
 
+I wanna be a bad guy, but I don't have enough time.   2019-07-24
+
 
 
 
@@ -544,23 +546,34 @@ I'm a freak cuz I'm afraid.
 
 
 
-## Afterthoughts on [\<Nymphomaniac\>](https://www.imdb.com/title/tt1937390/)
+##  2019-07-04 Afterthoughts on [\<Nymphomaniac\>](https://www.imdb.com/title/tt1937390/)
 
 ![](https://m.media-amazon.com/images/M/MV5BMzU4MDA1MTcwMV5BMl5BanBnXkFtZTcwODAyOTY3OQ@@._V1_.jpg)
 
-For now, I am considering all human behaviors, legal or illegal, moral or immoral, “understandable”. One has to be responsible for the consequences though. If you are a serial killer, you have to be prepared for being punished by the law enforcement. If you are a sex addict, you have to be ready to be judged by “normal” people. I guess that is basically how the “modern society” works, right?
+For now, I am considering all human behaviors, legal or illegal, moral or immoral, “understandable”. One has to be responsible for the consequences though. If you are a serial killer, you have to be prepared for being punished by law enforcement. If you are a sex addict, you have to be ready to be judged by “normal” people. I guess that is basically how the “modern society” works, right?
 
-I would rather think of all these “odd” behaviors as some kind of revolt of the minority against the majority. What is right vs. What is wrong is pretty vague and in fact, the correctness of things often changes over time. For example, there seemed to be no space for LGBTQ ppl hundreds of years ago and perhaps one hundred years later from now, same sex marriage is not only legal but requried :) 
+I would rather think of all these “odd” behaviors as some kind of revolt of the minority against the majority. What is right vs. What is wrong is pretty vague and in fact, the correctness of things often changes over time. For example, there seemed to be no space for LGBTQ ppl hundreds of years ago and perhaps one hundred years later from now, same-sex marriage is not only legal but required :) 
 
 I can feel Joe when she was telling the intriguing story. Well, I could also say she was self-defending sometimes (as Seligman said) but it doesn’t really matter, does it? Humans are too good at persuading themselves into sth that they like to do so as to feel comfortable when actually doing it. Just like they tend to sightlessly believe what they want to hear regardless of the bloody truth.
 
-I guess the trickiest part of human interactions is that there is no way you can tell whether someone is lying or not when she/he is “expressing her/his feelings” rather than stating some factual or tangible things that you can easily verify. And humans, unlike ants unfortunately, are so capricious! Even if she/he meant it when saying it, after a while she/he might as well change her/his mind. The sad thing is that you couldn’t even know if she/he was sincere in the first place, except for taking their words based on mutual trust, which I probably have chosen to opt out since I don’t know when.
+I guess the trickiest part of human interactions is that there is no way you can tell whether someone is lying or not when she/he is “expressing her/his feelings” rather than stating some factual or tangible things that you can easily verify. And humans, unlike ants, unfortunately, are so capricious! Even if she/he meant it when saying it, after a while she/he might as well change her/his mind. The sad thing is that you couldn’t even know if she/he was sincere in the first place, except for taking their words based on mutual trust.
 
 I think Joe is brave when choosing to be herself during the therapy session. After all, not every pedophile has the courage to expose himself. Don’t get me wrong. I am not praising/condemning pedophilia but as I said, you gotta be ready to pay the price when doing sth not accepted by others. But the question is, what do you want? Or do you even know what you really want? And are you ready to bear the cost? Things like this are too complicated and worsened by the fact that we are capricious.
 
-I don’t know if the fundamental element of humans (or any other creatures) is sex. Personally, I think it would be too boring if so (at least it shouldn’t not the only one)... And perhaps I will never know it (if some magic anti-aging is not invented later). I still remember I was picturing a future where there is no gender and everyone is somehow inter-connected with each other. It may start with the die-off of males, which seem to have a harder and harder time to keep their sperm kinetic and have more defective chromosomes than females… Well, let’s use another story for that.
+I don’t know if the fundamental element of humans (or any other creatures) is sex. Personally, I think it would be too boring if so (at least it shouldn’t not the only one)... And perhaps I will never know it (if some magic anti-aging is not invented later). I still remember I was picturing a future where there is no gender and every one is somehow interconnected with each other. It may start with the die-off of males, which seem to have a harder and harder time to keep their sperm kinetic and have more defective chromosomes than females… Well, let’s use another story for that.
 
 And yet, I hypothesize sexuality is what genes force us to do, even without us realizing it at times, to survive for themselves. What about memes then? Is homosexuality in our genes or just memes that are recently more popular than ever? Perhaps I am partially affected by the book [\<The Selfish Gene\>](https://en.wikipedia.org/wiki/The_Selfish_Gene) (which is a good read BTW). One plausible reason it gives for supporting homosexuality is in our genes (which always try to reproduce themselves) is that: the first birth may make the second birth more inclined to be homosexual so that she/he could gain more advantages over his/her little sister/brother in later competitions.
 
-2019-07-04
 
+
+## 2019-07-26 I am the center of the world
+
+![](https://cn.pling.com/img/f/7/6/9/d25a1a5f1f8ef8dec6f9efc88c868bd195f8.jpg)
+
+It seems that (almost) every kid believed he was the center of the world in his childhood. After growing up, they become more “mature” and realize the globe is not centered around him. On the contrary, I still have a feeling that I am the center of the world, well, my world and here is why.
+
+Different people perceive their surroundings differently. On one hand, people view things with emotions, shaped by their memories related to the same or similar things in the past (perhaps also dissimilar things in a more covert way like neural nets). On the other hand, it is simply impossible to tell if my world is the same as yours even if the functions of our eyes are similar and we observe (almost) identical things. When a man thinks his girlfriend is pretty while his friend disagrees with him, are they really looking at the same person in every detail and aspect? When someone passes away, is the world still meaningful, or rather, does her world still exist (excluding the possibility of an afterlife)? To that extent, everything around one person exists for himself, in the way he looks at them. Of course, being the center does not necessarily mean everything comes to you: according to the hypothesis above, everything lives autonomously in its own center of a different world created by its own observations, and the interactions among different worlds are rather complicated. An interesting counter-example of the independency of people comes from one [book](https://en.wikipedia.org/wiki/The_True_Believer) that I am reading: those participating in political or religious movements seem to be fanatically united with each other and live for the same purpose as if their worlds were the same. The theory in the book is that their lives are terrible (their world is crappy) such that mass movements give them a new purpose of life. The hope of a brand-new world makes them forget their aimless lives.
+
+When I was a child, I used to pray to a “god” in my world. Well, it is more like negotiation. For example, I would promise not to play video games for a week and ask him for good grades in the final exams. As you can imagine, sometimes it works so I would continue trading with him, and sometimes it doesn’t. Unlike people with actual religion tho, I would blame him when it doesn’t work out instead of blaming myself :) I don’t remember when I started to stop relying on him. In retrospect, however, I guess one of the benefits out of this is that it makes me more disciplined and determined. 
+
+What's in your world?
