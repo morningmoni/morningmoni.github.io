@@ -2,9 +2,9 @@
 <html>
 <head>
 <meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
-<title>words</title><link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; }
+<title>words</title><link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; }
 html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
-body { margin: 0px; padding: 0px; height: auto; bottom: 0px; top: 0px; left: 0px; right: 0px; font-size: 1rem; line-height: 1.42857143; overflow-x: hidden; background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; tab-size: 4; background-position: inherit inherit; background-repeat: inherit inherit; }
+body { margin: 0px; padding: 0px; height: auto; bottom: 0px; top: 0px; left: 0px; right: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; tab-size: 4; }
 iframe { margin: auto; }
 a.url { word-break: break-all; }
 a:active, a:hover { outline: 0px; }
@@ -16,21 +16,20 @@ a:active, a:hover { outline: 0px; }
 .for-image #write { padding-left: 8px; padding-right: 8px; }
 body.typora-export { padding-left: 30px; padding-right: 30px; }
 .typora-export .footnote-line, .typora-export li, .typora-export p { white-space: pre-wrap; }
-@media screen and (max-width: 500px) { 
+@media screen and (max-width: 500px) {
   body.typora-export { padding-left: 0px; padding-right: 0px; }
   #write { padding-left: 20px; padding-right: 20px; }
   .CodeMirror-sizer { margin-left: 0px !important; }
   .CodeMirror-gutters { display: none !important; }
 }
-#write li > figure:last-child { margin-bottom: 0.5rem; }
+#write li > figure:first-child { margin-top: -20px; }
 #write ol, #write ul { position: relative; }
 img { max-width: 100%; vertical-align: middle; }
-button, input, select, textarea { color: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant-caps: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; }
+button, input, select, textarea { color: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; }
 input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
 *, ::after, ::before { box-sizing: border-box; }
 #write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
 #write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p { position: relative; }
-p { line-height: inherit; }
 h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 2; }
 p { orphans: 4; }
 h1 { font-size: 2rem; }
@@ -43,7 +42,7 @@ h6 { font-size: 1rem; }
 .hidden { display: none; }
 .md-blockmeta { color: rgb(204, 204, 204); font-weight: 700; font-style: italic; }
 a { cursor: pointer; }
-sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.701961); color: rgb(85, 85, 85); border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; cursor: pointer; }
+sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); color: rgb(85, 85, 85); border-radius: 4px; cursor: pointer; }
 sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
 #write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
 figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
@@ -52,8 +51,8 @@ tr { break-inside: avoid; break-after: auto; }
 thead { display: table-header-group; }
 table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
 table.md-table td { min-width: 32px; }
-.CodeMirror-gutters { border-right-width: 0px; background-color: inherit; }
-.CodeMirror-linenumber { }
+.CodeMirror-gutters { border-right: 0px; background-color: inherit; }
+.CodeMirror-linenumber { user-select: none; }
 .CodeMirror { text-align: left; }
 .CodeMirror-placeholder { opacity: 0.3; }
 .CodeMirror pre { padding: 0px 4px; }
@@ -63,7 +62,7 @@ div.hr:focus { cursor: none; }
 #write.fences-no-line-wrapping pre { white-space: pre; }
 #write pre.ty-contain-cm { white-space: normal; }
 .CodeMirror-gutters { margin-right: 4px; }
-.md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; position: relative !important; background-position: inherit inherit; background-repeat: inherit inherit; }
+.md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background: inherit; position: relative !important; }
 .md-diagram-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
 #write .md-fences.mock-cm { white-space: pre-wrap; }
 .md-fences.md-fences-with-lineno { padding-left: 0px; }
@@ -72,7 +71,7 @@ div.hr:focus { cursor: none; }
 .CodeMirror-line, twitterwidget { break-inside: avoid; }
 .footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
 .footnotes + .footnotes { margin-top: 0px; }
-.md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; background-position: 0px 0px; background-repeat: initial initial; }
+.md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; background: 0px 0px; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; -webkit-tap-highlight-color: transparent; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; }
 li div { padding-top: 0px; }
 blockquote { margin: 1rem 0px; }
 li .mathjax-block, li p { margin: 0.5rem 0px; }
@@ -81,17 +80,18 @@ blockquote > :last-child { margin-bottom: 0px; }
 blockquote > :first-child, li > :first-child { margin-top: 0px; }
 .footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; white-space: normal; }
 #write .footnote-line { white-space: pre-wrap; }
-@media print { 
-  body, html { border: 1px solid transparent; height: 99%; break-after: avoid-page; break-before: avoid-page; }
+@media print {
+  body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; }
   #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; }
   .typora-export * { -webkit-print-color-adjust: exact; }
   html.blink-to-pdf { font-size: 13px; }
-  .typora-export #write { padding-left: 32px; padding-right: 32px; padding-bottom: 0px; break-after: avoid-page; }
+  .typora-export #write { padding-left: 32px; padding-right: 32px; padding-bottom: 0px; break-after: avoid; }
   .typora-export #write::after { height: 0px; }
+  @page { margin: 20mm 0px; }
 }
 .footnote-line { margin-top: 0.714em; font-size: 0.7em; }
 a img, img a { cursor: pointer; }
-pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background-color: rgb(204, 204, 204); display: block; overflow-x: hidden; background-position: initial initial; background-repeat: initial initial; }
+pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background: rgb(204, 204, 204); display: block; overflow-x: hidden; }
 p > .md-image:only-child:not(.md-img-error) img, p > img:only-child { display: block; margin: auto; }
 p > .md-image:only-child { display: inline-block; width: 100%; }
 #write .MathJax_Display { margin: 0.8em 0px 0px; }
@@ -102,7 +102,7 @@ p > .md-image:only-child { display: inline-block; width: 100%; }
 .task-list-item.md-task-list-item { padding-left: 0px; }
 .md-task-list-item > input { position: absolute; top: 0px; left: 0px; margin-left: -1.2em; margin-top: calc(1em - 10px); border: none; }
 .math { font-size: 1rem; }
-.md-toc { min-height: 3.58rem; position: relative; font-size: 0.9rem; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; }
+.md-toc { min-height: 3.58rem; position: relative; font-size: 0.9rem; border-radius: 10px; }
 .md-toc-content { position: relative; margin-left: 0px; }
 .md-toc-content::after, .md-toc::after { display: none; }
 .md-toc-item { display: block; color: rgb(65, 131, 196); }
@@ -115,7 +115,7 @@ p > .md-image:only-child { display: inline-block; width: 100%; }
 .md-toc-h4 .md-toc-inner { margin-left: 6em; }
 .md-toc-h5 .md-toc-inner { margin-left: 8em; }
 .md-toc-h6 .md-toc-inner { margin-left: 10em; }
-@media screen and (max-width: 48em) { 
+@media screen and (max-width: 48em) {
   .md-toc-h3 .md-toc-inner { margin-left: 3.5em; }
   .md-toc-h4 .md-toc-inner { margin-left: 5em; }
   .md-toc-h5 .md-toc-inner { margin-left: 6.5em; }
@@ -126,10 +126,10 @@ a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; 
 .md-attr { display: none; }
 .md-fn-count::after { content: "."; }
 code, pre, samp, tt { font-family: var(--monospace); }
-kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 39, 41); background-color: rgb(255, 255, 255); border: 1px solid rgb(173, 179, 185); border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px; box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset; white-space: nowrap; vertical-align: middle; background-position: initial initial; background-repeat: initial initial; }
+kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 39, 41); background: rgb(255, 255, 255); border: 1px solid rgb(173, 179, 185); border-radius: 3px; box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset; white-space: nowrap; vertical-align: middle; }
 .md-comment { color: rgb(162, 127, 3); opacity: 0.8; font-family: var(--monospace); }
-code { text-align: left; }
-a.md-print-anchor { white-space: pre !important; border: none !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; text-shadow: initial !important; background-position: 0px 0px !important; background-repeat: initial initial !important; }
+code { text-align: left; vertical-align: initial; }
+a.md-print-anchor { white-space: pre !important; border-width: initial !important; border-style: none !important; border-color: initial !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; background: 0px 0px !important; text-decoration: initial !important; text-shadow: initial !important; }
 .md-inline-math .MathJax_SVG .noError { display: none !important; }
 .html-for-mac .inline-math-svg .MathJax_SVG { vertical-align: 0.2px; }
 .md-math-block .MathJax_SVG_Display { text-align: center; margin: 0px; position: relative; text-indent: 0px; max-width: none; max-height: none; min-height: 0px; min-width: 100%; width: auto; overflow-y: hidden; display: block !important; }
@@ -138,387 +138,121 @@ a.md-print-anchor { white-space: pre !important; border: none !important; displa
 .MathJax_SVG .MJX-sans-serif { font-family: sans-serif; }
 .MathJax_SVG { display: inline; font-style: normal; font-weight: 400; line-height: normal; zoom: 90%; text-indent: 0px; text-align: left; text-transform: none; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0px; min-height: 0px; border: 0px; padding: 0px; margin: 0px; }
 .MathJax_SVG * { transition: none; }
-.MathJax_SVG_Display svg { vertical-align: middle !important; margin-bottom: 0px !important; margin-top: 0px !important; }
+.MathJax_SVG_Display svg { vertical-align: middle !important; margin-bottom: 0px !important; }
 .os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
 .md-diagram-panel > svg { max-width: 100%; }
-[lang="mermaid"] svg, [lang="flow"] svg { max-width: 100%; height: auto; }
+[lang="mermaid"] svg, [lang="flow"] svg { max-width: 100%; }
 [lang="mermaid"] .node text { font-size: 1rem; }
-table tr th { border-bottom-width: 0px; }
+table tr th { border-bottom: 0px; }
 video { max-width: 100%; display: block; margin: 0px auto; }
 iframe { max-width: 100%; width: 100%; border: none; }
 .highlight td, .highlight tr { border: 0px; }
 
 
-:root {
-    --side-bar-bg-color: #fafafa;
-    --control-text-color: #777;
-}
-
-@include-when-export url(https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext);
-
-html {
-    font-size: 16px;
-}
-
-body {
-    font-family: "Open Sans","Clear Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    color: rgb(51, 51, 51);
-    line-height: 1.6;
-}
-
-#write {
-    max-width: 860px;
-  	margin: 0 auto;
-  	padding: 30px;
-    padding-bottom: 100px;
-}
-#write > ul:first-child,
-#write > ol:first-child{
-    margin-top: 30px;
-}
-
-a {
-    color: #4183C4;
-}
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    position: relative;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    font-weight: bold;
-    line-height: 1.4;
-    cursor: text;
-}
-h1:hover a.anchor,
-h2:hover a.anchor,
-h3:hover a.anchor,
-h4:hover a.anchor,
-h5:hover a.anchor,
-h6:hover a.anchor {
-    text-decoration: none;
-}
-h1 tt,
-h1 code {
-    font-size: inherit;
-}
-h2 tt,
-h2 code {
-    font-size: inherit;
-}
-h3 tt,
-h3 code {
-    font-size: inherit;
-}
-h4 tt,
-h4 code {
-    font-size: inherit;
-}
-h5 tt,
-h5 code {
-    font-size: inherit;
-}
-h6 tt,
-h6 code {
-    font-size: inherit;
-}
-h1 {
-    padding-bottom: .3em;
-    font-size: 2.25em;
-    line-height: 1.2;
-    border-bottom: 1px solid #eee;
-}
-h2 {
-   padding-bottom: .3em;
-    font-size: 1.75em;
-    line-height: 1.225;
-    border-bottom: 1px solid #eee;
-}
-h3 {
-    font-size: 1.5em;
-    line-height: 1.43;
-}
-h4 {
-    font-size: 1.25em;
-}
-h5 {
-    font-size: 1em;
-}
-h6 {
-   font-size: 1em;
-    color: #777;
-}
-p,
-blockquote,
-ul,
-ol,
-dl,
-table{
-    margin: 0.8em 0;
-}
-li>ol,
-li>ul {
-    margin: 0 0;
-}
-hr {
-    height: 2px;
-    padding: 0;
-    margin: 16px 0;
-    background-color: #e7e7e7;
-    border: 0 none;
-    overflow: hidden;
-    box-sizing: content-box;
-}
-
-li p.first {
-    display: inline-block;
-}
-ul,
-ol {
-    padding-left: 30px;
-}
-ul:first-child,
-ol:first-child {
-    margin-top: 0;
-}
-ul:last-child,
-ol:last-child {
-    margin-bottom: 0;
-}
-blockquote {
-    border-left: 4px solid #dfe2e5;
-    padding: 0 15px;
-    color: #777777;
-}
-blockquote blockquote {
-    padding-right: 0;
-}
-table {
-    padding: 0;
-    word-break: initial;
-}
-table tr {
-    border-top: 1px solid #dfe2e5;
-    margin: 0;
-    padding: 0;
-}
-table tr:nth-child(2n),
-thead {
-    background-color: #f8f8f8;
-}
-table tr th {
-    font-weight: bold;
-    border: 1px solid #dfe2e5;
-    border-bottom: 0;
-    text-align: left;
-    margin: 0;
-    padding: 6px 13px;
-}
-table tr td {
-    border: 1px solid #dfe2e5;
-    text-align: left;
-    margin: 0;
-    padding: 6px 13px;
-}
-table tr th:first-child,
-table tr td:first-child {
-    margin-top: 0;
-}
-table tr th:last-child,
-table tr td:last-child {
-    margin-bottom: 0;
-}
-
-.CodeMirror-lines {
-    padding-left: 4px;
-}
-
-.code-tooltip {
-    box-shadow: 0 1px 1px 0 rgba(0,28,36,.3);
-    border-top: 1px solid #eef2f2;
-}
-
-.md-fences,
-code,
-tt {
-    border: 1px solid #e7eaed;
-    background-color: #f8f8f8;
-    border-radius: 3px;
-    padding: 0;
-    padding: 2px 4px 0px 4px;
-    font-size: 0.9em;
-}
-
-code {
-    background-color: #f3f4f4;
-    padding: 0 2px 0 2px;
-}
-
-.md-fences {
-    margin-bottom: 15px;
-    margin-top: 15px;
-    padding-top: 8px;
-    padding-bottom: 6px;
-}
-
-
-.md-task-list-item > input {
-  margin-left: -1.3em;
-}
-
+:root { --side-bar-bg-color: #fafafa; --control-text-color: #777; }
+html { font-size: 16px; }
+body { font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.6; }
+#write { max-width: 860px; margin: 0px auto; padding: 30px 30px 100px; }
+#write > ul:first-child, #write > ol:first-child { margin-top: 30px; }
+a { color: rgb(65, 131, 196); }
+h1, h2, h3, h4, h5, h6 { position: relative; margin-top: 1rem; margin-bottom: 1rem; font-weight: bold; line-height: 1.4; cursor: text; }
+h1:hover a.anchor, h2:hover a.anchor, h3:hover a.anchor, h4:hover a.anchor, h5:hover a.anchor, h6:hover a.anchor { text-decoration: none; }
+h1 tt, h1 code { font-size: inherit; }
+h2 tt, h2 code { font-size: inherit; }
+h3 tt, h3 code { font-size: inherit; }
+h4 tt, h4 code { font-size: inherit; }
+h5 tt, h5 code { font-size: inherit; }
+h6 tt, h6 code { font-size: inherit; }
+h1 { padding-bottom: 0.3em; font-size: 2.25em; line-height: 1.2; border-bottom: 1px solid rgb(238, 238, 238); }
+h2 { padding-bottom: 0.3em; font-size: 1.75em; line-height: 1.225; border-bottom: 1px solid rgb(238, 238, 238); }
+h3 { font-size: 1.5em; line-height: 1.43; }
+h4 { font-size: 1.25em; }
+h5 { font-size: 1em; }
+h6 { font-size: 1em; color: rgb(119, 119, 119); }
+p, blockquote, ul, ol, dl, table { margin: 0.8em 0px; }
+li > ol, li > ul { margin: 0px; }
+hr { height: 2px; padding: 0px; margin: 16px 0px; background-color: rgb(231, 231, 231); border: 0px none; overflow: hidden; box-sizing: content-box; }
+li p.first { display: inline-block; }
+ul, ol { padding-left: 30px; }
+ul:first-child, ol:first-child { margin-top: 0px; }
+ul:last-child, ol:last-child { margin-bottom: 0px; }
+blockquote { border-left: 4px solid rgb(223, 226, 229); padding: 0px 15px; color: rgb(119, 119, 119); }
+blockquote blockquote { padding-right: 0px; }
+table { padding: 0px; word-break: initial; }
+table tr { border-top: 1px solid rgb(223, 226, 229); margin: 0px; padding: 0px; }
+table tr:nth-child(2n), thead { background-color: rgb(248, 248, 248); }
+table tr th { font-weight: bold; border-width: 1px 1px 0px; border-top-style: solid; border-right-style: solid; border-left-style: solid; border-top-color: rgb(223, 226, 229); border-right-color: rgb(223, 226, 229); border-left-color: rgb(223, 226, 229); border-image: initial; border-bottom-style: initial; border-bottom-color: initial; text-align: left; margin: 0px; padding: 6px 13px; }
+table tr td { border: 1px solid rgb(223, 226, 229); text-align: left; margin: 0px; padding: 6px 13px; }
+table tr th:first-child, table tr td:first-child { margin-top: 0px; }
+table tr th:last-child, table tr td:last-child { margin-bottom: 0px; }
+.CodeMirror-lines { padding-left: 4px; }
+.code-tooltip { box-shadow: rgba(0, 28, 36, 0.3) 0px 1px 1px 0px; border-top: 1px solid rgb(238, 242, 242); }
+.md-fences, code, tt { border: 1px solid rgb(231, 234, 237); background-color: rgb(248, 248, 248); border-radius: 3px; padding: 2px 4px 0px; font-size: 0.9em; }
+code { background-color: rgb(243, 244, 244); padding: 0px 2px; }
+.md-fences { margin-bottom: 15px; margin-top: 15px; padding-top: 8px; padding-bottom: 6px; }
+.md-task-list-item > input { margin-left: -1.3em; }
 @media print {
-    html {
-        font-size: 13px;
-    }
-    table,
-    pre {
-        page-break-inside: avoid;
-    }
-    pre {
-        word-wrap: break-word;
-    }
+  html { font-size: 13px; }
+  table, pre { break-inside: avoid; }
+  pre { word-wrap: break-word; }
 }
+.md-fences { background-color: rgb(248, 248, 248); }
+#write pre.md-meta-block { padding: 1rem; font-size: 85%; line-height: 1.45; background-color: rgb(247, 247, 247); border: 0px; border-radius: 3px; color: rgb(119, 119, 119); margin-top: 0px !important; }
+.mathjax-block > .code-tooltip { bottom: 0.375rem; }
+.md-mathjax-midline { background: rgb(250, 250, 250); }
+#write > h3.md-focus::before { left: -1.5625rem; top: 0.375rem; }
+#write > h4.md-focus::before { left: -1.5625rem; top: 0.285714rem; }
+#write > h5.md-focus::before { left: -1.5625rem; top: 0.285714rem; }
+#write > h6.md-focus::before { left: -1.5625rem; top: 0.285714rem; }
+.md-image > .md-meta { border-radius: 3px; padding: 2px 0px 0px 4px; font-size: 0.9em; color: inherit; }
+.md-tag { color: rgb(167, 167, 167); opacity: 1; }
+.md-toc { margin-top: 20px; padding-bottom: 20px; }
+.sidebar-tabs { border-bottom: none; }
+#typora-quick-open { border: 1px solid rgb(221, 221, 221); background-color: rgb(248, 248, 248); }
+#typora-quick-open-item { background-color: rgb(250, 250, 250); border-color: rgb(254, 254, 254) rgb(229, 229, 229) rgb(229, 229, 229) rgb(238, 238, 238); border-style: solid; border-width: 1px; }
+.on-focus-mode blockquote { border-left-color: rgba(85, 85, 85, 0.12); }
+header, .context-menu, .megamenu-content, footer { font-family: "Segoe UI", Arial, sans-serif; }
+.file-node-content:hover .file-node-icon, .file-node-content:hover .file-node-open-state { visibility: visible; }
+.mac-seamless-mode #typora-sidebar { background-color: var(--side-bar-bg-color); }
+.md-lang { color: rgb(180, 101, 77); }
+.html-for-mac .context-menu { --item-hover-bg-color: #E6F0FE; }
+#md-notification .btn { border: 0px; }
+.dropdown-menu .divider { border-color: rgb(229, 229, 229); }
 
-.md-fences {
-	background-color: #f8f8f8;
-}
-#write pre.md-meta-block {
-	padding: 1rem;
-    font-size: 85%;
-    line-height: 1.45;
-    background-color: #f7f7f7;
-    border: 0;
-    border-radius: 3px;
-    color: #777777;
-    margin-top: 0 !important;
-}
 
-.mathjax-block>.code-tooltip {
-	bottom: .375rem;
-}
 
-.md-mathjax-midline {
-    background: #fafafa;
-}
 
-#write>h3.md-focus:before{
-	left: -1.5625rem;
-	top: .375rem;
-}
-#write>h4.md-focus:before{
-	left: -1.5625rem;
-	top: .285714286rem;
-}
-#write>h5.md-focus:before{
-	left: -1.5625rem;
-	top: .285714286rem;
-}
-#write>h6.md-focus:before{
-	left: -1.5625rem;
-	top: .285714286rem;
-}
-.md-image>.md-meta {
-    /*border: 1px solid #ddd;*/
-    border-radius: 3px;
-    padding: 2px 0px 0px 4px;
-    font-size: 0.9em;
-    color: inherit;
-}
-
-.md-tag {
-    color: #a7a7a7;
-    opacity: 1;
-}
-
-.md-toc { 
-    margin-top:20px;
-    padding-bottom:20px;
-}
-
-.sidebar-tabs {
-    border-bottom: none;
-}
-
-#typora-quick-open {
-    border: 1px solid #ddd;
-    background-color: #f8f8f8;
-}
-
-#typora-quick-open-item {
-    background-color: #FAFAFA;
-    border-color: #FEFEFE #e5e5e5 #e5e5e5 #eee;
-    border-style: solid;
-    border-width: 1px;
-}
-
-/** focus mode */
-.on-focus-mode blockquote {
-    border-left-color: rgba(85, 85, 85, 0.12);
-}
-
-header, .context-menu, .megamenu-content, footer{
-    font-family: "Segoe UI", "Arial", sans-serif;
-}
-
-.file-node-content:hover .file-node-icon,
-.file-node-content:hover .file-node-open-state{
-    visibility: visible;
-}
-
-.mac-seamless-mode #typora-sidebar {
-    background-color: #fafafa;
-    background-color: var(--side-bar-bg-color);
-}
-
-.md-lang {
-    color: #b4654d;
-}
-
-.html-for-mac .context-menu {
-    --item-hover-bg-color: #E6F0FE;
-}
-
-#md-notification .btn {
-    border: 0;
-}
-
-.dropdown-menu .divider {
-    border-color: #e5e5e5;
-}
 
  .typora-export li, .typora-export p, .typora-export,  .footnote-line {white-space: normal;} 
 </style>
 </head>
-<body class='typora-export' >
-<div  id='write'  class = 'is-mac'><p><strong><span>This is a collection of (random) words that I wrote or found. </span></strong></p><p><span>Hope I can keep updating it...</span></p><div class='md-toc' mdtype='toc'><p class="md-toc-content"><span class="md-toc-item md-toc-h2" data-ref="n5"><a class="md-toc-inner" style="" href="#%E4%BC%AA%E6%96%87%E8%A8%80%E6%96%87">伪文言文</a></span><span class="md-toc-item md-toc-h3" data-ref="n6"><a class="md-toc-inner" style="" href="#%E7%A5%AD%E5%90%9B%E6%96%87">祭君文         </a></span><span class="md-toc-item md-toc-h3" data-ref="n25"><a class="md-toc-inner" style="" href="#%E8%99%9E%E7%BE%8E%E4%BA%BA">虞美人</a></span><span class="md-toc-item md-toc-h3" data-ref="n29"><a class="md-toc-inner" style="" href="#%E9%9D%92%E7%8E%89%E6%A1%88">青玉案</a></span><span class="md-toc-item md-toc-h3" data-ref="n33"><a class="md-toc-inner" style="" href="#%E6%97%A0%E9%A2%98">无题</a></span><span class="md-toc-item md-toc-h3" data-ref="n38"><a class="md-toc-inner" style="" href="#%E6%97%A0%E9%A2%98%E4%BA%8C">无题二</a></span><span class="md-toc-item md-toc-h2" data-ref="n43"><a class="md-toc-inner" style="" href="#%E9%AB%98%E4%B8%AD%E7%9A%84%E6%AD%8C">高中的歌</a></span><span class="md-toc-item md-toc-h3" data-ref="n45"><a class="md-toc-inner" style="" href="#%E9%94%99%E8%90%BD">错落</a></span><span class="md-toc-item md-toc-h3" data-ref="n68"><a class="md-toc-inner" style="" href="#%E9%82%A3%E4%B8%80%E5%A4%A9">那一天</a></span><span class="md-toc-item md-toc-h3" data-ref="n88"><a class="md-toc-inner" style="" href="#%E5%B0%8Fp%E5%AD%A9">小P孩</a></span><span class="md-toc-item md-toc-h3" data-ref="n114"><a class="md-toc-inner" style="" href="#%E7%AC%91%E5%BA%A6">笑度</a></span><span class="md-toc-item md-toc-h3" data-ref="n134"><a class="md-toc-inner" style="" href="#%E8%A1%8C%E8%B5%B0%E7%9D%80%E7%9A%84%E6%88%91">行走着的我</a></span><span class="md-toc-item md-toc-h2" data-ref="n156"><a class="md-toc-inner" style="" href="#%E9%AB%98%E4%B8%AD%E6%97%A5%E8%AE%B0">高中日记</a></span><span class="md-toc-item md-toc-h3" data-ref="n158"><a class="md-toc-inner" style="" href="#%E8%93%9D%E6%9C%88%E4%BA%AE">蓝月亮</a></span><span class="md-toc-item md-toc-h2" data-ref="n178"><a class="md-toc-inner" style="" href="#love">Love</a></span><span class="md-toc-item md-toc-h2" data-ref="n223"><a class="md-toc-inner" style="" href="#encouraging">Encouraging</a></span><span class="md-toc-item md-toc-h2" data-ref="n236"><a class="md-toc-inner" style="" href="#bad">Bad</a></span><span class="md-toc-item md-toc-h2" data-ref="n242"><a class="md-toc-inner" style="" href="#code">Code</a></span><span class="md-toc-item md-toc-h2" data-ref="n249"><a class="md-toc-inner" style="" href="#random">Random</a></span><span class="md-toc-item md-toc-h2" data-ref="n275"><a class="md-toc-inner" style="" href="#2019-07-04-afterthoughts-on-%5B/%3Cnymphomaniac/%3E%5D(https://www.imdb.com/title/tt1937390/)"> 2019-07-04 Afterthoughts on &lt;Nymphomaniac&gt;</a></span><span class="md-toc-item md-toc-h2" data-ref="n300"><a class="md-toc-inner" style="" href="#2019-07-26-i-am-the-center-of-the-world">2019-07-26 I am the center of the world</a></span></p></div><p>&nbsp;</p><h2><a name="%E4%BC%AA%E6%96%87%E8%A8%80%E6%96%87" class="md-header-anchor"></a><span>伪文言文</span></h2><h3><a name="%E7%A5%AD%E5%90%9B%E6%96%87" class="md-header-anchor"></a><span>祭君文         </span></h3><p><span>2012/02/08</span></p><p><span>吾在涘南，君居浦北。吾以长衫，君以素裳。君颔而歌，吾跋而望。</span></p><p><span>吾第京都，君亦迁土。吾念其名，君还以笑。君既莞尔，吾以自知。</span></p><p><span>吾拜远戍，君省于路。吾念其苦，君无受繁。君不肯从，吾心已定。</span></p><p>&nbsp;</p><p><span>就此别离，三年而反。寒塞地僻，无以传书。</span></p><p><span>未及城郭，吾奔于车。寻君旧处，不知向路。</span></p><p><span>借问老妪，君以何处。却道未时，君为所辱。</span></p><p><span>奈何不可，涕流泪疏。无言以复，自沉南湖。</span></p><p>&nbsp;</p><p><span>呜呼！吾不知甚哉。诚知其如此，虽万禄之俸，受之何加？虽闻达之位，取之何益？吾心如水，君心如镜，镜花水月，终不可得矣。</span></p><p><span>呜呼！奈何相养以生，相守以死？一在天之涯，一在地之角。生而影不与吾形相依，死而魂不与汝梦相接。抱此无涯之憾，几何吾生乎？</span></p><p><span>彼苍者天，曷其有极！彼茫者烟，曷其有隙！</span></p><p><span>天长地久有时尽，此恨绵绵无绝期！</span></p><p><span>或曰，若相爱，必相惜。然则相爱何以相与，相与何以相依，相依何以相惜？</span></p><p><span>悲夫哀哉！何由与君诀！青冢覆白雪，心未死而人已逝。</span></p><p>&nbsp;</p><p><span>高二上期末⬇️</span></p><h3><a name="%E8%99%9E%E7%BE%8E%E4%BA%BA" class="md-header-anchor"></a><span>虞美人</span></h3><p><span>可怜春半无紫霞，闲潭梦落花。寺宇连日无吟咏，鸿雁长空山色有无中。</span></p><p><span>泠枫浦上烟波深，不见夜归人。问君会否托青鸟，青冥寒月苍茫两潇潇。</span></p><p>&nbsp;</p><h3><a name="%E9%9D%92%E7%8E%89%E6%A1%88" class="md-header-anchor"></a><span>青玉案</span></h3><p><span>北风连夜千帆舞，迷天雾，气吞虎。暮雪沉沉停不住，扁舟舳舻，月华万里，离人争渡。</span></p><p><span>挥杯劝影还复泪，泪洒潇湘丝霰垂。故国此去无多路，乘风觅影，顷刻虚无，恍然梦醒处。</span></p><p>&nbsp;</p><h3><a name="%E6%97%A0%E9%A2%98" class="md-header-anchor"></a><span>无题</span></h3><p><span>华光如练，寒声似雪，千里诵清诀。泠风凭玉蟾，破寒天，伊人窥不见。</span></p><p><span>凝霜皓腕，脂霰素颜，黯妃仙。莞尔倾城，恨入尘网间。</span></p><p><span>暗香融，柔波浓，换世依旧笑靥盼清风。</span></p><p>&nbsp;</p><h3><a name="%E6%97%A0%E9%A2%98%E4%BA%8C" class="md-header-anchor"></a><span>无题二</span></h3><p><span>人生只若如初见，何事千载诉清缘</span></p><p><span>红巾翠袖薄素颜，梦啼妆泪红阑干</span></p><p><span>此情可待成追忆，谁道当时未惘然</span></p><p>&nbsp;</p><h2><a name="%E9%AB%98%E4%B8%AD%E7%9A%84%E6%AD%8C" class="md-header-anchor"></a><span>高中的歌</span></h2><p><span> (大部分词为同学所写)</span></p><h3><a name="%E9%94%99%E8%90%BD" class="md-header-anchor"></a><span>错落</span></h3><p><span>残烛古卷，纤指轻点你宛然</span></p><p><span>轻罗小扇，谁又扑灭了心碎</span></p><p><span>舞弄墨彩，霞印琵琶水映梅</span></p><p><span>红罗帐，她饮杯，为谁</span></p><p>&nbsp;</p><p><span>牧曲小调，高山流水难相对</span></p><p><span>夜色未褪，柔荫带露目光邃</span></p><p><span>晨光熹微，不及你发梢融的雪</span></p><p><span>人何处，我转身，笑对</span></p><p>&nbsp;</p><p><span>满城笑语，你独拭泪。羽裳一舞，错落不归</span></p><p><span>缘起难牵，你欠了谁。笔墨点残阳铺一道你的美</span></p><p><span>柳枝依依，叶影相随。花败花开，花香不碎</span></p><p><span>柔情似水，我誓不会。雨落西塘淋湿了你的韵味</span></p><p>&nbsp;</p><p><span>一笔温柔，晕开了恩怨是非。冷冷月光，红苑香脂凝无悔</span></p><p><span>语笑嫣然，不晓粉蝶已断魂。小轩窗，她梳妆，为谁</span></p><p><span>孤步庭间，怎不见你有人陪。月光不睡，无情摇落青丝坠</span></p><p><span>碧云信断，东流春水我掺泪。错掩娥眉，等深闺，铜镜再锁你娇醉</span></p><p>&nbsp;</p><p><span>这烟花漫天的夜，我借青史书你梦落不回</span></p><p>&nbsp;</p><h3><a name="%E9%82%A3%E4%B8%80%E5%A4%A9" class="md-header-anchor"></a><span>那一天</span></h3><p><span>那一天，是否真的会来临，可我却怎么也看不见</span></p><p><span>那一天，是否真的有期限，可我只怕不能活到一万年</span></p><p><span>看不见，你那张最美的脸，只能感到它的纯真</span></p><p><span>我就像是一只孤雁，穿梭在云间</span></p><p><span>我要飞向的那边，啊你会在那边</span></p><p><span>雨打湿我的衣襟，用什么去风干</span></p><p><span>你就像是断线的纸鸢，啊千万别飞远</span></p><p>&nbsp;</p><p><span>那一天，是否真的已不远，可你我相距一万光年</span></p><p><span>那一天，是否真在山那边，可我担心不可翻越绝垣山</span></p><p><span>走不近，你那边最香的甸，只能闻到它的芳香</span></p><p><span>我就像是一名游子，行走在山间</span></p><p><span>我要奔向的那边，啊是否有伊人</span></p><p><span>泪冲淡我的笔砚，用什么去消遣</span></p><p><span>你就像是飘落的叶片，啊千万别飞远</span></p><p>&nbsp;</p><p><span>也许我真的不能等到，等到那一天</span></p><p><span>你又会与何人，说着何言</span></p><p>&nbsp;</p><h3><a name="%E5%B0%8Fp%E5%AD%A9" class="md-header-anchor"></a><span>小P孩</span></h3><p><span>不明白 你说的那片最美的海</span></p><p><span>只看见 你眼中泪水还在</span></p><p><span>不明白 你说的几句好像表白</span></p><p><span>只是觉得 你脸色红得可爱</span></p><p>&nbsp;</p><p><span>也难怪 也不怪 我只是个小P孩</span></p><p><span>胡子还未长开，怎懂得情爱</span></p><p><span>也难怪 也不怪 你只是个小女孩</span></p><p><span>辫子还未解开，怎懂得伤害</span></p><p>&nbsp;</p><p><span>我就是传说的小P孩 还未被丘比特箭伤害</span></p><p><span>我就是传说的小P孩 吃着棒棒糖流着能汰</span></p><p><span>我就是传说的小P孩 我的初吻还在</span></p><p><span>我就是传说的小P孩 不想要老婆和姨太太</span></p><p>&nbsp;</p><p><span>小P孩不懂得你的爱，只知道浪漫不该来</span></p><p><span>你说的会爱我到一生，就当是玩过家家菜</span></p><p>&nbsp;</p><p><span>我就是传说的小P孩 还未被玫瑰花刺伤害</span></p><p><span>我就是传说的小P孩 看着奥特曼打着小怪</span></p><p><span>我就是传说的小P孩 我的初恋还在</span></p><p><span>我就是传说的小P孩 不想要老婆和姨太太</span></p><p>&nbsp;</p><p><span>麻麻，我要吃奶！</span></p><p>&nbsp;</p><h3><a name="%E7%AC%91%E5%BA%A6" class="md-header-anchor"></a><span>笑度</span></h3><p><span>十载寒窗我悄然把霜凝住</span></p><p><span>冷户难暖怎生满银树</span></p><p><span>一笔丹青墨书怎可表达出</span></p><p><span>我寒窗苦读</span></p><p><span>砚色苍苍我静静把诗吟赋</span></p><p><span>狼毫不干难勾勒墨竹</span></p><p><span>一曲老亭流水，谁把古琴拨动</span></p><p><span>她断桥边住</span></p><p><span>无羁月色，奔入我朱户</span></p><p><span>心扉欲开，想把她描出</span></p><p><span>清风吹柱，怜它逃不出我屋</span></p><p><span>妆台银镜中藏有她的笑度</span></p><p><span>可怜我还是书生，有爱也不敢倾诉</span></p><p><span>写下这篇赋</span></p><p><span>红颜笑度，却叫我笑不出</span></p><p><span>红颜笑度，却叫我苦想哭</span></p><p><span>我反可封户把琴声止住</span></p><p><span>等我把香桂折后，再说出</span></p><p>&nbsp;</p><h3><a name="%E8%A1%8C%E8%B5%B0%E7%9D%80%E7%9A%84%E6%88%91" class="md-header-anchor"></a><span>行走着的我</span></h3><p><span>乱事很多 胡乱地思索</span></p><p><span>行走着的我 该忧伤还是快乐</span></p><p><span>悲伤错落 化作一条星河</span></p><p><span>剪影斑驳 回忆中的落寞</span></p><p><span>彩色的梦 粉刷成灰白色</span></p><p><span>人的冷漠 该怎样融化隔阂</span></p><p><span>行走着的我，该忧伤还是快乐</span></p><p>&nbsp;</p><p><span>阳光很多 盛开了花朵</span></p><p><span>独自的生活 为什么不该快乐</span></p><p><span>幸福错落 宛如那道银河</span></p><p><span>时光流转 不是记忆中的灰色</span></p><p><span>自己写歌 会有人跟着和</span></p><p><span>有何不可 一个人的生活</span></p><p><span>没有你的我 不要悲伤要快乐</span></p><p>&nbsp;</p><p><span>Time goes by, even faster than I.</span></p><p><span>Days elapse, just too late to say bye.</span></p><p><span>You passed by, like a passer-by,</span></p><p><span>I just could not say hi.</span></p><p>&nbsp;</p><h2><a name="%E9%AB%98%E4%B8%AD%E6%97%A5%E8%AE%B0" class="md-header-anchor"></a><span>高中日记</span></h2><p><span>人为什么会言不由衷呢？迫于当时形势还是为了长远利益的考虑？A white lie到底是为了不让对方难过，还是说，根本liar就是个double。也许谎言只是一瞬间形成，然后越陷越深……又或者，蓄谋已久的比说真话还流利？</span></p><h3><a name="%E8%93%9D%E6%9C%88%E4%BA%AE" class="md-header-anchor"></a><span>蓝月亮</span></h3><p><span>2011/8/31</span></p><p><span>你也要随波逐流了吗，年轻的神？随遇而安和随波逐流又有何区别呢？</span></p><p><span>神可以容忍人类的谎言，但却不能不叹息自以为是的人们逃脱了他的眼。</span></p><p><span>神可以容忍人类的欺骗，但终究不能容忍想要听到真话时虚假的谎言。</span></p><p><span>于是，年轻的神继续走在无尽的夜，仙女的歌落寞地洒在阴影交织的角落，也成了蓝月亮的影。</span></p><p><span>风平浪静的海面，只有年轻的神知道深处的躁动。可那表面，却平静地有些死寂，只那蓝光散在波光里，潋滟竟也像音响一样纯净。</span></p><p><span>强烈的反差让神也迷了神，竟未发现，那海也是一女子幻化而来。海浪骤起，神竟也跌到浪底，吞噬在漩涡里。海浪继续笑着，拍打着神留下的金色脚印，月亮的蓝，倒显得有些诡异了。</span></p><p><span>神醒了，原来是梦。神也会睡觉，也会做梦的。</span></p><p><span>睁开眼，四周依旧蔚蓝，那是蓝月亮的光。</span></p><p><span>神却好像什么也不记得，只是淡淡地朝月亮一笑，那月光便更加浓郁了。</span></p><p><span>化成歌，化成海，蓝月亮的眸子无处不在。而年轻的神啊，你的灵魂，又是否不在无处呢？</span></p><p><span>月依旧是狡黠地笑了，神也回以一颦，相安无事。</span></p><p><span>风霜刀剑，顷刻虚无。</span></p><p><span>蓝月亮的光最后终不能到达神的心啊，神的心啊终究不能送给蓝月亮。就这样，苍茫相望。</span></p><p><span>神的话啊，终不能被月光遗忘。神的心呀，注定不能与蓝月分享。蓝月亮是不能读懂神的啊，可为什么，主宰一切的神，也读不懂那一抹月光？</span></p><p><span>该记得的，该忘记了。游走在天地之间，潜行于江河湖海。年轻的神去寻找自己所无法掌控的未知，却发现未知变为已知的可怕和未知越来越多的迷茫。曾经的证据，现实的苍凉。一道红光，一抹蓝光，交汇之中，却显得更加可怖。</span></p><p><span>神啊，该记得的，愿你永远记得。该忘记的，早早淡忘吧。就像她的歌，她的海，或者说，天隅的蓝月亮。</span></p><p>&nbsp;</p><p>&nbsp;</p><h2><a name="love" class="md-header-anchor"></a><span>Love</span></h2><p><span>Don&#39;t try so hard, the best things come when you least expect them to</span></p><p><span>Tried to let go. Almost succeeded</span></p><p><span>Some people try to find the right one, while some try to be.</span></p><p><span>我渴望能见你一面，但请你记得，我不会开口要求见你。这不是因为骄傲，你知道我在你面前毫无骄傲可言，而是因为，唯有你也想见我的时候，我们见面才有意义。——西蒙娜·德·波伏娃《越洋情书》</span></p><p><span>我一直爱你，偶尔喜欢别人，在她们像你的时候</span></p><p><span>远远看去优美而神秘的人和事，只要拉近了看，就明白原来他们既不神秘也不优美。——《追忆似水年华》</span></p><p><span>I am too cautious to start a wrong relationship. I am too surreal to be real.</span></p><p><span>I don&#39;t really see much of anything. But I see you. That is crazy.</span></p><p><span>I am so sensitive that I act more like TCP than UDP in love.</span></p><p><span>I&#39;m a vessel, filled with others&#39; soul.</span></p><p><span>If fate is linear time-invariant, then a time shifting may help.</span></p><p>&nbsp;</p><p><span>I&#39;m a virus in the air. I&#39;m looking for some host. So don&#39;t get too close, or you may get cough.</span></p><p><span>I&#39;m a virus in the air. I&#39;m innocuous for the time. But heed what&#39;s happening, in case I wake up in the morning.</span></p><p><span>I&#39;m a virus in the air. I&#39;m pacific in the wind, but seemingly not in your flesh. You shall get thirsty, thrilled, twisted. You shall rip your vessels and crush your heart. You shall deify the illusion in your mind. You shall crawl on the ground for whole day long. </span></p><p><span>So don&#39;t come. You never ever did, and never ever will.</span></p><p>&nbsp;</p><p><span>Dear Madam,</span></p><p><span>Thank you for expressing your interest in offering me a place as a boyfriend. However, due to the large amount of love confessions I received this year, I regret to inform you that I am unable to accept your confession at this time.</span></p><p><span>Please be aware that this rejection does not reflect any negative evaluation on your confession. This year I have been particularly fortunate in receiving an unusually large number of love confessions. With such a varied and promising result, it is impossible for me to accept all confessions, regardless of their outstanding confessing performances.</span></p><p><span>Again, I greatly appreciate your interest in loving me, and I offer my best wishes of success in your future love confession.</span></p><p><span>Best,</span></p><p><span>Dean of Love Confession Acceptance and Financial Aid</span></p><hr /><p><span>Please do NOT reply directly to this email.</span></p><p>&nbsp;</p><p><span>她明明已经很好了，可是她还要变得更好。</span></p><p><span>她有很好的学历，很好的样貌，很不错的工作，可是她出去玩，她看电影，她吃美食，她拍了好看的照片却从不发朋友圈炫耀。</span></p><p><span>她背着包手里还拎着袋子，同行的男生要帮她，说不用我自己可以。</span></p><p><span>她每天晚上看书，工作，写论文，她受到匿名的礼物，只是自己收好，不会发朋友圈配上图再假装无辜的问一句，这是谁干的？</span></p><p><strong><span>你这么低调，可是我为什么这么没有安全感？</span></strong></p><p><strong><span>因为我害怕，每一个真正接触过你的人，都会爱上你。</span></strong></p><p>&nbsp;</p><p><span>The world&#39;s full of lonely people afraid to make the first move.      — Green Book</span></p><p><span>若能避开猛烈的狂喜 ，自然也不会有悲痛的来袭   — 人间失格</span></p><p><span>Fate is worth the wait  — Strawberries &amp; Cigarettes </span></p><p><span>Loneliness is just a crime  — Say hello</span></p><p><span>你是我患得患失的梦，我是你可有可无的人。 毕竟这穿越山河的箭，刺的都是用情至疾的人 — 写给黄淮</span></p><p><span>乍见的欢喜 潦草的散席 — 过境</span></p><p><span>Why do we choose to chase what we&#39;ll lose? — Jar of love</span></p><p><span>footloose and fancyfree</span></p><p><span>I wanna be a bad guy, but I don&#39;t have enough time.   2019-07-24</span></p><p>&nbsp;</p><p>&nbsp;</p><h2><a name="encouraging" class="md-header-anchor"></a><span>Encouraging</span></h2><p><span>Chance favors the prepared mind &amp; Fortune favors the bold</span></p><p><span>你必须非常努力才能看起来毫不费力</span></p><p><span>当你的才华还撑不起你的野心的时候，你就应该静下心来学习。</span></p><p><span>不要让你的性格驾驭了你的能力</span></p><p><span>I am the master of my fate and the captain of my soul</span></p><p><span>If you are still looking for that one person who will change your life, take a look in the mirror.</span></p><p><span>There are doubts in my mind, then bleach me; There are shadows in my heart, then light me; </span><strong><span>You are a monster. You fight and never die.</span></strong></p><p><span>Death never stops to rest. Neither can we.</span></p><p><span>it&#39;s impossible to enjoy idling thoroughly unless one has plenty of work to do.</span></p><p><span>后来许多人问我一个人夜晚踟蹰路上的心情，我想起的却不是孤单和路长，而是波澜壮阔的海和天空中闪耀的星光 《走吧张小砚》</span></p><p><span>“Today I will do what others won&#39;t, so tomorrow I can do what others can&#39;t” ---Jerry Rice</span></p><p>&nbsp;</p><h2><a name="bad" class="md-header-anchor"></a><span>Bad</span></h2><p><span>I know who I am, but you don&#39;t know who you are.</span></p><p><span>have no fear of perfect. u&#39;ll never reach it</span></p><p><span>Someday, someone will best me. But it won&#39;t be today, and it won&#39;t be you. </span></p><p><span>The only thing you should know is that you know nothing.</span></p><p>&nbsp;</p><h2><a name="code" class="md-header-anchor"></a><span>Code</span></h2><p><span>一段感情能给你带来多少酸楚，就曾给你带来多少幸福；一段代码曾给你带来多少痛苦，就能给你带来多少满足</span></p><p><span>写代码易，调试不易，且行且珍惜。</span></p><p><span>代码未动，算法先行</span></p><p><span>想要实例化的时候，却还都是抽象类</span></p><p><span>设想很美好，deadline太早</span></p><p>&nbsp;</p><h2><a name="random" class="md-header-anchor"></a><span>Random</span></h2><p><span>Oh my life, is changing everyday, in every possible way  — Dreams</span></p><p><span>The guy, dead before getting shot in the head, told a lie for a rest.</span></p><p><span>Our consciousness creates the present, just as it creates the past, from many distributed clues scattered in our mind.</span></p><p><span>Every soil where he is well is to a valiant man his natural country.</span></p><p><span>尘缘尘梦尘虞泪，缘深缘浅缘是罪。若水若云若魂飞，梦痴梦醒梦千回。</span></p><p><span>from womb to tomb, we are bound to others, past and present.</span></p><p><span>唯有黑暗，带来光明</span></p><p><span>弱小和无知不是生存的障碍，傲慢才是</span></p><p><span>上院初，下院暮，仰思百年菁菁路，留园玉兰顾；江川渡，剑川宿，樱花蓁蓁怡情驻，饮水思源处。</span></p><p><span>Mystery is not about travelling, but looking with new eyes. Philosophy is not to learn, but to feel.</span></p><p><span>what makes a real man fake, himself or the world?</span></p><p><span>nothing is as beautiful as an elegant equation translated into a perfect engineering</span></p><p><span>Too awkward to move forward.</span></p><p><span>no hope no dupe</span></p><p><span>believe betray beseech</span></p><p><span>forever forsake forgive forget</span></p><p><span>遗忘需要功</span></p><p><span>往事不可追 来世不可待 过去已过去 未来尚未来</span></p><p><span>lolls around on the ground</span></p><p><span>take your time to tell a lie</span></p><p><span>no rest, no mercy, no matter what</span></p><p><span>如果发出声音是危险的，那就保持沉默；如果自觉无力发光，那就别去照亮别人。但是，不要习惯了黑暗就为黑暗辩护；不要为自己的苟且而得意洋洋；不要嘲讽那些比自己更勇敢、更有热量的人们。可以卑微如尘土，不可扭曲如蛆虫。</span></p><p><span>轻誉苟毁，好憎尚怒，小人哉</span></p><p><span>I&#39;m a freak cuz I&#39;m afraid.</span></p><p>&nbsp;</p><h2><a name="2019-07-04-afterthoughts-on-%5B/%3Cnymphomaniac/%3E%5D(https://www.imdb.com/title/tt1937390/)" class="md-header-anchor"></a><span> 2019-07-04 Afterthoughts on </span><a href='https://www.imdb.com/title/tt1937390/'><span>&lt;</span><span>Nymphomaniac</span><span>&gt;</span></a></h2><p><img src='https://m.media-amazon.com/images/M/MV5BMzU4MDA1MTcwMV5BMl5BanBnXkFtZTcwODAyOTY3OQ@@._V1_.jpg' alt='' referrerPolicy='no-referrer' /></p><p><span>For now, I am considering all human behaviors, legal or illegal, moral or immoral, “understandable”. One has to be responsible for the consequences though. If you are a serial killer, you have to be prepared for being punished by law enforcement. If you are a sex addict, you have to be ready to be judged by “normal” people. I guess that is basically how the “modern society” works, right?</span></p><p><span>I would rather think of all these “odd” behaviors as some kind of revolt of the minority against the majority. What is right vs. What is wrong is pretty vague and in fact, the correctness of things often changes over time. For example, there seemed to be no space for LGBTQ ppl hundreds of years ago and perhaps one hundred years later from now, same-sex marriage is not only legal but required :) </span></p><p><span>I can feel Joe when she was telling the intriguing story. Well, I could also say she was self-defending sometimes (as Seligman said) but it doesn’t really matter, does it? Humans are too good at persuading themselves into sth that they like to do so as to feel comfortable when actually doing it. Just like they tend to sightlessly believe what they want to hear regardless of the bloody truth.</span></p><p><span>I guess the trickiest part of human interactions is that there is no way you can tell whether someone is lying or not when she/he is “expressing her/his feelings” rather than stating some factual or tangible things that you can easily verify. And humans, unlike ants, unfortunately, are so capricious! Even if she/he meant it when saying it, after a while she/he might as well change her/his mind. The sad thing is that you couldn’t even know if she/he was sincere in the first place, except for taking their words based on mutual trust.</span></p><p><span>I think Joe is brave when choosing to be herself during the therapy session. After all, not every pedophile has the courage to expose himself. Don’t get me wrong. I am not praising/condemning pedophilia but as I said, you gotta be ready to pay the price when doing sth not accepted by others. But the question is, what do you want? Or do you even know what you really want? And are you ready to bear the cost? Things like this are too complicated and worsened by the fact that we are capricious.</span></p><p><span>I don’t know if the fundamental element of humans (or any other creatures) is sex. Personally, I think it would be too boring if so (at least it shouldn’t not the only one)... And perhaps I will never know it (if some magic anti-aging is not invented later). I still remember I was picturing a future where there is no gender and every one is somehow interconnected with each other. It may start with the die-off of males, which seem to have a harder and harder time to keep their sperm kinetic and have more defective chromosomes than females… Well, let’s use another story for that.</span></p><p><span>And yet, I hypothesize sexuality is what genes force us to do, even without us realizing it at times, to survive for themselves. What about memes then? Is homosexuality in our genes or just memes that are recently more popular than ever? Perhaps I am partially affected by the book </span><a href='https://en.wikipedia.org/wiki/The_Selfish_Gene'><span>&lt;</span><span>The Selfish Gene</span><span>&gt;</span></a><span> (which is a good read BTW). One plausible reason it gives for supporting homosexuality is in our genes (which always try to reproduce themselves) is that: the first birth may make the second birth more inclined to be homosexual so that she/he could gain more advantages over his/her little sister/brother in later competitions.</span></p><p>&nbsp;</p><h2><a name="2019-07-26-i-am-the-center-of-the-world" class="md-header-anchor"></a><span>2019-07-26 I am the center of the world</span></h2><p><img src='https://cn.pling.com/img/f/7/6/9/d25a1a5f1f8ef8dec6f9efc88c868bd195f8.jpg' alt='' referrerPolicy='no-referrer' /></p><p><span>It seems that (almost) every kid believed he was the center of the world in his childhood. After growing up, they become more “mature” and realize the globe is not centered around him. On the contrary, I still have a feeling that I am the center of the world, well, my world and here is why.</span></p><p><span>Different people perceive their surroundings differently. On one hand, people view things with emotions, shaped by their memories related to the same or similar things in the past (perhaps also dissimilar things in a more covert way like neural nets). On the other hand, it is simply impossible to tell if my world is the same as yours even if the functions of our eyes are similar and we observe (almost) identical things. When a man thinks his girlfriend is pretty while his friend disagrees with him, are they really looking at the same person in every detail and aspect? When someone passes away, is the world still meaningful, or rather, does her world still exist (excluding the possibility of an afterlife)? To that extent, everything around one person exists for himself, in the way he looks at them. Of course, being the center does not necessarily mean everything comes to you: according to the hypothesis above, everything lives autonomously in its own center of a different world created by its own observations, and the interactions among different worlds are rather complicated. An interesting counter-example of the independency of people comes from one </span><a href='https://en.wikipedia.org/wiki/The_True_Believer'><span>book</span></a><span> that I am reading: those participating in political or religious movements seem to be fanatically united with each other and live for the same purpose as if their worlds were the same. The theory in the book is that their lives are terrible (their world is crappy) such that mass movements give them a new purpose of life. The hope of a brand-new world makes them forget their aimless lives.</span></p><p><span>When I was a child, I used to pray to a “god” in my world. Well, it is more like negotiation. For example, I would promise not to play video games for a week and ask him for good grades in the final exams. As you can imagine, sometimes it works so I would continue trading with him, and sometimes it doesn’t. Unlike people with actual religion tho, I would blame him when it doesn’t work out instead of blaming myself :) I don’t remember when I started to stop relying on him. In retrospect, however, I guess one of the benefits out of this is that it makes me more disciplined and determined. </span></p><p><span>What&#39;s in your world?</span></p></div>
+<body class='typora-export os-windows' >
+<div  id='write'  class = 'is-node'><p><strong>This is a collection of (random) words that I wrote or found. </strong></p><p>Hopefully I can keep updating it...</p><div class='md-toc' mdtype='toc'><p class="md-toc-content"><span class="md-toc-item md-toc-h2" data-ref="n5"><a class="md-toc-inner" href="#header-n5">伪文言文</a></span><span class="md-toc-item md-toc-h3" data-ref="n6"><a class="md-toc-inner" href="#header-n6">祭君文         </a></span><span class="md-toc-item md-toc-h3" data-ref="n25"><a class="md-toc-inner" href="#header-n25">虞美人</a></span><span class="md-toc-item md-toc-h3" data-ref="n29"><a class="md-toc-inner" href="#header-n29">青玉案</a></span><span class="md-toc-item md-toc-h3" data-ref="n33"><a class="md-toc-inner" href="#header-n33">无题</a></span><span class="md-toc-item md-toc-h3" data-ref="n38"><a class="md-toc-inner" href="#header-n38">无题二</a></span><span class="md-toc-item md-toc-h2" data-ref="n43"><a class="md-toc-inner" href="#header-n43">高中的歌</a></span><span class="md-toc-item md-toc-h3" data-ref="n44"><a class="md-toc-inner" href="#header-n44">错落</a></span><span class="md-toc-item md-toc-h3" data-ref="n67"><a class="md-toc-inner" href="#header-n67">那一天</a></span><span class="md-toc-item md-toc-h3" data-ref="n87"><a class="md-toc-inner" href="#header-n87">小P孩</a></span><span class="md-toc-item md-toc-h3" data-ref="n113"><a class="md-toc-inner" href="#header-n113">笑度</a></span><span class="md-toc-item md-toc-h3" data-ref="n133"><a class="md-toc-inner" href="#header-n133">行走着的我</a></span><span class="md-toc-item md-toc-h2" data-ref="n155"><a class="md-toc-inner" href="#header-n155">高中日记</a></span><span class="md-toc-item md-toc-h3" data-ref="n157"><a class="md-toc-inner" href="#header-n157">蓝月亮</a></span><span class="md-toc-item md-toc-h2" data-ref="n176"><a class="md-toc-inner" href="#header-n176">Love</a></span><span class="md-toc-item md-toc-h2" data-ref="n219"><a class="md-toc-inner" href="#header-n219">Hate</a></span><span class="md-toc-item md-toc-h2" data-ref="n225"><a class="md-toc-inner" href="#header-n225">Work</a></span><span class="md-toc-item md-toc-h2" data-ref="n238"><a class="md-toc-inner" href="#header-n238">Code</a></span><span class="md-toc-item md-toc-h2" data-ref="n245"><a class="md-toc-inner" href="#header-n245">Random</a></span><span class="md-toc-item md-toc-h2" data-ref="n268"><a class="md-toc-inner" href="#header-n268">More Random</a></span><span class="md-toc-item md-toc-h2" data-ref="n278"><a class="md-toc-inner" href="#header-n278">2019-07-04 Afterthoughts on &lt;Nymphomaniac&gt;</a></span><span class="md-toc-item md-toc-h2" data-ref="n288"><a class="md-toc-inner" href="#header-n288">2019-07-26 I am the center of the world</a></span></p></div><p>&nbsp;</p><h2><a name='header-n5' class='md-header-anchor '></a>伪文言文</h2><h3><a name='header-n6' class='md-header-anchor '></a>祭君文         </h3><p>2012/02/08</p><p>吾在涘南，君居浦北。吾以长衫，君以素裳。君颔而歌，吾跋而望。</p><p>吾第京都，君亦迁土。吾念其名，君还以笑。君既莞尔，吾以自知。</p><p>吾拜远戍，君省于路。吾念其苦，君无受繁。君不肯从，吾心已定。</p><p>&nbsp;</p><p>就此别离，三年而反。寒塞地僻，无以传书。</p><p>未及城郭，吾奔于车。寻君旧处，不知向路。</p><p>借问老妪，君以何处。却道未时，君为所辱。</p><p>奈何不可，涕流泪疏。无言以复，自沉南湖。</p><p>&nbsp;</p><p>呜呼！吾不知甚哉。诚知其如此，虽万禄之俸，受之何加？虽闻达之位，取之何益？吾心如水，君心如镜，镜花水月，终不可得矣。</p><p>呜呼！奈何相养以生，相守以死？一在天之涯，一在地之角。生而影不与吾形相依，死而魂不与汝梦相接。抱此无涯之憾，几何吾生乎？</p><p>彼苍者天，曷其有极！彼茫者烟，曷其有隙！</p><p>天长地久有时尽，此恨绵绵无绝期！</p><p>或曰，若相爱，必相惜。然则相爱何以相与，相与何以相依，相依何以相惜？</p><p>悲夫哀哉！何由与君诀！青冢覆白雪，心未死而人已逝。</p><p>&nbsp;</p><p>高二上期末⬇️</p><h3><a name='header-n25' class='md-header-anchor '></a>虞美人</h3><p>可怜春半无紫霞，闲潭梦落花。寺宇连日无吟咏，鸿雁长空山色有无中。</p><p>泠枫浦上烟波深，不见夜归人。问君会否托青鸟，青冥寒月苍茫两潇潇。</p><p>&nbsp;</p><h3><a name='header-n29' class='md-header-anchor '></a>青玉案</h3><p>北风连夜千帆舞，迷天雾，气吞虎。暮雪沉沉停不住，扁舟舳舻，月华万里，离人争渡。</p><p>挥杯劝影还复泪，泪洒潇湘丝霰垂。故国此去无多路，乘风觅影，顷刻虚无，恍然梦醒处。</p><p>&nbsp;</p><h3><a name='header-n33' class='md-header-anchor '></a>无题</h3><p>华光如练，寒声似雪，千里诵清诀。泠风凭玉蟾，破寒天，伊人窥不见。</p><p>凝霜皓腕，脂霰素颜，黯妃仙。莞尔倾城，恨入尘网间。</p><p>暗香融，柔波浓，换世依旧笑靥盼清风。</p><p>&nbsp;</p><h3><a name='header-n38' class='md-header-anchor '></a>无题二</h3><p>人生只若如初见，何事千载诉清缘</p><p>红巾翠袖薄素颜，梦啼妆泪红阑干</p><p>此情可待成追忆，谁道当时未惘然</p><p>&nbsp;</p><h2><a name='header-n43' class='md-header-anchor '></a>高中的歌</h2><h3><a name='header-n44' class='md-header-anchor '></a>错落</h3><p>残烛古卷，纤指轻点你宛然</p><p>轻罗小扇，谁又扑灭了心碎</p><p>舞弄墨彩，霞印琵琶水映梅</p><p>红罗帐，她饮杯，为谁</p><p>&nbsp;</p><p>牧曲小调，高山流水难相对</p><p>夜色未褪，柔荫带露目光邃</p><p>晨光熹微，不及你发梢融的雪</p><p>人何处，我转身，笑对</p><p>&nbsp;</p><p>满城笑语，你独拭泪。羽裳一舞，错落不归</p><p>缘起难牵，你欠了谁。笔墨点残阳铺一道你的美</p><p>柳枝依依，叶影相随。花败花开，花香不碎</p><p>柔情似水，我誓不会。雨落西塘淋湿了你的韵味</p><p>&nbsp;</p><p>一笔温柔，晕开了恩怨是非。冷冷月光，红苑香脂凝无悔</p><p>语笑嫣然，不晓粉蝶已断魂。小轩窗，她梳妆，为谁</p><p>孤步庭间，怎不见你有人陪。月光不睡，无情摇落青丝坠</p><p>碧云信断，东流春水我掺泪。错掩娥眉，等深闺，铜镜再锁你娇醉</p><p>&nbsp;</p><p>这烟花漫天的夜，我借青史书你梦落不回</p><p>&nbsp;</p><h3><a name='header-n67' class='md-header-anchor '></a>那一天</h3><p>那一天，是否真的会来临，可我却怎么也看不见</p><p>那一天，是否真的有期限，可我只怕不能活到一万年</p><p>看不见，你那张最美的脸，只能感到它的纯真</p><p>我就像是一只孤雁，穿梭在云间</p><p>我要飞向的那边，啊你会在那边</p><p>雨打湿我的衣襟，用什么去风干</p><p>你就像是断线的纸鸢，啊千万别飞远</p><p>&nbsp;</p><p>那一天，是否真的已不远，可你我相距一万光年</p><p>那一天，是否真在山那边，可我担心不可翻越绝垣山</p><p>走不近，你那边最香的甸，只能闻到它的芳香</p><p>我就像是一名游子，行走在山间</p><p>我要奔向的那边，啊是否有伊人</p><p>泪冲淡我的笔砚，用什么去消遣</p><p>你就像是飘落的叶片，啊千万别飞远</p><p>&nbsp;</p><p>也许我真的不能等到，等到那一天</p><p>你又会与何人，说着何言</p><p>&nbsp;</p><h3><a name='header-n87' class='md-header-anchor '></a>小P孩</h3><p>不明白 你说的那片最美的海</p><p>只看见 你眼中泪水还在</p><p>不明白 你说的几句好像表白</p><p>只是觉得 你脸色红得可爱</p><p>&nbsp;</p><p>也难怪 也不怪 我只是个小P孩</p><p>胡子还未长开，怎懂得情爱</p><p>也难怪 也不怪 你只是个小女孩</p><p>辫子还未解开，怎懂得伤害</p><p>&nbsp;</p><p>我就是传说的小P孩 还未被丘比特箭伤害</p><p>我就是传说的小P孩 吃着棒棒糖流着能汰</p><p>我就是传说的小P孩 我的初吻还在</p><p>我就是传说的小P孩 不想要老婆和姨太太</p><p>&nbsp;</p><p>小P孩不懂得你的爱，只知道浪漫不该来</p><p>你说的会爱我到一生，就当是玩过家家菜</p><p>&nbsp;</p><p>我就是传说的小P孩 还未被玫瑰花刺伤害</p><p>我就是传说的小P孩 看着奥特曼打着小怪</p><p>我就是传说的小P孩 我的初恋还在</p><p>我就是传说的小P孩 不想要老婆和姨太太</p><p>&nbsp;</p><p>麻麻，我要吃奶！</p><p>&nbsp;</p><h3><a name='header-n113' class='md-header-anchor '></a>笑度</h3><p>十载寒窗我悄然把霜凝住</p><p>冷户难暖怎生满银树</p><p>一笔丹青墨书怎可表达出</p><p>我寒窗苦读</p><p>砚色苍苍我静静把诗吟赋</p><p>狼毫不干难勾勒墨竹</p><p>一曲老亭流水，谁把古琴拨动</p><p>她断桥边住</p><p>无羁月色，奔入我朱户</p><p>心扉欲开，想把她描出</p><p>清风吹柱，怜它逃不出我屋</p><p>妆台银镜中藏有她的笑度</p><p>可怜我还是书生，有爱也不敢倾诉</p><p>写下这篇赋</p><p>红颜笑度，却叫我笑不出</p><p>红颜笑度，却叫我苦想哭</p><p>我反可封户把琴声止住</p><p>等我把香桂折后，再说出</p><p>&nbsp;</p><h3><a name='header-n133' class='md-header-anchor '></a>行走着的我</h3><p>乱事很多 胡乱地思索</p><p>行走着的我 该忧伤还是快乐</p><p>悲伤错落 化作一条星河</p><p>剪影斑驳 回忆中的落寞</p><p>彩色的梦 粉刷成灰白色</p><p>人的冷漠 该怎样融化隔阂</p><p>行走着的我，该忧伤还是快乐</p><p>&nbsp;</p><p>阳光很多 盛开了花朵</p><p>独自的生活 为什么不该快乐</p><p>幸福错落 宛如那道银河</p><p>时光流转 不是记忆中的灰色</p><p>自己写歌 会有人跟着和</p><p>有何不可 一个人的生活</p><p>没有你的我 不要悲伤要快乐</p><p>&nbsp;</p><p>Time goes by, even faster than I.</p><p>Days elapse, just too late to say bye.</p><p>You passed by, like a passer-by,</p><p>I just could not say hi.</p><p>&nbsp;</p><h2><a name='header-n155' class='md-header-anchor '></a>高中日记</h2><p>人为什么会言不由衷呢？迫于当时形势还是为了长远利益的考虑？A white lie到底是为了不让对方难过，还是说，根本liar就是个double。也许谎言只是一瞬间形成，然后越陷越深……又或者，蓄谋已久的比说真话还流利？</p><h3><a name='header-n157' class='md-header-anchor '></a>蓝月亮</h3><p>2011/8/31</p><p>你也要随波逐流了吗，年轻的神？随遇而安和随波逐流又有何区别呢？</p><p>神可以容忍人类的谎言，但却不能不叹息自以为是的人们逃脱了他的眼。</p><p>神可以容忍人类的欺骗，但终究不能容忍想要听到真话时虚假的谎言。</p><p>于是，年轻的神继续走在无尽的夜，仙女的歌落寞地洒在阴影交织的角落，也成了蓝月亮的影。</p><p>风平浪静的海面，只有年轻的神知道深处的躁动。可那表面，却平静地有些死寂，只那蓝光散在波光里，潋滟竟也像音响一样纯净。</p><p>强烈的反差让神也迷了神，竟未发现，那海也是一女子幻化而来。海浪骤起，神竟也跌到浪底，吞噬在漩涡里。海浪继续笑着，拍打着神留下的金色脚印，月亮的蓝，倒显得有些诡异了。</p><p>神醒了，原来是梦。神也会睡觉，也会做梦的。</p><p>睁开眼，四周依旧蔚蓝，那是蓝月亮的光。</p><p>神却好像什么也不记得，只是淡淡地朝月亮一笑，那月光便更加浓郁了。</p><p>化成歌，化成海，蓝月亮的眸子无处不在。而年轻的神啊，你的灵魂，又是否不在无处呢？</p><p>月依旧是狡黠地笑了，神也回以一颦，相安无事。</p><p>风霜刀剑，顷刻虚无。</p><p>蓝月亮的光最后终不能到达神的心啊，神的心啊终究不能送给蓝月亮。就这样，苍茫相望。</p><p>神的话啊，终不能被月光遗忘。神的心呀，注定不能与蓝月分享。蓝月亮是不能读懂神的啊，可为什么，主宰一切的神，也读不懂那一抹月光？</p><p>该记得的，该忘记了。游走在天地之间，潜行于江河湖海。年轻的神去寻找自己所无法掌控的未知，却发现未知变为已知的可怕和未知越来越多的迷茫。曾经的证据，现实的苍凉。一道红光，一抹蓝光，交汇之中，却显得更加可怖。</p><p>神啊，该记得的，愿你永远记得。该忘记的，早早淡忘吧。就像她的歌，她的海，或者说，天隅的蓝月亮。</p><p>&nbsp;</p><h2><a name='header-n176' class='md-header-anchor '></a>Love</h2><p>Some people try to find the right one, while some try to be.</p><p>Don&#39;t try so hard, the best things come when you least expect them to</p><p>Tried to let go. Almost succeeded</p><p>我渴望能见你一面，但请你记得，我不会开口要求见你。这不是因为骄傲，你知道我在你面前毫无骄傲可言，而是因为，唯有你也想见我的时候，我们见面才有意义。——西蒙娜·德·波伏娃《越洋情书》</p><p>远远看去优美而神秘的人和事，只要拉近了看，就明白原来他们既不神秘也不优美。——《追忆似水年华》</p><p>I am too cautious to start a wrong relationship. I am too surreal to be real.</p><p>I don&#39;t really see much of anything. But I see you. That is crazy.</p><p>I am so sensitive that I act more like TCP than UDP.</p><p>I&#39;m a vessel, filled with other souls.</p><p>If fate is linear time-invariant, then a time shifting may help.</p><p>&nbsp;</p><p>I&#39;m a virus in the air. I&#39;m looking for some host. So don&#39;t get too close, or you may get cough.</p><p>I&#39;m a virus in the air. I&#39;m innocuous for the time. But heed what&#39;s happening, in case I wake up in the morning.</p><p>I&#39;m a virus in the air. I&#39;m pacific in the wind, but seemingly not in your flesh. You shall get thirsty, thrilled, twisted. You shall rip your vessels and crush your heart. You shall deify the illusion in your mind. You shall crawl on the ground for whole day long. </p><p>So don&#39;t come. You never ever did, and never ever will.</p><p>&nbsp;</p><p>Dear Madam,</p><p>Thank you for expressing your interest in offering me a place as a boyfriend. However, due to the large amount of love confessions I received this year, I regret to inform you that I am unable to accept your confession at this time.</p><p>Please be aware that this rejection does not reflect any negative evaluation on your confession. This year I have been particularly fortunate in receiving an unusually large number of love confessions. With such a varied and promising result, it is impossible for me to accept all confessions, regardless of their outstanding confessing performances.</p><p>Again, I greatly appreciate your interest in loving me, and I offer my best wishes of success in your future love confession.</p><p>Best,</p><p>Dean of Love Confession Acceptance and Financial Aid</p><hr /><p>Please do NOT reply directly to this email.</p><p>&nbsp;</p><p>她明明已经很好了，可是她还要变得更好。</p><p>她有很好的学历，很好的样貌，很不错的工作，可是她出去玩，她看电影，她吃美食，她拍了好看的照片却从不发朋友圈炫耀。</p><p>她背着包手里还拎着袋子，同行的男生要帮她，说不用我自己可以。</p><p>她每天晚上看书，工作，写论文，她受到匿名的礼物，只是自己收好，不会发朋友圈配上图再假装无辜的问一句，这是谁干的？</p><p>你这么低调，可是我为什么这么没有安全感？</p><p>因为我害怕，每一个真正接触过你的人，都会爱上你。</p><p>&nbsp;</p><p>The world&#39;s full of lonely people afraid to make the first move.      — Green Book</p><p>若能避开猛烈的狂喜 ，自然也不会有悲痛的来袭   — 人间失格</p><p>Fate is worth the wait  — Strawberries &amp; Cigarettes </p><p>Loneliness is just a crime  — Say hello</p><p>你是我患得患失的梦，我是你可有可无的人。 毕竟这穿越山河的箭，刺的都是用情至疾的人 — 写给黄淮</p><p>乍见的欢喜 潦草的散席 — 过境</p><p>Why do we choose to chase what we&#39;ll lose? — Jar of love</p><p>footloose and fancyfree</p><p>I&#39;m a fool out of love &#39;cause I just can&#39;t get enough — The Show</p><p>&nbsp;</p><h2><a name='header-n219' class='md-header-anchor '></a>Hate</h2><p>I know who I am, but you don&#39;t know who you are.</p><p>have no fear of perfect. u&#39;ll never reach it</p><p>Someday, someone will best me. But it won&#39;t be today, and it won&#39;t be you. </p><p>The only thing you should know is that you know nothing.</p><p>&nbsp;</p><h2><a name='header-n225' class='md-header-anchor '></a>Work</h2><p>Chance favors the prepared mind &amp; Fortune favors the bold</p><p>你必须非常努力才能看起来毫不费力</p><p>当你的才华还撑不起你的野心的时候，你就应该静下心来学习。</p><p>不要让你的性格驾驭了你的能力</p><p>I am the master of my fate and the captain of my soul</p><p>If you are still looking for that one person who will change your life, take a look in the mirror.</p><p>There are doubts in my mind, then bleach me; There are shadows in my heart, then light me; <strong>You are a monster. You fight and never die.</strong></p><p>Death never stops to rest. Neither can we.</p><p>it&#39;s impossible to enjoy idling thoroughly unless one has plenty of work to do.</p><p>后来许多人问我一个人夜晚踟蹰路上的心情，我想起的却不是孤单和路长，而是波澜壮阔的海和天空中闪耀的星光 《走吧张小砚》</p><p>“Today I will do what others won&#39;t, so tomorrow I can do what others can&#39;t” ---Jerry Rice</p><p>&nbsp;</p><h2><a name='header-n238' class='md-header-anchor '></a>Code</h2><p>一段感情能给你带来多少酸楚，就曾给你带来多少幸福；一段代码曾给你带来多少痛苦，就能给你带来多少满足</p><p>写代码易，调试不易，且行且珍惜。</p><p>代码未动，算法先行</p><p>想要实例化的时候，却还都是抽象类</p><p>设想很美好，deadline太早</p><p>&nbsp;</p><h2><a name='header-n245' class='md-header-anchor '></a>Random</h2><p>Oh my life, is changing everyday, in every possible way  — Dreams</p><p>The guy, dead before getting shot in the head, told a lie for a rest.</p><p>Our consciousness creates the present, just as it creates the past, from many distributed clues scattered in our mind.</p><p>Every soil where he is well is to a valiant man his natural country.</p><p>尘缘尘梦尘虞泪，缘深缘浅缘是罪。若水若云若魂飞，梦痴梦醒梦千回。</p><p>from womb to tomb, we are bound to others, past and present.</p><p>唯有黑暗，带来光明</p><p>弱小和无知不是生存的障碍，傲慢才是</p><p>上院初，下院暮，仰思百年菁菁路，留园玉兰顾；江川渡，剑川宿，樱花蓁蓁怡情驻，饮水思源处。</p><p>Mystery is not about travelling, but looking with new eyes. Philosophy is not to learn, but to feel.</p><p>what makes a real man fake, himself or the world?</p><p>nothing is as beautiful as an elegant equation translated into a perfect engineering</p><p>Too awkward to move forward.</p><p>no hope no dupe</p><p>believe betray beseech</p><p>forever forsake forgive forget</p><p>遗忘需要功</p><p>往事不可追 来世不可待 过去已过去 未来尚未来</p><p>lolls around on the ground</p><p>take your time to tell a lie</p><p>no rest, no mercy, no matter what</p><p>&nbsp;</p><h2><a name='header-n268' class='md-header-anchor '></a>More Random</h2><p>I do what I want when I am wanting to.  --- bad guy</p><p>I want to be a bad guy but I don&#39;t have enough time. </p><p>You are the poison and you are the cure.</p><p>I&#39;m a freak cuz I&#39;m afraid. </p><p>I can’t get enough and I’ve had enough.</p><p>It’s irrational to stay rational all the time.</p><p>The world is owned by constructivism.</p><p>One paper, one instrument. </p><p>&nbsp;</p><h2><a name='header-n278' class='md-header-anchor '></a>2019-07-04 Afterthoughts on <a href='https://www.imdb.com/title/tt1937390/'>&lt;Nymphomaniac&gt;</a></h2><p><img src='https://m.media-amazon.com/images/M/MV5BMzU4MDA1MTcwMV5BMl5BanBnXkFtZTcwODAyOTY3OQ@@._V1_.jpg' alt='' referrerPolicy='no-referrer' /></p><p>For now, I am considering all human behaviors, legal or illegal, moral or immoral, “understandable”. One has to be responsible for the consequences though. If you are a serial killer, you have to be prepared for being punished by law enforcement. If you are a sex addict, you have to be ready to be judged by “normal” people. I guess that is basically how the “modern society” works, right?</p><p>I would rather think of all these “odd” behaviors as some kind of revolt of the minority against the majority. What is right vs. What is wrong is pretty vague and in fact, the correctness of things often changes over time. For example, there seemed to be no space for LGBTQ ppl hundreds of years ago and perhaps one hundred years later from now, same-sex marriage is not only legal but required :) </p><p>I can feel Joe when she was telling the intriguing story. Well, I could also say she was self-defending sometimes (as Seligman said) but it doesn’t really matter, does it? Humans are too good at persuading themselves into sth that they like to do so as to feel comfortable when actually doing it. Just like they tend to sightlessly believe what they want to hear regardless of the bloody truth.</p><p>I guess the trickiest part of human interactions is that there is no way you can tell whether someone is lying or not when she/he is “expressing her/his feelings” rather than stating some factual or tangible things that you can easily verify. And humans, unlike ants, unfortunately, are so capricious! Even if she/he meant it when saying it, after a while she/he might as well change her/his mind. The sad thing is that you couldn’t even know if she/he was sincere in the first place, except for taking their words based on mutual trust.</p><p>I think Joe is brave when choosing to be herself during the therapy session. After all, not every pedophile has the courage to expose himself. Don’t get me wrong. I am not praising/condemning pedophilia but as I said, you gotta be ready to pay the price when doing sth not accepted by others. But the question is, what do you want? Or do you even know what you really want? And are you ready to bear the cost? Things like this are too complicated and worsened by the fact that we are capricious.</p><p>I don’t know if the fundamental element of humans (or any other creatures) is sex. Personally, I think it would be too boring if so (at least it shouldn’t not the only one)... And perhaps I will never know it (if some magic anti-aging is not invented later). I still remember I was picturing a future where there is no gender and every one is somehow interconnected with each other. It may start with the die-off of males, which seem to have a harder and harder time to keep their sperm kinetic and have more defective chromosomes than females… Well, let’s use another story for that.</p><p>And yet, I hypothesize sexuality is what genes force us to do, even without us realizing it at times, to survive for themselves. What about memes then? Is homosexuality in our genes or just memes that are recently more popular than ever? Perhaps I am partially affected by the book <a href='https://en.wikipedia.org/wiki/The_Selfish_Gene'>&lt;The Selfish Gene&gt;</a> (which is a good read BTW). One plausible reason it gives for supporting homosexuality is in our genes (which always try to reproduce themselves) is that: the first birth may make the second birth more inclined to be homosexual so that she/he could gain more advantages over his/her little sister/brother in later competitions.</p><p>&nbsp;</p><h2><a name='header-n288' class='md-header-anchor '></a>2019-07-26 I am the center of the world</h2><p><img src='https://cn.pling.com/img/f/7/6/9/d25a1a5f1f8ef8dec6f9efc88c868bd195f8.jpg' alt='' referrerPolicy='no-referrer' /></p><p>It seems that (almost) every kid believed he was the center of the world in his childhood. After growing up, they become more “mature” and realize the globe is not centered around him. On the contrary, I still have a feeling that I am the center of the world, well, my world and here is why.</p><p>Different people perceive their surroundings differently. On one hand, people view things with emotions, shaped by their memories related to the same or similar things in the past (perhaps also dissimilar things in a more covert way like neural nets). On the other hand, it is simply impossible to tell if my world is the same as yours even if the functions of our eyes are similar and we observe (almost) identical things. When a man thinks his girlfriend is pretty while his friend disagrees with him, are they really looking at the same person in every detail and aspect? When someone passes away, is the world still meaningful, or rather, does her world still exist (excluding the possibility of an afterlife)? To that extent, everything around one person exists for himself, in the way he looks at them. Of course, being the center does not necessarily mean everything comes to you: according to the hypothesis above, everything lives autonomously in its own center of a different world created by its own observations, and the interactions among different worlds are rather complicated. An interesting counter-example of the independency of people comes from one <a href='https://en.wikipedia.org/wiki/The_True_Believer'>book</a> that I am reading: those participating in political or religious movements seem to be fanatically united with each other and live for the same purpose as if their worlds were the same. The theory in the book is that their lives are terrible (their world is crappy) such that mass movements give them a new purpose of life. The hope of a brand-new world makes them forget their aimless lives.</p><p>When I was a child, I used to pray to a “god” in my world. Well, it is more like negotiation. For example, I would promise not to play video games for a week and ask him for good grades in the final exams. As you can imagine, sometimes it works so I would continue trading with him, and sometimes it doesn’t. Unlike people with actual religion tho, I would blame him when it doesn’t work out instead of blaming myself :) I don’t remember when I started to stop relying on him. In retrospect, however, I guess one of the benefits out of this is that it makes me more disciplined and determined. </p><p>What&#39;s in your world?</p></div>
 <!-- <a>Last modified:</a>
 <a id='lastedit'>Yuning Mao</a>
 <br><br> -->
 <!-- <script src="js/jquery.min.js"></script>   -->
 <!-- <script type="text/javascript">var x = document.lastModified; $('#lastedit').html('<a>' + x + '</a>')</script> -->
 <a href="http://www.hitwebcounter.com" target="_blank">
-    <img src="http://hitwebcounter.com/counter/counter.php?page=7045302&style=0006&nbdigits=5&type=page&initCount=0" title="" Alt=""   border="0" >
-    </a>   
-    <div id="disqus_thread"></div>
-    <script>
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-    var disqus_config = function () {
-    this.page.url = "https://morningmoni.github.io/words";  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = "words"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://morningmoni.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-    </script>
-    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    </div>
+  <img src="http://hitwebcounter.com/counter/counter.php?page=7045302&style=0006&nbdigits=5&type=page&initCount=0" title="" Alt=""   border="0" >
+  </a>   
+  <div id="disqus_thread"></div>
+  <script>
+  /**
+  *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+  *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+  var disqus_config = function () {
+  this.page.url = "https://morningmoni.github.io/words";  // Replace PAGE_URL with your page's canonical URL variable
+  this.page.identifier = "words"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+  };
+  (function() { // DON'T EDIT BELOW THIS LINE
+  var d = document, s = d.createElement('script');
+  s.src = 'https://morningmoni.disqus.com/embed.js';
+  s.setAttribute('data-timestamp', +new Date());
+  (d.head || d.body).appendChild(s);
+  })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  </div>
 </body>
 </html>
