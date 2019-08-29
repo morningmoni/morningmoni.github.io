@@ -1,6 +1,6 @@
 **This is a collection of (random) words that I wrote or found. **
 
-Hope I can keep updating it...
+Hopefully I can keep updating it...
 
 [TOC]
 
@@ -83,8 +83,6 @@ Hope I can keep updating it...
 
 
 ## 高中的歌
-
- (大部分词为同学所写)
 
 ### 错落
 
@@ -350,19 +348,15 @@ I just could not say hi.
 
 
 
-
-
 ## Love
+
+Some people try to find the right one, while some try to be.
 
 Don't try so hard, the best things come when you least expect them to
 
 Tried to let go. Almost succeeded
 
-Some people try to find the right one, while some try to be.
-
 我渴望能见你一面，但请你记得，我不会开口要求见你。这不是因为骄傲，你知道我在你面前毫无骄傲可言，而是因为，唯有你也想见我的时候，我们见面才有意义。——西蒙娜·德·波伏娃《越洋情书》
-
-我一直爱你，偶尔喜欢别人，在她们像你的时候
 
 远远看去优美而神秘的人和事，只要拉近了看，就明白原来他们既不神秘也不优美。——《追忆似水年华》
 
@@ -370,9 +364,9 @@ I am too cautious to start a wrong relationship. I am too surreal to be real.
 
 I don't really see much of anything. But I see you. That is crazy.
 
-I am so sensitive that I act more like TCP than UDP in love.
+I am so sensitive that I act more like TCP than UDP.
 
-I'm a vessel, filled with others' soul.
+I'm a vessel, filled with other souls.
 
 If fate is linear time-invariant, then a time shifting may help.
 
@@ -414,9 +408,9 @@ Please do NOT reply directly to this email.
 
 她每天晚上看书，工作，写论文，她受到匿名的礼物，只是自己收好，不会发朋友圈配上图再假装无辜的问一句，这是谁干的？
 
-**你这么低调，可是我为什么这么没有安全感？**
+你这么低调，可是我为什么这么没有安全感？
 
-**因为我害怕，每一个真正接触过你的人，都会爱上你。**
+因为我害怕，每一个真正接触过你的人，都会爱上你。
 
 
 
@@ -436,13 +430,23 @@ Why do we choose to chase what we'll lose? — Jar of love
 
 footloose and fancyfree
 
-I wanna be a bad guy, but I don't have enough time.   2019-07-24
+I'm a fool out of love 'cause I just can't get enough — The Show
 
 
 
+## Hate
+
+I know who I am, but you don't know who you are.
+
+have no fear of perfect. u'll never reach it
+
+Someday, someone will best me. But it won't be today, and it won't be you. 
+
+The only thing you should know is that you know nothing.
 
 
-## Encouraging
+
+## Work
 
 Chance favors the prepared mind & Fortune favors the bold
 
@@ -465,18 +469,6 @@ it's impossible to enjoy idling thoroughly unless one has plenty of work to do.
 后来许多人问我一个人夜晚踟蹰路上的心情，我想起的却不是孤单和路长，而是波澜壮阔的海和天空中闪耀的星光 《走吧张小砚》
 
 “Today I will do what others won't, so tomorrow I can do what others can't” ---Jerry Rice
-
-
-
-## Bad
-
-I know who I am, but you don't know who you are.
-
-have no fear of perfect. u'll never reach it
-
-Someday, someone will best me. But it won't be today, and it won't be you. 
-
-The only thing you should know is that you know nothing.
 
 
 
@@ -538,11 +530,25 @@ take your time to tell a lie
 
 no rest, no mercy, no matter what
 
-如果发出声音是危险的，那就保持沉默；如果自觉无力发光，那就别去照亮别人。但是，不要习惯了黑暗就为黑暗辩护；不要为自己的苟且而得意洋洋；不要嘲讽那些比自己更勇敢、更有热量的人们。可以卑微如尘土，不可扭曲如蛆虫。
 
-轻誉苟毁，好憎尚怒，小人哉
 
-I'm a freak cuz I'm afraid.
+## More Random
+
+I do what I want when I am wanting to.  --- bad guy
+
+I want to be a bad guy but I don't have enough time. 
+
+You are the poison and you are the cure.
+
+I'm a freak cuz I'm afraid. 
+
+I can’t get enough and I’ve had enough.
+
+It’s irrational to stay rational all the time.
+
+The world is owned by constructivism.
+
+One paper, one instrument. 
 
 
 
