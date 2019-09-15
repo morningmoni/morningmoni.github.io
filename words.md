@@ -550,6 +550,8 @@ The world is owned by constructivism.
 
 One paper, one instrument. 
 
+You’ll see what you seek.
+
 
 
 ##  2019-07-04 Afterthoughts on [\<Nymphomaniac\>](https://www.imdb.com/title/tt1937390/)
@@ -583,3 +585,13 @@ Different people perceive their surroundings differently. On one hand, people vi
 When I was a child, I used to pray to a “god” in my world. Well, it is more like negotiation. For example, I would promise not to play video games for a week and ask him for good grades in the final exams. As you can imagine, sometimes it works so I would continue trading with him, and sometimes it doesn’t. Unlike people with actual religion tho, I would blame him when it doesn’t work out instead of blaming myself :) I don’t remember when I started to stop relying on him. In retrospect, however, I guess one of the benefits out of this is that it makes me more disciplined and determined. 
 
 What's in your world?
+
+
+
+## 2019-09-14 [The Mist](https://soundcloud.com/charles-thefirst/the-mist-w-clozee)
+
+![](https://i1.sndcdn.com/artworks-000211649043-iscmmf-t500x500.jpg)
+
+I am often bothered by the statements that can only be proved wrong. That relates to what I wrote in a previous passage. Basically, for some arguments or claims, you can only prove them wrong but not prove them correct. This might be fine for science as there are so many people working on proving things wrong either directly or in some downstream applications. For interpersonal relationships, however, it is quite troublesome: the only means seems to be inferring the probability of sth holding true based on one’s credit history and other relevant pieces, which looks plausible but could still be annoying when you need to make a binary decision instead of just measuring the PR curve. Thresholding is too tricky esp. when every action counts and you won’t have another chance to reproduce the experiments. Well, this might be just an excuse (~~rationale~~) of me lacking trust in others. 
+
+I feel like I am giving up something I valued, something I deemed precious. I can’t say whether it is good or bad for my inner world in the long run. But at least, it will probably reduce the expected amount of loss in the short term I presume. Although I find that I am still kinda different from everyone I know in some aspects, maybe I am more realistic (alike to other humans?) and less romantic now. After all, one can never live in his fantasy from womb to tomb, right? I am still not planning to give up on myself. But who knows? Maybe someday I may as well do it. That, at least from my present POV, would be a tragedy tho. We are vessels filled with other souls. You’ve gotta make ends meet.
