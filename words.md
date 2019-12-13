@@ -432,6 +432,10 @@ footloose and fancyfree
 
 I'm a fool out of love 'cause I just can't get enough — The Show
 
+木叶纷纷归路，残月晓风何处。消息竟沉沉，今夜相思几许。秋雨，秋雨，一半因风吹去。— 纳兰性德
+
+我怕我爱上她，她爱上我；也怕我不再爱她，她不再爱我
+
 
 
 ## Hate
@@ -552,11 +556,15 @@ One paper, one instrument.
 
 You’ll see what you seek.
 
+Everyone is a murderer and a murderee #EverybodySucks
+
+Dreamers always dream. Players always play
+
 
 
 ##  2019-07-04 Afterthoughts on [\<Nymphomaniac\>](https://www.imdb.com/title/tt1937390/)
 
-![](https://m.media-amazon.com/images/M/MV5BMzU4MDA1MTcwMV5BMl5BanBnXkFtZTcwODAyOTY3OQ@@._V1_.jpg)
+<img src="https://morningmoni.github.io/words_img/nymphomaniac.jpg" style="zoom:50%;" />
 
 For now, I am considering all human behaviors, legal or illegal, moral or immoral, “understandable”. One has to be responsible for the consequences though. If you are a serial killer, you have to be prepared for being punished by law enforcement. If you are a sex addict, you have to be ready to be judged by “normal” people. I guess that is basically how the “modern society” works, right?
 
@@ -564,7 +572,7 @@ I would rather think of all these “odd” behaviors as some kind of revolt of 
 
 I can feel Joe when she was telling the intriguing story. Well, I could also say she was self-defending sometimes (as Seligman said) but it doesn’t really matter, does it? Humans are too good at persuading themselves into sth that they like to do so as to feel comfortable when actually doing it. Just like they tend to sightlessly believe what they want to hear regardless of the bloody truth.
 
-I guess the trickiest part of human interactions is that there is no way you can tell whether someone is lying or not when she/he is “expressing her/his feelings” rather than stating some factual or tangible things that you can easily verify. And humans, unlike ants, unfortunately, are so capricious! Even if she/he meant it when saying it, after a while she/he might as well change her/his mind. The sad thing is that you couldn’t even know if she/he was sincere in the first place, except for taking their words based on mutual trust.
+I guess the trickiest part of human interactions is that there is no way you can tell whether someone is lying or not when she/he is “expressing her/his feelings” rather than stating some factual or tangible things that you can easily verify. And humans, unlike ants, unfortunately, are so capricious! Even if she/he meant it when saying it, after a while she/he might also change her/his mind. The sad thing is that you couldn’t even know if she/he was sincere in the first place, except for taking their words based on mutual trust.
 
 I think Joe is brave when choosing to be herself during the therapy session. After all, not every pedophile has the courage to expose himself. Don’t get me wrong. I am not praising/condemning pedophilia but as I said, you gotta be ready to pay the price when doing sth not accepted by others. But the question is, what do you want? Or do you even know what you really want? And are you ready to bear the cost? Things like this are too complicated and worsened by the fact that we are capricious.
 
@@ -576,7 +584,7 @@ And yet, I hypothesize sexuality is what genes force us to do, even without us r
 
 ## 2019-07-26 I am the center of the world
 
-![](https://cn.pling.com/img/f/7/6/9/d25a1a5f1f8ef8dec6f9efc88c868bd195f8.jpg)
+<img src="https://morningmoni.github.io/words_img/word_center.jpg" style="zoom: 33%;" />
 
 It seems that (almost) every kid believed he was the center of the world in his childhood. After growing up, they become more “mature” and realize the globe is not centered around him. On the contrary, I still have a feeling that I am the center of the world, well, my world and here is why.
 
@@ -590,8 +598,28 @@ What's in your world?
 
 ## 2019-09-14 [The Mist](https://soundcloud.com/charles-thefirst/the-mist-w-clozee)
 
-![](https://i1.sndcdn.com/artworks-000211649043-iscmmf-t500x500.jpg)
+<img src="https://morningmoni.github.io/words_img/mist.jpg" style="zoom:67%;" />
 
 I am often bothered by the statements that can only be proved wrong. That relates to what I wrote in a previous passage. Basically, for some arguments or claims, you can only prove them wrong but not prove them correct. This might be fine for science as there are so many people working on proving things wrong either directly or in some downstream applications. For interpersonal relationships, however, it is quite troublesome: the only means seems to be inferring the probability of sth holding true based on one’s credit history and other relevant pieces, which looks plausible but could still be annoying when you need to make a binary decision instead of just measuring the PR curve. Thresholding is too tricky esp. when every action counts and you won’t have another chance to reproduce the experiments. Well, this might be just an excuse (~~rationale~~) of me lacking trust in others. 
 
-I feel like I am giving up something I valued, something I deemed precious. I can’t say whether it is good or bad for my inner world in the long run. But at least, it will probably reduce the expected amount of loss in the short term I presume. Although I find that I am still kinda different from everyone I know in some aspects, maybe I am more realistic (alike to other humans?) and less romantic now. After all, one can never live in his fantasy from womb to tomb, right? I am still not planning to give up on myself. But who knows? Maybe someday I may as well do it. That, at least from my present POV, would be a tragedy tho. We are vessels filled with other souls. You’ve gotta make ends meet.
+I feel like I am giving up something I valued, something I deemed precious. I can’t say whether it is good or bad for my inner world in the long run. But at least, it will probably reduce the expected amount of loss in the short term I presume. Although I find that I am still kinda different from everyone I know in some aspects, maybe I am more realistic (alike to other humans?) and less romantic now. After all, one can never live in his fantasy from womb to tomb, right? I am still not planning to give up on myself. But who knows? Maybe someday I may also do it. That, at least from my present POV, would be a tragedy tho. We are vessels filled with other souls. You’ve gotta make ends meet.
+
+
+
+## 2019-12-13 Dilemma
+
+<img src="https://morningmoni.github.io/words_img/dilemma.png" alt="img" style="zoom:150%;" />
+
+I used to think it is others that are difficult to understand. Recently, I started to realize I can’t understand myself either. What do I need? What do I want? How can I treat myself right without hurting others? Should I proceed or quit when the outlook is so dim and either way looks potentially damaging?
+
+Someone told me loving yourself is always right, even at the expense of others. I would say a truly “selfish” man like me won’t agree with such a claim. Leveraging others is risky too. Hatred incurs hatred. Violence begets violence. If you gaze long into an abyss, the abyss also gazes into you.
+
+What if someone simply doesn’t have any morality and doesn’t even care? The word “PUA” appears quite often recently on the news. The victims may not have the power to rebel. But still, I (naively) believe that revenge will come one way or another, e.g., the “artist” might lose his job (if he values job over sex of course). Also, public opinion seems to be extremely powerful and can put great pressure on the ones in the eye of the storm. I was put under the spotlight twice by accident. But luckily, most of the “melon-eating people” were on my side :)
+
+What if the stories are not under the spotlight then? I don’t quite believe in fairness and criminals may also get away with their crimes. However, I conjecture that their minds will be altered in a way that could prevent them from (originally reachable) greater success, i.e., they could have used the same skill/time for sth greater. But again, different ppl may value different things (what I value is apparently different from many men lol) and it’s hard to define one’s success. Also, that might just be my self-comforting.
+
+I have a hypothesis that one’s mind is largely shaped by her childhood. Boys that were harrassed become gays. Girls that got infected become neat freaks. Those who didn’t feel love don’t know how to trust, and those who saw lies understand words matter. Some are born dreamers, some players. And dreamers always dream, players always play. 
+
+That being said, people still change over time after growing up. Every time when I look back at what I did a while ago, I would find myself an idiot. Perhaps this is a good thing, implying I am still not too old to learn. Plus, there is really not much I feel I should regret (if any). 
+
+People tend to take kindness for granted and only learn from badness. In a blink, it is already the end of the first decade. Hopefully, we all learned a lesson in 2019.
