@@ -348,6 +348,54 @@ I just could not say hi.
 
 
 
+## Life
+
+New York is 3 hours ahead of California,
+but it does not make California slow.
+Someone graduated at the age of 22,
+but waited 5 years before securing a good job.
+Someone became a CEO at 25,
+and died at 50.
+While another became a CEO at 50,
+and lived to 90 years.
+Someone is still single,
+while someone else got married.
+Obama retires at 55,
+but Trump starts at 70.
+Absolutely everyone in this world works based on their Time Zone.
+People around you might seem to go ahead of you,
+some might seem to be behind you.
+But everyone is running their own RACE, in their own TIME.
+Don’t envy them or mock them.
+They are in their TIME ZONE, and you are in yours.
+Life is about waiting for the right moment to act.
+So, RELAX.
+You’re not LATE.
+You’re not EARLY.
+You are very much ON TIME, and in your TIME ZONE Destiny set up for you.
+
+
+
+Chance favors the prepared mind & Fortune favors the bold
+
+你必须非常努力才能看起来毫不费力
+
+I am the master of my fate and the captain of my soul
+
+If you are still looking for that one person who will change your life, take a look in the mirror.
+
+There are doubts in my mind, then bleach me; There are shadows in my heart, then light me; **You are a monster. You fight and never die.**
+
+Death never stops to rest. Neither can we.
+
+it's impossible to enjoy idling thoroughly unless one has plenty of work to do.
+
+后来许多人问我一个人夜晚踟蹰路上的心情，我想起的却不是孤单和路长，而是波澜壮阔的海和天空中闪耀的星光 《走吧张小砚》
+
+“Today I will do what others won't, so tomorrow I can do what others can't” ---Jerry Rice
+
+
+
 ## Love
 
 Some people try to find the right one, while some try to be.
@@ -448,35 +496,13 @@ Someday, someone will best me. But it won't be today, and it won't be you.
 
 The only thing you should know is that you know nothing.
 
+I still have plenty of time, but there is no more for you.
 
-
-## Work
-
-Chance favors the prepared mind & Fortune favors the bold
-
-你必须非常努力才能看起来毫不费力
-
-当你的才华还撑不起你的野心的时候，你就应该静下心来学习。
-
-不要让你的性格驾驭了你的能力
-
-I am the master of my fate and the captain of my soul
-
-If you are still looking for that one person who will change your life, take a look in the mirror.
-
-There are doubts in my mind, then bleach me; There are shadows in my heart, then light me; **You are a monster. You fight and never die.**
-
-Death never stops to rest. Neither can we.
-
-it's impossible to enjoy idling thoroughly unless one has plenty of work to do.
-
-后来许多人问我一个人夜晚踟蹰路上的心情，我想起的却不是孤单和路长，而是波澜壮阔的海和天空中闪耀的星光 《走吧张小砚》
-
-“Today I will do what others won't, so tomorrow I can do what others can't” ---Jerry Rice
+Don't fall for me when I am capable of leaving.
 
 
 
-## Code
+## Random
 
 一段感情能给你带来多少酸楚，就曾给你带来多少幸福；一段代码曾给你带来多少痛苦，就能给你带来多少满足
 
@@ -487,10 +513,6 @@ it's impossible to enjoy idling thoroughly unless one has plenty of work to do.
 想要实例化的时候，却还都是抽象类
 
 设想很美好，deadline太早
-
-
-
-## Random
 
 Oh my life, is changing everyday, in every possible way  — Dreams
 
@@ -503,10 +525,6 @@ Every soil where he is well is to a valiant man his natural country.
 尘缘尘梦尘虞泪，缘深缘浅缘是罪。若水若云若魂飞，梦痴梦醒梦千回。
 
 from womb to tomb, we are bound to others, past and present.
-
-唯有黑暗，带来光明
-
-弱小和无知不是生存的障碍，傲慢才是
 
 上院初，下院暮，仰思百年菁菁路，留园玉兰顾；江川渡，剑川宿，樱花蓁蓁怡情驻，饮水思源处。
 
@@ -558,7 +576,9 @@ You’ll see what you seek.
 
 Everyone is a murderer and a murderee #EverybodySucks
 
-Dreamers always dream. Players always play
+Dreamers always dream. Players always play.
+
+I am home where I am.
 
 
 
