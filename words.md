@@ -1,6 +1,6 @@
 **This is a collection of (random) words that I wrote or found. **
 
-Hopefully I can keep updating it...
+Hopefully I can keep updating it :)
 
 [TOC]
 
@@ -420,34 +420,6 @@ If fate is linear time-invariant, then a time shifting may help.
 
 
 
-I'm a virus in the air. I'm looking for some host. So don't get too close, or you may get cough.
-
-I'm a virus in the air. I'm innocuous for the time. But heed what's happening, in case I wake up in the morning.
-
-I'm a virus in the air. I'm pacific in the wind, but seemingly not in your flesh. You shall get thirsty, thrilled, twisted. You shall rip your vessels and crush your heart. You shall deify the illusion in your mind. You shall crawl on the ground for whole day long. 
-
-So don't come. You never ever did, and never ever will.
-
-
-
-Dear Madam,
-
-Thank you for expressing your interest in offering me a place as a boyfriend. However, due to the large amount of love confessions I received this year, I regret to inform you that I am unable to accept your confession at this time.
-
-Please be aware that this rejection does not reflect any negative evaluation on your confession. This year I have been particularly fortunate in receiving an unusually large number of love confessions. With such a varied and promising result, it is impossible for me to accept all confessions, regardless of their outstanding confessing performances.
-
-Again, I greatly appreciate your interest in loving me, and I offer my best wishes of success in your future love confession.
-
-Best,
-
-Dean of Love Confession Acceptance and Financial Aid
-
-_________________________________________
-
-Please do NOT reply directly to this email.
-
-
-
 她明明已经很好了，可是她还要变得更好。
 
 她有很好的学历，很好的样貌，很不错的工作，可是她出去玩，她看电影，她吃美食，她拍了好看的照片却从不发朋友圈炫耀。
@@ -484,9 +456,51 @@ I'm a fool out of love 'cause I just can't get enough — The Show
 
 我怕我爱上她，她爱上我；也怕我不再爱她，她不再爱我
 
+-- "I love you"
+
+-- "Love is a strong word"
+
+-- "I acknowledge your existence then"
 
 
-## Hate
+
+人们总是相信自己愿意相信的事情，就像你相信我喜欢你，我不相信你喜欢我。
+
+I still have plenty of time, but there is no more for you.
+
+Don't fall for me when I am capable of leaving.
+
+
+
+I'm a virus in the air. I'm looking for some host. So don't get too close, or you may get cough.
+
+I'm a virus in the air. I'm innocuous for the time. But heed what's happening, in case I wake up in the morning.
+
+I'm a virus in the air. I'm pacific in the wind, but seemingly not in your flesh. You shall get thirsty, thrilled, twisted. You shall rip your vessels and crush your heart. You shall deify the illusion in your mind. You shall crawl on the ground for whole day long. 
+
+So don't come. You never ever did, and never ever will.
+
+
+
+Dear Madam,
+
+Thank you for your interest in offering me a position as your boyfriend. However, due to the large amount of love confessions I received this year, I regret to inform you that I am unable to accept your confession at this moment.
+
+Please be aware that this rejection does not reflect any negative evaluation on your confession. This year I have been particularly fortunate in receiving an unusually large number of love confessions. With such a varied and promising result, it is impossible for me to accept all confessions, regardless of their outstanding confessing performances.
+
+Again, I greatly appreciate your interest in loving me, and I offer my best wishes of success in your future love confession.
+
+Best,
+
+Dean of Love Confession Acceptance and Financial Aid
+
+_________________________________________
+
+Please do NOT reply directly to this email.
+
+
+
+## Random
 
 I know who I am, but you don't know who you are.
 
@@ -495,14 +509,6 @@ have no fear of perfect. u'll never reach it
 Someday, someone will best me. But it won't be today, and it won't be you. 
 
 The only thing you should know is that you know nothing.
-
-I still have plenty of time, but there is no more for you.
-
-Don't fall for me when I am capable of leaving.
-
-
-
-## Random
 
 一段感情能给你带来多少酸楚，就曾给你带来多少幸福；一段代码曾给你带来多少痛苦，就能给你带来多少满足
 
@@ -636,7 +642,7 @@ Someone told me loving yourself is always right, even at the expense of others. 
 
 What if someone simply doesn’t have any morality and doesn’t even care? The word “PUA” appears quite often recently on the news. The victims may not have the power to rebel. But still, I (naively) believe that revenge will come one way or another, e.g., the “artist” might lose his job (if he values job over sex of course). Also, public opinion seems to be extremely powerful and can put great pressure on the ones in the eye of the storm. I was put under the spotlight twice by accident. But luckily, most of the “melon-eating people” were on my side :)
 
-What if the stories are not under the spotlight then? I don’t quite believe in fairness and criminals may also get away with their crimes. However, I conjecture that their minds will be altered in a way that could prevent them from (originally reachable) greater success, i.e., they could have used the same skill/time for sth greater. But again, different ppl may value different things (what I value is apparently different from many men lol) and it’s hard to define one’s success. Also, that might just be my self-comforting.
+What if the stories are not under the spotlight then? I don’t quite believe in fairness and criminals may also get away with their crimes. However, I conjecture that their minds will be altered in a way that could prevent them from (originally reachable) greater success, i.e., they could have used the same skill/time for sth greater. But again, different ppl may value different things (what I value is apparently different from many men lol) and it’s hard to define one’s success. Also, that might just be self-consolation.
 
 I have a hypothesis that one’s mind is largely shaped by her childhood. Boys that were harrassed become gays. Girls that got infected become neat freaks. Those who didn’t feel love don’t know how to trust, and those who saw lies understand words matter. Some are born dreamers, some players. And dreamers always dream, players always play. 
 
