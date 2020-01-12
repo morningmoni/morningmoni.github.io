@@ -1,4 +1,4 @@
-**This is a collection of (random) words that I wrote or found. **
+**This is a collection of (random) pieces that I wrote or found. **
 
 Hopefully I can keep updating it :)
 
