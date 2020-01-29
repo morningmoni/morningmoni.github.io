@@ -1,10 +1,10 @@
 **This is a collection of (random) pieces that I wrote or found. **
 
-Hopefully I can keep updating it :)
+[Updated on 2020-01-28]
 
 [TOC]
 
-
+[Updated on 2020-01-28]
 
 ## 伪文言文
 
@@ -392,7 +392,11 @@ it's impossible to enjoy idling thoroughly unless one has plenty of work to do.
 
 后来许多人问我一个人夜晚踟蹰路上的心情，我想起的却不是孤单和路长，而是波澜壮阔的海和天空中闪耀的星光 《走吧张小砚》
 
-“Today I will do what others won't, so tomorrow I can do what others can't” ---Jerry Rice
+“Today I will do what others won't, so tomorrow I can do what others can't” 	--- Jerry Rice
+
+"Reason is, and ought only to be the slave of the passions, and can never pretend to any other office than to serve and obey them" 		--- David Hume
+
+I'll prove your decision is wrong by getting stronger.
 
 
 
@@ -469,6 +473,8 @@ I'm a fool out of love 'cause I just can't get enough — The Show
 I still have plenty of time, but there is no more for you.
 
 Don't fall for me when I am capable of leaving.
+
+休即未能休，且待三更见日头
 
 
 
