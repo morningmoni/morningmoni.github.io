@@ -1,10 +1,8 @@
 **This is a collection of (random) pieces that I wrote or found. **
 
-[Updated on 2020-01-28]
+[Updated on 2020-03-11]
 
 [TOC]
-
-[Updated on 2020-01-28]
 
 ## 伪文言文
 
@@ -464,17 +462,27 @@ I'm a fool out of love 'cause I just can't get enough — The Show
 
 -- "Love is a strong word"
 
--- "I acknowledge your existence then"
+-- "I acknowledge your existence"
 
 
 
-人们总是相信自己愿意相信的事情，就像你相信我喜欢你，我不相信你喜欢我。
+人们总是相信自己愿意相信的事情，就像你相信我喜欢你，我相信你不喜欢我。
 
 I still have plenty of time, but there is no more for you.
 
 Don't fall for me when I am capable of leaving.
 
 休即未能休，且待三更见日头
+
+一个人爱上小溪，是因为没有见过大海
+可我已见过银河，但我只爱一颗星
+
+我爱你，但我与你都是平等的、自由的。
+
+像你这样的人
+我除了喜欢你，还能有什么办法
+你说的每句漫不经心的话
+全在我心上开成漫山遍野的花
 
 
 
@@ -591,6 +599,8 @@ Everyone is a murderer and a murderee #EverybodySucks
 Dreamers always dream. Players always play.
 
 I am home where I am.
+
+"There are decades where nothing happens, and there are weeks where decades happen." — Vladimir Lenin.
 
 
 
