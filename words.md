@@ -1,6 +1,6 @@
 **This is a collection of (random) pieces that I wrote or found. **
 
-[Updated on 2020-03-11]
+[Updated on 2020-04-04]
 
 [TOC]
 
@@ -524,6 +524,8 @@ Someday, someone will best me. But it won't be today, and it won't be you.
 
 The only thing you should know is that you know nothing.
 
+Your stupidity is eclipsed by your laziness.
+
 一段感情能给你带来多少酸楚，就曾给你带来多少幸福；一段代码曾给你带来多少痛苦，就能给你带来多少满足
 
 写代码易，调试不易，且行且珍惜。
@@ -572,6 +574,8 @@ take your time to tell a lie
 
 no rest, no mercy, no matter what
 
+A cynic is what an idealist calls a realist.   --- Yes Minister.
+
 
 
 ## More Random
@@ -601,6 +605,8 @@ Dreamers always dream. Players always play.
 I am home where I am.
 
 "There are decades where nothing happens, and there are weeks where decades happen." — Vladimir Lenin.
+
+Democracy doesn't account for stupidity
 
 
 
