@@ -1,6 +1,6 @@
 **This is a collection of (random) pieces that I wrote or found. **
 
-[Updated on 2020-04-04]
+[Updated on 2020-05-16]
 
 [TOC]
 
@@ -575,6 +575,8 @@ take your time to tell a lie
 no rest, no mercy, no matter what
 
 A cynic is what an idealist calls a realist.   --- Yes Minister.
+
+世有paper，然后有ddl。ddl常有，而paper不常有。
 
 
 
