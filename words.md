@@ -1,6 +1,6 @@
-**This is a collection of (random) pieces that I wrote or found. **
+**This is a collection of (random) pieces that I wrote or found.  Nothing about tech/coding ;)**
 
-[Updated on 2020-05-16]
+[Updated on 2020-08-02]
 
 [TOC]
 
@@ -484,6 +484,8 @@ Don't fall for me when I am capable of leaving.
 你说的每句漫不经心的话
 全在我心上开成漫山遍野的花
 
+Love is like shamoo, it takes a while to find the right one.
+
 
 
 I'm a virus in the air. I'm looking for some host. So don't get too close, or you may get cough.
@@ -668,8 +670,19 @@ What if someone simply doesn’t have any morality and doesn’t even care? The 
 
 What if the stories are not under the spotlight then? I don’t quite believe in fairness and criminals may also get away with their crimes. However, I conjecture that their minds will be altered in a way that could prevent them from (originally reachable) greater success, i.e., they could have used the same skill/time for sth greater. But again, different ppl may value different things (what I value is apparently different from many men lol) and it’s hard to define one’s success. Also, that might just be self-consolation.
 
-I have a hypothesis that one’s mind is largely shaped by her childhood. Boys that were harrassed become gays. Girls that got infected become neat freaks. Those who didn’t feel love don’t know how to trust, and those who saw lies understand words matter. Some are born dreamers, some players. And dreamers always dream, players always play. 
+I have a hypothesis that one’s mind is largely shaped by her childhood. Boys that were harassed become gays. Girls that got infected become neat freaks. Those who didn’t feel love don’t know how to trust, and those who saw lies understand words matter. Some are born dreamers, some players. And dreamers always dream, players always play. 
 
 That being said, people still change over time after growing up. Every time when I look back at what I did a while ago, I would find myself an idiot. Perhaps this is a good thing, implying I am still not too old to learn. Plus, there is really not much I feel I should regret (if any). 
 
 People tend to take kindness for granted and only learn from badness. In a blink, it is already the end of the first decade. Hopefully, we all learned a lesson in 2019.
+
+
+
+## 2020-08-02 TBC
+
+It's been quite a while since I wrote something (random) and then I realized 2020 has passed 58%! The future is always hard to predict, especially for a high-entropy year like 2020. This year is both long and short, with some mixed feelings perhaps for everyone. When I checked what I have done so far, it seems like there is nothing eventful compared to previous years. Maybe I can only comfort myself with the facts that I am still exploring the unknown (publishing papers incidentally) and having fun with music (beginning to learn blues harp this summer). 
+
+It has been more than 4 months since the stay-at-home order was issued on March 20. Although I never hoarded any food, there was some awful flashback in my head too. Now, however, it feels like ppl are getting used to their new lifestyle. Well, at least me. Or rather, it didn't even influence me as much. Anyhow, there is not much fun outdoors among the cornfield here, and perhaps the only difference is that I changed from dine-in to food delivery... In the past 4 months, I only met one person I know, which might seem unbelievable or unacceptable to some but apparently my brain is totally fine with it (now who is the real introvert lol). It's hard to explain why I enjoy being alone. It's not that I don't need others‘ company, but somehow it seems like I don't really need in-person interactions (glad that we invented internet) since many years ago. So what have changed me?
+
+TBC...
+
