@@ -34,7 +34,7 @@ $(function(){
 
 var H = 0;
 $(document).bind('mousemove', function(e) {
-    e.preventDefault();
+    // e.preventDefault();
 
     var drawSize = 30;
     var drawType = "✮";
