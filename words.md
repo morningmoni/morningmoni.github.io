@@ -486,6 +486,8 @@ Don't fall for me when I am capable of leaving.
 
 Love is like shamoo, it takes a while to find the right one.
 
+Be good yourself. Be better together.
+
 
 
 I'm a virus in the air. I'm looking for some host. So don't get too close, or you may get cough.
