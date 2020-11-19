@@ -89,3 +89,4 @@ setInterval(function() {
         $("#song").remove();
     }
 
+console.log("morningmoni: hey, you are not supposed to be here (*╹▽╹*)");

@@ -1,6 +1,6 @@
-**This is a collection of (random) pieces that I wrote or found.  Nothing about tech/coding ;)**
+**This is a collection of (random) pieces that I wrote or found.  Spoiler: nothing about tech/coding ;)**
 
-[Updated on 2020-08-02]
+[Updated on 2020-11-19]
 
 [TOC]
 
@@ -394,7 +394,9 @@ it's impossible to enjoy idling thoroughly unless one has plenty of work to do.
 
 "Reason is, and ought only to be the slave of the passions, and can never pretend to any other office than to serve and obey them" 		--- David Hume
 
-I'll prove your decision is wrong by getting stronger.
+I'll prove your decision wrong by getting stronger.
+
+If you're going to be weird, be confident about it.
 
 
 
@@ -613,6 +615,8 @@ I am home where I am.
 "There are decades where nothing happens, and there are weeks where decades happen." — Vladimir Lenin.
 
 Democracy doesn't account for stupidity
+
+How can I grow exponentially if I work sublinearly?
 
 
 
