@@ -1,6 +1,6 @@
 **This is a collection of (random) pieces that I wrote or found.  Spoiler: nothing about tech/coding ;)**
 
-[Updated on 2020-11-19]
+[Updated on 2021-01-03]
 
 [TOC]
 
@@ -586,9 +586,9 @@ A cynic is what an idealist calls a realist.   --- Yes Minister.
 
 
 
-## More Random
+## Emotion
 
-I do what I want when I am wanting to.  --- bad guy
+I do what I want when I am wanting to. 
 
 I want to be a bad guy but I don't have enough time. 
 
@@ -612,11 +612,13 @@ Dreamers always dream. Players always play.
 
 I am home where I am.
 
-"There are decades where nothing happens, and there are weeks where decades happen." — Vladimir Lenin.
+"There are decades where nothing happens, and there are weeks where decades happen."
 
 Democracy doesn't account for stupidity
 
 How can I grow exponentially if I work sublinearly?
+
+弃我去者，昨日之日不可留；乱我心者，今日之日多烦忧。
 
 
 
