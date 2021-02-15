@@ -1,49 +1,64 @@
 var theater = new TheaterJS();
 var words = [
-    "Sometimes he is funny, but for most of the time he is silent (and he likes to be).",
-    "He is not interested in holidays and festivals",
-    "and usually work everyday (now taking Saturdays off),",
+    "He is ISTJ-A as of 2021 Feb",
+    // work
+    "He is not (that) interested in holidays and festivals",
+    "and usually work everyday,",
     "but not the whole day.",
+    "I'd say he has pretty good WLB.",
+    "He works mainly for fun.",
     "He is not a fan of catching deadlines.",
-    "He is not a fan of Japanese anime and sport events either.",
+
+    // hobby
+    "He is not a fan of anime or sport events either.",
     "He is keen on coding and music.",
-    "He plays the piano and guitar",
+    "He plays the piano and guitar (and other stuff too)",
     "and sings,",
     "and is quite obsessed.",
-    "He works out,",
+    "He works out twice a week,",
     "mainly for feeling good when looking into the mirror before shower.",
     "He also tries to lose extra fat,",
     "although he is fit in general.",
-    "He has a bad memory for trivial things,",
-    "but not the important stuff (usually).",
-    "He is both sensitive and numb.",
     "He loves nature",
-    "and used to keep all kinds of animals that can be fed indoors,",
-    "esp. ants. (#AntLoveForever)",
-    "He is timid in social conflicts and life danger,",
-    "but willing to help usually.",
-    "He does not want to make promises that cannot be kept.",
-    "He tries not to lie.",
-    "You may count on him.",
-    "He is responsive most of the time.",
-    "PM me if he doesn't reply to u :)",
-    "He is independent",
-    "and self-motivated.",
-    "He is quite disciplined and sticks to his (very strict) schedule",
-    "like sleeping before 0:30",
+    "and used to have all kinds of animals,",
+    "like ants. (#AntLoveForever)",
+
+    // self
+    "Sometimes he is funny, but for most of the time he is silent (and he enjoys it).",
+    "He has a bad memory for trivial things,",
+    "but not the important stuff if he cares (usually).",
+    "He is independent and barely (needs to) ask for help from others.",
+    "He is still ambitious and don't wanna lose faith,",
+    "although life appears to have set him a limit (#NEVER SETTLE).",
+    "He is quite disciplined and sticks to his schedule",
+    "like sleeping before 1:00",
     "He is hesitant and discreet,",
     "which makes him avoid many dangers but also lose many potential chances.",
-    "He never found the one he is looking for,",
-    "despite there have been quite a few girls (like 5 to 6 bits as I know of) who care(d) for him since high school.",
-    "I know... I couldn't believe that either.",
     "He did plenty of fun things in the past,",
     "ask him directly if you wanna know more.",
+    
+    // others
+    "He doesn't like to be taken for granted,",
+    "and only willing to help those who appreciate it.",
+    "He doesn't want to make promises that cannot be kept.",
+    "He tries not to lie.",
+    "He is responsive most of the time,",
+    "and may feel insecure if those he cares don't reply.",
+    "He doesn't want to hand in the switch of his emotions easily",
+    "which gives others the chance of hurting him.",
+    "He never found the one he is looking for,",
+    "despite there have been quite a few who cared for him since high school.",
+    "But he did learn and grow along the way.",
+    "He wants to love others,",
+    "but he loves himself too.",
     "Oh, one last thing",
-    "He works mainly for fun."];
+    "Send him the secret code if you have read this:",
+    "almctettaeaicltuurtaeihilbhuosdtaorsh",
+];
 
 theater
-    .describe("morningmoni", .8, "#morningmoni")
-    .describe("guest", .9, "#guest");
+    .describe("morningmoni", .9, "#morningmoni")
+    .describe("guest", .93, "#guest");
 
 theater
     .on("say:start, erase:start", function (eventName) {

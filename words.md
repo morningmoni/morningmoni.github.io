@@ -1,6 +1,6 @@
 **This is a collection of (random) pieces that I wrote or found.  Spoiler: nothing about tech/coding ;)**
 
-[Updated on 2021-01-03]
+[Updated on 2021-04-12]
 
 [TOC]
 
@@ -348,41 +348,15 @@ I just could not say hi.
 
 ## Life
 
-New York is 3 hours ahead of California,
-but it does not make California slow.
-Someone graduated at the age of 22,
-but waited 5 years before securing a good job.
-Someone became a CEO at 25,
-and died at 50.
-While another became a CEO at 50,
-and lived to 90 years.
-Someone is still single,
-while someone else got married.
-Obama retires at 55,
-but Trump starts at 70.
-Absolutely everyone in this world works based on their Time Zone.
-People around you might seem to go ahead of you,
-some might seem to be behind you.
-But everyone is running their own RACE, in their own TIME.
-Don’t envy them or mock them.
-They are in their TIME ZONE, and you are in yours.
-Life is about waiting for the right moment to act.
-So, RELAX.
-You’re not LATE.
-You’re not EARLY.
-You are very much ON TIME, and in your TIME ZONE Destiny set up for you.
+> There are doubts in my mind, then bleach me; There are shadows in my heart, then light me; **You are a monster. You fight and never die.**
 
-
+I am the master of my fate and the captain of my soul
 
 Chance favors the prepared mind & Fortune favors the bold
 
 你必须非常努力才能看起来毫不费力
 
-I am the master of my fate and the captain of my soul
-
 If you are still looking for that one person who will change your life, take a look in the mirror.
-
-There are doubts in my mind, then bleach me; There are shadows in my heart, then light me; **You are a monster. You fight and never die.**
 
 Death never stops to rest. Neither can we.
 
@@ -394,23 +368,59 @@ it's impossible to enjoy idling thoroughly unless one has plenty of work to do.
 
 "Reason is, and ought only to be the slave of the passions, and can never pretend to any other office than to serve and obey them" 		--- David Hume
 
-I'll prove your decision wrong by getting stronger.
+Every soil where he is well is to a valiant man his natural country.
+
+> New York is 3 hours ahead of California,
+> but it does not make California slow.
+> Someone graduated at the age of 22,
+> but waited 5 years before securing a good job.
+> Someone became a CEO at 25,
+> and died at 50.
+> While another became a CEO at 50,
+> and lived to 90 years.
+> Someone is still single,
+> while someone else got married.
+> Obama retires at 55,
+> but Trump starts at 70.
+> Absolutely everyone in this world works based on their Time Zone.
+> People around you might seem to go ahead of you,
+> some might seem to be behind you.
+> But everyone is running their own RACE, in their own TIME.
+> Don’t envy them or mock them.
+> They are in their TIME ZONE, and you are in yours.
+> Life is about waiting for the right moment to act.
+> So, RELAX.
+> You’re not LATE.
+> You’re not EARLY.
+> You are very much ON TIME, and in your TIME ZONE Destiny set up for you.
 
 If you're going to be weird, be confident about it.
+
+有独立性格的人，懂得照顾自己，在事情处理妥帖后能尽情享受生活。 他们不常倾诉，因自己的苦难自己有能力消释。 他们很少表现出攻击性，因内心强大而生出一种体恤式的温柔。 他们不被廉价的言论与情感煽动，坚持自己的判断不后悔。 喜欢这样的人，也因他们并不在乎别人是否喜欢他们。
 
 
 
 ## Love
 
-Some people try to find the right one, while some try to be.
+> Some people try to find the one, while some try to be.
 
-Don't try so hard, the best things come when you least expect them to
+I'm a virus in the air. I'm looking for some host. So don't get too close, or you may get cough.
+
+I'm a virus in the air. I'm innocuous for the time. But heed what's happening, in case I wake up in the morning.
+
+I'm a virus in the air. I'm pacific in the wind, but seemingly not in your flesh. You shall get thirsty, thrilled, twisted. You shall rip your vessels and crush your heart. You shall deify the illusion in your mind. You shall crawl on the ground for whole day long. 
+
+So don't come. You never ever did, and never ever will.
+
+
 
 Tried to let go. Almost succeeded
 
-我渴望能见你一面，但请你记得，我不会开口要求见你。这不是因为骄傲，你知道我在你面前毫无骄傲可言，而是因为，唯有你也想见我的时候，我们见面才有意义。——西蒙娜·德·波伏娃《越洋情书》
+believe betray beseech
 
-远远看去优美而神秘的人和事，只要拉近了看，就明白原来他们既不神秘也不优美。——《追忆似水年华》
+forever forsake forgive forget
+
+no hope no dupe
 
 I am too cautious to start a wrong relationship. I am too surreal to be real.
 
@@ -420,7 +430,31 @@ I am so sensitive that I act more like TCP than UDP.
 
 I'm a vessel, filled with other souls.
 
-If fate is linear time-invariant, then a time shifting may help.
+footloose and fancy-free
+
+人们总是相信自己愿意相信的事情，就像你相信我喜欢你，我相信你不喜欢我。
+
+我怕我爱上她，她爱上我；也怕我不再爱她，她不再爱我
+
+I still have plenty of time, but there is no more for you.
+
+Don't fall for me when I am capable of leaving.
+
+Love is like shampoo, it takes a while to find the one.
+
+Be good yourself. Be better together.
+
+Rain or shine, I will be by your side.
+
+
+
+---
+
+Don't try so hard, the best things come when you least expect them to
+
+我渴望能见你一面，但请你记得，我不会开口要求见你。这不是因为骄傲，你知道我在你面前毫无骄傲可言，而是因为，唯有你也想见我的时候，我们见面才有意义。——西蒙娜·德·波伏娃《越洋情书》
+
+远远看去优美而神秘的人和事，只要拉近了看，就明白原来他们既不神秘也不优美。——《追忆似水年华》
 
 
 
@@ -435,70 +469,6 @@ If fate is linear time-invariant, then a time shifting may help.
 你这么低调，可是我为什么这么没有安全感？
 
 因为我害怕，每一个真正接触过你的人，都会爱上你。
-
-
-
-The world's full of lonely people afraid to make the first move.      — Green Book
-
-若能避开猛烈的狂喜 ，自然也不会有悲痛的来袭   — 人间失格
-
-Fate is worth the wait  — Strawberries & Cigarettes 
-
-Loneliness is just a crime  — Say hello
-
-你是我患得患失的梦，我是你可有可无的人。 毕竟这穿越山河的箭，刺的都是用情至疾的人 — 写给黄淮
-
-乍见的欢喜 潦草的散席 — 过境
-
-Why do we choose to chase what we'll lose? — Jar of love
-
-footloose and fancyfree
-
-I'm a fool out of love 'cause I just can't get enough — The Show
-
-木叶纷纷归路，残月晓风何处。消息竟沉沉，今夜相思几许。秋雨，秋雨，一半因风吹去。— 纳兰性德
-
-我怕我爱上她，她爱上我；也怕我不再爱她，她不再爱我
-
--- "I love you"
-
--- "Love is a strong word"
-
--- "I acknowledge your existence"
-
-
-
-人们总是相信自己愿意相信的事情，就像你相信我喜欢你，我相信你不喜欢我。
-
-I still have plenty of time, but there is no more for you.
-
-Don't fall for me when I am capable of leaving.
-
-休即未能休，且待三更见日头
-
-一个人爱上小溪，是因为没有见过大海
-可我已见过银河，但我只爱一颗星
-
-我爱你，但我与你都是平等的、自由的。
-
-像你这样的人
-我除了喜欢你，还能有什么办法
-你说的每句漫不经心的话
-全在我心上开成漫山遍野的花
-
-Love is like shamoo, it takes a while to find the right one.
-
-Be good yourself. Be better together.
-
-
-
-I'm a virus in the air. I'm looking for some host. So don't get too close, or you may get cough.
-
-I'm a virus in the air. I'm innocuous for the time. But heed what's happening, in case I wake up in the morning.
-
-I'm a virus in the air. I'm pacific in the wind, but seemingly not in your flesh. You shall get thirsty, thrilled, twisted. You shall rip your vessels and crush your heart. You shall deify the illusion in your mind. You shall crawl on the ground for whole day long. 
-
-So don't come. You never ever did, and never ever will.
 
 
 
@@ -520,55 +490,63 @@ Please do NOT reply directly to this email.
 
 
 
+The world's full of lonely people afraid to make the first move.      — Green Book
+
+若能避开猛烈的狂喜 ，自然也不会有悲痛的来袭   — 人间失格
+
+Fate is worth the wait  — Strawberries & Cigarettes 
+
+Loneliness is just a crime  — Say hello
+
+你是我患得患失的梦，我是你可有可无的人。 毕竟这穿越山河的箭，刺的都是用情至疾的人 — 写给黄淮
+
+乍见的欢喜 潦草的散席 — 过境
+
+Why do we choose to chase what we'll lose? — Jar of love
+
+I'm a fool out of love 'cause I just can't get enough — The Show
+
+木叶纷纷归路，残月晓风何处。消息竟沉沉，今夜相思几许。秋雨，秋雨，一半因风吹去。— 纳兰性德
+
+-- "I love you"
+
+-- "Love is a strong word"
+
+-- "I acknowledge your existence"
+
+休即未能休，且待三更见日头
+
+一个人爱上小溪，是因为没有见过大海
+可我已见过银河，但我只爱一颗星
+
+像你这样的人
+我除了喜欢你，还能有什么办法
+你说的每句漫不经心的话
+全在我心上开成漫山遍野的花
+
+傍晚的阳光金黄而辽远，四季交替如此温情， 你迟到了许多年，可我依然为你的到来无比欣喜， 哦等一下，我要裁一段星河赠你， 人间烟火错落，你也不能逊色。
+
+I am your partner, not your therapist.
+
+
+
 ## Random
-
-I know who I am, but you don't know who you are.
-
-have no fear of perfect. u'll never reach it
-
-Someday, someone will best me. But it won't be today, and it won't be you. 
-
-The only thing you should know is that you know nothing.
-
-Your stupidity is eclipsed by your laziness.
 
 一段感情能给你带来多少酸楚，就曾给你带来多少幸福；一段代码曾给你带来多少痛苦，就能给你带来多少满足
 
 写代码易，调试不易，且行且珍惜。
 
-代码未动，算法先行
-
 想要实例化的时候，却还都是抽象类
 
 设想很美好，deadline太早
 
-Oh my life, is changing everyday, in every possible way  — Dreams
-
 The guy, dead before getting shot in the head, told a lie for a rest.
-
-Our consciousness creates the present, just as it creates the past, from many distributed clues scattered in our mind.
-
-Every soil where he is well is to a valiant man his natural country.
-
-尘缘尘梦尘虞泪，缘深缘浅缘是罪。若水若云若魂飞，梦痴梦醒梦千回。
-
-from womb to tomb, we are bound to others, past and present.
-
-上院初，下院暮，仰思百年菁菁路，留园玉兰顾；江川渡，剑川宿，樱花蓁蓁怡情驻，饮水思源处。
-
-Mystery is not about travelling, but looking with new eyes. Philosophy is not to learn, but to feel.
 
 what makes a real man fake, himself or the world?
 
-nothing is as beautiful as an elegant equation translated into a perfect engineering
-
 Too awkward to move forward.
 
-no hope no dupe
-
-believe betray beseech
-
-forever forsake forgive forget
+If fate is linear time-invariant, then a time shifting may help.
 
 遗忘需要功
 
@@ -578,15 +556,43 @@ lolls around on the ground
 
 take your time to tell a lie
 
-no rest, no mercy, no matter what
-
-A cynic is what an idealist calls a realist.   --- Yes Minister.
-
 世有paper，然后有ddl。ddl常有，而paper不常有。
 
 
 
-## Emotion
+---
+
+I know who I am, but you don't know who you are.
+
+Have no fear of perfect. You'll never reach it
+
+Someday, someone will best me. But it won't be today, and it won't be you. 
+
+The only thing you should know is that you know nothing.
+
+Your stupidity is eclipsed by your laziness --- Westworld
+
+Oh my life, is changing everyday, in every possible way  — Dreams
+
+Our consciousness creates the present, just as it creates the past, from many distributed clues scattered in our mind.
+
+尘缘尘梦尘虞泪，缘深缘浅缘是罪。若水若云若魂飞，梦痴梦醒梦千回。
+
+from womb to tomb, we are bound to others, past and present.
+
+上院初，下院暮，仰思百年菁菁路，留园玉兰顾；江川渡，剑川宿，樱花蓁蓁怡情驻，饮水思源处。
+
+Mystery is not about travelling, but looking with new eyes. Philosophy is not to learn, but to feel.
+
+no rest, no mercy, no matter what
+
+A cynic is what an idealist calls a realist.   --- Yes Minister.
+
+少年有他的山海， 有他的重重山影， 有他的万里波涛。 如果可以， 风给他， 沙漠给他， 天空也给他。 是无拘无束的风， 是会下大雨的沙漠， 是铺满星辰的天空。 万物给他， 让他自由。
+
+
+
+## Mumbles
 
 I do what I want when I am wanting to. 
 
@@ -620,6 +626,8 @@ How can I grow exponentially if I work sublinearly?
 
 弃我去者，昨日之日不可留；乱我心者，今日之日多烦忧。
 
+The objective of life is too hard to optimize.
+
 
 
 ##  2019-07-04 Afterthoughts on [\<Nymphomaniac\>](https://www.imdb.com/title/tt1937390/)
@@ -642,7 +650,7 @@ And yet, I hypothesize sexuality is what genes force us to do, even without us r
 
 
 
-## 2019-07-26 I am the center of the world
+## 2019-07-26 Everybody is the center of the world
 
 <img src="https://morningmoni.github.io/words_img/word_center.jpg" style="zoom: 33%;" />
 
