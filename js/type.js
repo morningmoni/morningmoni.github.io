@@ -42,6 +42,7 @@ var words = [
     "and only willing to help those who appreciate it.",
     "He doesn't want to make promises that cannot be kept.",
     "He tries not to lie.",
+    "He thinks he has found the one.",
     "Oh, one last thing",
     "Send him the secret code if you have read this:",
     "almctettaeaicltuurtaeihilbhuosdtaorsh",
