@@ -39,10 +39,10 @@ var words = [
     "and only willing to help those who appreciate it.",
     "He doesn't want to make promises that cannot be kept.",
     "He tries not to lie.",
-    "And",
+    "And...",
     "He thinks he has found the one.",
     "Oh, one last thing",
-    "Send him the secret code if you have read this:",
+    "Send him the secret code in correct order if you have read this:",
     "almctettaeaicltuurtaeihilbhuosdtaorsh",
 ];
 
