@@ -84,7 +84,7 @@ setInterval(function() {
     }else{
         //alert("引用手机端文件");
         $("#scene").remove()
-        // $("#scene2").remove()
+        $("#star").remove()
         $("#movie").remove();
         $("#song").remove();
     }
