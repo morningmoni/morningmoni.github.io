@@ -25,6 +25,7 @@
 	<link href="css/bootstrap-social.css" rel="stylesheet">
 	<link href="css/mystyle.css" rel="stylesheet">
 	<link href="css/type.css" rel="stylesheet">
+	<link href="css/home.css" rel="stylesheet">
 	<!-- =======================================================
         Theme Name: Bocor
         Theme URL: https://bootstrapmade.com/bocor-bootstrap-template-nice-animation/
@@ -36,7 +37,7 @@
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-custom">
 
-	<section class="hero" id="intro">
+	<section class="hero" id="intro" style="position:relative">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 text-right navicon">
@@ -104,6 +105,7 @@
              </div> -->
 
 		</div>
+		<p class="text-center" style="position:absolute;bottom:20px;left:0;width:90%;padding:0 20px;margin:0;font-size:14px;color:white;text-shadow:0 1px 3px #000">This conversation was ahead of its time. No LLMs involved.</p>
 	</section>
 
 
@@ -161,11 +163,8 @@
 				<div class="col-lg-8 col-lg-offset-2">
 					<div class="animatedParent">
 						<div class="section-heading text-center animated bounceInDown">
-							<h2 class="h-bold">About Me &nbsp; &nbsp;
-								<img src="static/headshot.png" alt="headshot"
-									style="border-radius: 50%; height: 15%; width: 15%">
-							</h2>
-							<!-- <div class="divider-header"></div> -->
+							<h2 class="h-bold">About Me</h2>
+							<div class="divider-header"></div>
 						</div>
 					</div>
 				</div>
@@ -177,29 +176,27 @@
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2 animatedParent">
 					<div class="text-left">
-						<p>Hi, human / crawler!
-							<br>
-							<br>
-							I am Yuning Mao <a target="_blank"
-								href="https://translate.google.com/?rlz=1C1GCEA_enUS761US761&um=1&ie=UTF-8&hl=en&client=tw-ob#view=home&op=translate&sl=zh-CN&tl=en&text=%E6%AF%9B%E5%AE%87%E5%AE%81"
+						<div class="about-intro">
+							<img class="about-portrait" src="static/headshot.png" alt="Yuning Mao" width="128" height="128">
+							<div>
+							<p class="about-greeting">Hi, human / agent!</p>
+						<p>I am <strong>Yuning Mao</strong> <a target="_blank" aria-label="Pronounce Yuning Mao in Chinese"
+								href="https://translate.google.com/?rlz=1C1GCEA_enUS761US761&um=1&ie=UTF-8&hl=en&client=tw-ob#view=home&op=translate&sl=zh-CN&tl=en&text=%E6%AF%9B%E5%AE%87%E5%AE%81">
 								<i class="fa fa-volume-down"></i></a>
-							<img height="3%" width="8%" src="static/Chinese_name2.png">, a research scientist at Meta
+							<img class="chinese-name" src="static/Chinese_name2.png" alt="毛宇宁">, a research scientist at TBD, Meta
 						 Superintelligence Labs.
+							I lead visual coding and we do lots of fun stuff in the intersection of coding, agent, multimodal, and design.
+							We look for candidates with strong experience in AI for webdev, gamedev, 3d modeling, professional knowledge work, computer use, ... (you get the idea :)
+						</p>
+							</div>
+						</div>
+
+						<p>
 							I received my Ph.D degree in Computer Science from the University of Illinois at
 							Urbana–Champaign (UIUC), where I was a member of <a
 								href="https://scholar.google.com/citations?user=Kv9AbjMAAAAJ" target="_blank">Prof.
 								Jiawei Han</a>'s <a href="http://dm1.cs.uiuc.edu/alumni.html" target="_blank">Group</a>.
 							I received my Bachelor's degree from the IEEE Class, Shanghai Jiao Tong University (SJTU).
-						</p>
-
-						<p>
-							My research goal is to help humans acquire information and knowledge more effectively and
-							efficiently.
-
-							At Meta, I have been developing large language models (Llama
-							series🦙). I am one of the founding members of Meta GenAI org. Most recently, I've been focused on LLM for code generation, in particular generating websites, animations, and games. Previously, I was a core contributor of Llama 2 and Llama 3 working on post-training.
-							During PhD, I worked on a range of topics such as text
-							summarization and generation, question answering, and parameter-efficient fine-tuning.
 						</p>
 						<p>
 							Misc:
@@ -256,6 +253,7 @@
 								target="_blank">Meta AI assistant</a> in Instagram, Whatsapp, and Messenger, which is
 							also coming to Ray-Ban Meta smart glasses and Quest 3.
 						</p>
+						<div class="collapse" id="news-content">
 						<p>
 							[2023-07] We released <a href="https://ai.meta.com/llama/" target="_blank">Llama 2</a>, a
 							collection of pretrained and fine-tuned LLMs <a href="https://arxiv.org/abs/2307.09288"
@@ -316,6 +314,14 @@
 						<!-- <p>[2017-02-07] The paper "<a href="https://arxiv.org/abs/1608.04468" target="_blank">Unbiased
 								Learning-to-Rank with Biased Feedback</a>" in which I was acknowledged received WSDM
 							2017 best paper award.</p> -->
+						</div>
+						<div class="text-center">
+							<button type="button" class="collapsed" data-toggle="collapse"
+								data-target="#news-content" aria-expanded="false" aria-controls="news-content" aria-label="Show more news"
+								style="background:none;border:0;padding:10px 20px;color:inherit;font-size:24px;cursor:pointer">
+								<span class="fa fa-angle-down" aria-hidden="true"></span>
+							</button>
+						</div>
 					</div>
 				</div>
 
@@ -436,22 +442,21 @@
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2 animatedParent">
 					<div>
-						<ul>
-							<b><a href="https://www.linkedin.com/in/morningmoni/" target="_blank">[Work
-									Experience@LinkedIn]</a></b>
+						<p class="section-link"><a href="https://www.linkedin.com/in/morningmoni/" target="_blank">Full experience on LinkedIn <span aria-hidden="true">↗</span></a></p>
+						<ul class="experience-list">
 
-							<li> <b>Meta AI</a></b>
+							<li> <b>Meta Superintelligence Labs</b>
 								<br>
 								Research Scientist
 								<br>
 								<em>June 2022 -- Present</em>
-								<br>🦙Leading visual coding - generating websites, animations, games, etc.
+								<br>Leading visual coding efforts at TBD, at the intersection of coding, agent, multimodal, and design.
 
-								<br>Core contributor of Llama 2 and Llama 3 Post-training
+								<br>Previously, core contributor of Llama 2 and Llama 3 post-training.
 							</li>
 							<br>
 
-							<li> <b>Facebook AI</a></b>
+							<li> <b>Facebook AI</b>
 								<br>
 								Research Intern, AI Integrity & FAIR
 								<br>
@@ -504,34 +509,34 @@
 							</li>
 						</ul>
 
-						<br>
-						<ol>
-							<b><a>Professional Services</a></b>
-							<ul>• Area Chair of NeurIPS</ul>
-							<ul>• Area Chair of ACL Rolling Review</ul>
-
-						</ol>
-
-						<br>
-						<ol>
-							<b><a>Research Interns</a></b>
-							<ul>• 2025: Vijay Viswanathan (CMU), Yun‑yun Tsai (Columbia), Zhenrui Yue (UIUC), Yida Chen (Harvard)</ul>
-							<ul>• 2024: Xianjun Yang (UCSB), Tim Franzmeyer (Oxford), Yiqing Xie (CMU) </ul>
-							<ul>• 2023: Suyu Ge (UIUC), Mikayel Samvelyan (UCL), Kexun Zhang (UCSB) </ul>
-							<ul>• 2022: Anastasiia Razdaibiedina (UToronto), Jaehyung Kim (KAIST), Yu Meng (UIUC), Tiezheng Yu (HKUST) </ul>
-
-						</ol>
-
-						<br>
-						<ol>
-							<b><a>Awards</a></b>
+						<div class="experience-details">
+						<section class="experience-detail">
+							<h3>Professional Services</h3>
+							<ul>
+								<li>Area Chair of NeurIPS</li>
+								<li>Area Chair of ACL Rolling Review</li>
+							</ul>
+						</section>
+						<section class="experience-detail interns-detail">
+							<h3>Research Interns</h3>
+							<dl class="intern-list">
+								<dt>2025</dt><dd>Vijay Viswanathan (CMU), Yun‑yun Tsai (Columbia), Zhenrui Yue (UIUC), Yida Chen (Harvard)</dd>
+								<dt>2024</dt><dd>Xianjun Yang (UCSB), Tim Franzmeyer (Oxford), Yiqing Xie (CMU)</dd>
+								<dt>2023</dt><dd>Suyu Ge (UIUC), Mikayel Samvelyan (UCL), Kexun Zhang (UCSB)</dd>
+								<dt>2022</dt><dd>Anastasiia Razdaibiedina (UToronto), Jaehyung Kim (KAIST), Yu Meng (UIUC), Tiezheng Yu (HKUST)</dd>
+							</dl>
+						</section>
+						<section class="experience-detail">
+							<h3>Awards</h3>
+							<ul>
 							<li>Yunni & Maxine Pao Memorial Fellowship 2021-2022</li>
 							<li>KDD'20 Student Travel Award 2020</li>
 							<li>China National Scholarship (twice, top 2 within major) 2015-2017</li>
 							<li>Academic Excellence Scholarship of SJTU (rank 1/72 for 3 of 6 semesters) 2014-2017</li>
 							<li>First Prize in RoboCup China (top 2 team) 2014, 2015</li>
-
-						</ol>
+							</ul>
+						</section>
+						</div>
 
 						<!-- <br>
 						<ol>
@@ -584,54 +589,59 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2 animatedParent">
-					<b>Only selected publications during my PhD are listed below</b><br>
-					<b><a href='https://scholar.google.com/citations?user=steJe6IAAAAJ&hl=en' target="_blank">[Full
-							list@Google Scholar]</a></b>
+					<p class="publication-intro">From my PhD.<br>
+						<a href="https://scholar.google.com/citations?user=steJe6IAAAAJ&hl=en" target="_blank">Full list on Google Scholar <span aria-hidden="true">↗</span></a></p>
 
 					<div>
 
 						<ol>
 							<li>
-								<b>Yuning Mao</b>, Ming Zhong, Jiawei Han, "CiteSum: Citation Text-guided Scientific
-								Extreme Summarization and Low-resource Domain Adaptation", <b>EMNLP 2022</b>
-								<a href="https://arxiv.org/abs/2205.06207" target="_blank">[paper]
-									<a href="https://github.com/morningmoni/CiteSum" target="_blank">[code]</a>
+								<h3 class="paper-title">CiteSum: Citation Text-guided Scientific Extreme Summarization and Low-resource Domain Adaptation</h3>
+								<p class="paper-authors"><b>Yuning Mao</b>, Ming Zhong, Jiawei Han</p>
+								<div class="paper-meta"><span class="paper-venue">EMNLP 2022</span>
+									<a href="https://arxiv.org/abs/2205.06207" target="_blank">paper</a> <a href="https://github.com/morningmoni/CiteSum" target="_blank">code</a>
+								</div>
 							</li>
 							<!-- <li>
 								Ming Zhong, Yang Liu, Suyu Ge, <b>Yuning Mao</b>, Yizhu Jiao, Xingxing Zhang, Yichong Xu, Chenguang Zhu, Michael Zeng, Jiawei Han, “Unsupervised Summarization with Customized Granularities”, <b>arXiv 2022</b>
 								<a href="https://arxiv.org/abs/2201.12502" target="_blank">[paper]</a>
 							</li> -->
 							<li>
-								<b>Yuning Mao</b>, Lambert Mathias, Rui Hou, Amjad Almahairi, Hao Ma, Jiawei Han,
-								Wen-tau Yih, Madian Khabsa, “UniPELT: A Unified Framework for Parameter-Efficient
-								Language Model Tuning”, <b>ACL 2022</b>
-								<a href="https://arxiv.org/abs/2110.07577" target="_blank">[paper]</a>
-								<a href="https://github.com/morningmoni/UniPELT" target="_blank">[code]</a>
+								<h3 class="paper-title">UniPELT: A Unified Framework for Parameter-Efficient Language Model Tuning</h3>
+								<p class="paper-authors"><b>Yuning Mao</b>, Lambert Mathias, Rui Hou, Amjad Almahairi, Hao Ma, Jiawei Han, Wen-tau Yih, Madian Khabsa</p>
+								<div class="paper-meta"><span class="paper-venue">ACL 2022</span>
+									<a href="https://arxiv.org/abs/2110.07577" target="_blank">paper</a> <a href="https://github.com/morningmoni/UniPELT" target="_blank">code</a>
+								</div>
 							</li>
-							<li>Yiqing Xie, Jiaming Shen, Sha Li, <b>Yuning Mao</b>, Jiawei Han, “Eider:
-								Evidence-enhanced Document-level Relation Extraction”, <b>Findings of ACL 2022</b>.
-								<a href="https://arxiv.org/abs/2106.08657" target="_blank">[paper]</a>
-								<a href="https://github.com/Veronicium/Eider" target="_blank">[code]</a>
-							</li>
-
-							<li> <b>Yuning Mao</b>, Wenchang Ma, Deren Lei, Jiawei Han, Xiang Ren, "Extract, Denoise and
-								Enforce: Evaluating and Improving Concept Preservation for Text-to-Text Generation",
-								<b>EMNLP 2021</b>.
-								<a href="https://arxiv.org/abs/2104.08724" target="_blank">[paper]</a>
-								<a href="https://github.com/morningmoni/EDE" target="_blank">[code]</a>
+							<li>
+								<h3 class="paper-title">Eider: Evidence-enhanced Document-level Relation Extraction</h3>
+								<p class="paper-authors">Yiqing Xie, Jiaming Shen, Sha Li, <b>Yuning Mao</b>, Jiawei Han</p>
+								<div class="paper-meta"><span class="paper-venue">Findings of ACL 2022</span>
+									<a href="https://arxiv.org/abs/2106.08657" target="_blank">paper</a> <a href="https://github.com/Veronicium/Eider" target="_blank">code</a>
+								</div>
 							</li>
 
-							<li> <b>Yuning Mao</b>, Pengcheng He, Xiaodong Liu, Yelong Shen, Jianfeng Gao, Jiawei Han,
-								Weizhu Chen, "Reader-Guided Passage Reranking for Open-Domain Question Answering",
-								<b>Findings of ACL 2021</b>.
-								<a href="https://arxiv.org/abs/2101.00294" target="_blank">[paper]</a>
-								<a href="https://github.com/morningmoni/GAR" target="_blank">[code]</a>
+							<li>
+								<h3 class="paper-title">Extract, Denoise and Enforce: Evaluating and Improving Concept Preservation for Text-to-Text Generation</h3>
+								<p class="paper-authors"><b>Yuning Mao</b>, Wenchang Ma, Deren Lei, Jiawei Han, Xiang Ren</p>
+								<div class="paper-meta"><span class="paper-venue">EMNLP 2021</span>
+									<a href="https://arxiv.org/abs/2104.08724" target="_blank">paper</a> <a href="https://github.com/morningmoni/EDE" target="_blank">code</a>
+								</div>
 							</li>
-							<li> <b>Yuning Mao</b>, Pengcheng He, Xiaodong Liu, Yelong Shen, Jianfeng Gao, Jiawei Han,
-								Weizhu Chen, "Generation-Augmented Retrieval for Open-domain Question Answering", <b>ACL
-									2021</b>.
-								<a href="https://arxiv.org/abs/2009.08553" target="_blank">[paper]</a>
-								<a href="https://github.com/morningmoni/GAR" target="_blank">[code]</a>
+
+							<li>
+								<h3 class="paper-title">Reader-Guided Passage Reranking for Open-Domain Question Answering</h3>
+								<p class="paper-authors"><b>Yuning Mao</b>, Pengcheng He, Xiaodong Liu, Yelong Shen, Jianfeng Gao, Jiawei Han, Weizhu Chen</p>
+								<div class="paper-meta"><span class="paper-venue">Findings of ACL 2021</span>
+									<a href="https://arxiv.org/abs/2101.00294" target="_blank">paper</a> <a href="https://github.com/morningmoni/GAR" target="_blank">code</a>
+								</div>
+							</li>
+							<li>
+								<h3 class="paper-title">Generation-Augmented Retrieval for Open-domain Question Answering</h3>
+								<p class="paper-authors"><b>Yuning Mao</b>, Pengcheng He, Xiaodong Liu, Yelong Shen, Jianfeng Gao, Jiawei Han, Weizhu Chen</p>
+								<div class="paper-meta"><span class="paper-venue">ACL 2021</span>
+									<a href="https://arxiv.org/abs/2009.08553" target="_blank">paper</a> <a href="https://github.com/morningmoni/GAR" target="_blank">code</a>
+								</div>
 							</li>
 
 
@@ -644,49 +654,60 @@
 								<a href="https://github.com/JieyuZ2/TMN" target="_blank">[code]</a>
 							</li> -->
 
-							<li> <b>Yuning Mao</b>, Xiang Ren, Heng Ji, Jiawei Han, "Constrained Abstractive
-								Summarization: Preserving Factual Consistency with Constrained Generation", <b>arXiv
-									2020</b>.
-								<a href="https://arxiv.org/abs/2010.12723" target="_blank">[paper]</a>
-								<a href="https://github.com/morningmoni/EDE" target="_blank">[code]</a>
+							<li>
+								<h3 class="paper-title">Constrained Abstractive Summarization: Preserving Factual Consistency with Constrained Generation</h3>
+								<p class="paper-authors"><b>Yuning Mao</b>, Xiang Ren, Heng Ji, Jiawei Han</p>
+								<div class="paper-meta"><span class="paper-venue">arXiv 2020</span>
+									<a href="https://arxiv.org/abs/2010.12723" target="_blank">paper</a> <a href="https://github.com/morningmoni/EDE" target="_blank">code</a>
+								</div>
 							</li>
 
-							<li><b>Yuning Mao</b>, Yanru Qu, Yiqing Xie, Xiang Ren and Jiawei Han, "Multi-document
-								Summarization with Maximal Marginal Relevance-guided Reinforcement Learning", <b>EMNLP
-									2020</b>.
-								<a href="https://arxiv.org/abs/2010.00117" target="_blank">[paper]</a>
-								<a href="https://github.com/morningmoni/RL-MMR" target="_blank">[code]</a>
+							<li>
+								<h3 class="paper-title">Multi-document Summarization with Maximal Marginal Relevance-guided Reinforcement Learning</h3>
+								<p class="paper-authors"><b>Yuning Mao</b>, Yanru Qu, Yiqing Xie, Xiang Ren and Jiawei Han</p>
+								<div class="paper-meta"><span class="paper-venue">EMNLP 2020</span>
+									<a href="https://arxiv.org/abs/2010.00117" target="_blank">paper</a> <a href="https://github.com/morningmoni/RL-MMR" target="_blank">code</a>
+								</div>
 							</li>
 							<!-- <li> Deren Lei, Gangrong Jiang, Xiaotao Gu, Kexuan Sun, <b>Yuning Mao</b> and Xiang Ren, “Learning Collaborative Agents with Rule Guidance for Knowledge Graph Reasoning”,  <b>EMNLP 2020</b>.
 								<a href="https://arxiv.org/abs/2005.00571" target="_blank">[paper]</a>
 								<a href="https://github.com/derenlei/KG-RuleGuider" target="_blank">[code]</a>
 							</li> -->
-							<li><b>Yuning Mao</b>, Tong Zhao, Andrey Kan, Chenwei Zhang, Xin Luna Dong, Christos
-								Faloutsos and Jiawei Han, "Octet: Online Catalog Taxonomy Enrichment with
-								Self-Supervision", <b>KDD 2020</b>.
-								<a href="https://arxiv.org/abs/2006.10276" target="_blank">[paper]</a> <a
-									href="https://youtu.be/i41MzH-eTTQ">[video]</a>
+							<li>
+								<h3 class="paper-title">Octet: Online Catalog Taxonomy Enrichment with Self-Supervision</h3>
+								<p class="paper-authors"><b>Yuning Mao</b>, Tong Zhao, Andrey Kan, Chenwei Zhang, Xin Luna Dong, Christos Faloutsos and Jiawei Han</p>
+								<div class="paper-meta"><span class="paper-venue">KDD 2020</span>
+									<a href="https://arxiv.org/abs/2006.10276" target="_blank">paper</a> <a href="https://youtu.be/i41MzH-eTTQ">video</a>
+								</div>
 							</li>
-							<li><b>Yuning Mao</b>, Liyuan Liu, Qi Zhu, Xiang Ren, Jiawei Han, "Facet-Aware Evaluation
-								for Extractive Summarization", <b>ACL 2020</b>.
-								<a href="https://arxiv.org/abs/1908.10383" target="_blank">[paper]</a>
-								<a href="https://github.com/morningmoni/FAR" target="_blank">[code]</a>
+							<li>
+								<h3 class="paper-title">Facet-Aware Evaluation for Extractive Summarization</h3>
+								<p class="paper-authors"><b>Yuning Mao</b>, Liyuan Liu, Qi Zhu, Xiang Ren, Jiawei Han</p>
+								<div class="paper-meta"><span class="paper-venue">ACL 2020</span>
+									<a href="https://arxiv.org/abs/1908.10383" target="_blank">paper</a> <a href="https://github.com/morningmoni/FAR" target="_blank">code</a>
+								</div>
 							</li>
-							<li>Xiaotao Gu, <b>Yuning Mao</b>, Jiawei Han, Jialu Liu, You Wu, Cong Yu, Daniel Finnie,
-								Hongkun Yu, Jiaqi Zhai, Nicholas Zukoski, "Generating Representative Headlines for News
-								Stories", <b>WWW 2020</b>.
-								<a href="https://arxiv.org/abs/2001.09386" target="_blank">[paper]</a>
-								<a href="https://github.com/google-research-datasets/NewSHead"
-									target="_blank">[code]</a>
+							<li>
+								<h3 class="paper-title">Generating Representative Headlines for News Stories</h3>
+								<p class="paper-authors">Xiaotao Gu, <b>Yuning Mao</b>, Jiawei Han, Jialu Liu, You Wu, Cong Yu, Daniel Finnie, Hongkun Yu, Jiaqi Zhai, Nicholas Zukoski</p>
+								<div class="paper-meta"><span class="paper-venue">WWW 2020</span>
+									<a href="https://arxiv.org/abs/2001.09386" target="_blank">paper</a> <a href="https://github.com/google-research-datasets/NewSHead" target="_blank">code</a>
+								</div>
 							</li>
-							<li><b>Yuning Mao</b>, Jingjing Tian, Jiawei Han and Xiang Ren, "Hierarchical Text
-								Classification with Reinforced Label Assignment", <b>EMNLP 2019</b>. <a
-									href="https://arxiv.org/abs/1908.10419" target="_blank">[paper]</a> <a
-									href="https://github.com/morningmoni/HiLAP" target="_blank">[code]</a></li>
-							<li><b>Yuning Mao</b>, Xiang Ren, Jiaming Shen, Xiaotao Gu and Jiawei Han, "End-to-End
-								Reinforcement Learning for Automatic Taxonomy Induction", <b>ACL 2018</b>. <a
-									href="https://arxiv.org/abs/1805.04044" target="_blank">[paper]</a> <a
-									href="https://github.com/morningmoni/TaxoRL" target="_blank">[code]</a></li>
+							<li>
+								<h3 class="paper-title">Hierarchical Text Classification with Reinforced Label Assignment</h3>
+								<p class="paper-authors"><b>Yuning Mao</b>, Jingjing Tian, Jiawei Han and Xiang Ren</p>
+								<div class="paper-meta"><span class="paper-venue">EMNLP 2019</span>
+									<a href="https://arxiv.org/abs/1908.10419" target="_blank">paper</a> <a href="https://github.com/morningmoni/HiLAP" target="_blank">code</a>
+								</div>
+							</li>
+							<li>
+								<h3 class="paper-title">End-to-End Reinforcement Learning for Automatic Taxonomy Induction</h3>
+								<p class="paper-authors"><b>Yuning Mao</b>, Xiang Ren, Jiaming Shen, Xiaotao Gu and Jiawei Han</p>
+								<div class="paper-meta"><span class="paper-venue">ACL 2018</span>
+									<a href="https://arxiv.org/abs/1805.04044" target="_blank">paper</a> <a href="https://github.com/morningmoni/TaxoRL" target="_blank">code</a>
+								</div>
+							</li>
 							<!-- 					  <li>Z. Tan, C. Liu, <b>Yuning Mao</b> et al. "AceMap: A Novel Approach towards Displaying Relationship among Academic Literatures" in proceedings of WWW, workshop on Big Scholarly Data: Towards the Web of Scholars, Montreal, Canada, 2016.</li>
 					  <li>J. Shen, Z. Song, S. Li, Z. Tan, <b>Yuning Mao</b> et al. "Modeling Topic-level Academic Influence in Scientific Literatures" in proceedings of AAAI, workshop on Scholarly Big Data, Phoenix, AZ, US, 2016</li> -->
 						</ol>
@@ -770,6 +791,22 @@
 	<!-- Core JavaScript Files -->
 	<script src="js/jquery.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
+	<script>
+		$('#news-content').on('show.bs.collapse hide.bs.collapse', function (event) {
+			var expanded = event.type === 'show';
+			$('[aria-controls="news-content"]').attr('aria-label', expanded ? 'Show less news' : 'Show more news');
+			$('[aria-controls="news-content"]').attr('aria-expanded', String(expanded))
+				.find('.fa').toggleClass('fa-angle-down', !expanded).toggleClass('fa-angle-up', expanded);
+		}).on('hidden.bs.collapse', function () {
+			var heading = document.querySelector('#news .section-heading');
+			var navigation = document.getElementById('navigation');
+			var topPadding = navigation.getBoundingClientRect().height + 16;
+			var headingTop = heading.getBoundingClientRect().top;
+			if (headingTop < topPadding) {
+				window.scrollTo(0, Math.max(0, window.pageYOffset + headingTop - topPadding));
+			}
+		});
+	</script>
 	<script src="js/jquery.sticky.js"></script>
 	<script src="js/jquery.easing.min.js"></script>
 	<script src="js/jquery.scrollTo.js"></script>
